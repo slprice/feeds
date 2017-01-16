@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="http://www.gocomics.com/frankandernest/">
+<title>Frank and Ernest by Thaves</title>
+<link>http://www.gocomics.com/frankandernest/</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/16" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/15" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/14" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/13" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/12" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/11" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/01/10" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/16">
+<title>Frank and Ernest by Thaves - Jan 16, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/06299700b5ab01342b15005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/15">
+<title>Frank and Ernest by Thaves - Jan 15, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/15</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/f0810200acab01341c30005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/14">
+<title>Frank and Ernest by Thaves - Jan 14, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/14</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/8cfcd730b01401342229005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/13">
+<title>Frank and Ernest by Thaves - Jan 13, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/13</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/8acb3440b01401342229005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/12">
+<title>Frank and Ernest by Thaves - Jan 12, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/12</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/88e65e00b01401342229005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/11">
+<title>Frank and Ernest by Thaves - Jan 11, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/11</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/86a43810b01401342229005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/01/10">
+<title>Frank and Ernest by Thaves - Jan 10, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/01/10</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/84717540b01401342229005056a9545d" />]]></description>
+</item>
+</rdf:RDF>

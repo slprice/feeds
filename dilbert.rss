@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="http://dilbert.com/">
+<title>Dilbert by Scott Adams</title>
+<link>http://dilbert.com/</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-16" />
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-15" />
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-14" />
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-13" />
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-12" />
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-11" />
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-10" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-16">
+<title>Dilbert - Rather Eat Garbage - Monday January 16, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-16</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b8fe3d00b3f8013428f5005056a9545d&#x22; title=&#x22;Rather Eat Garbage - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+<item rdf:about="http://dilbert.com/strip/2017-01-15">
+<title>Dilbert -  - Sunday January 15, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-15</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9a71dd00acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+<item rdf:about="http://dilbert.com/strip/2017-01-14">
+<title>Dilbert - Fairness Is For Kids And Idiots - Saturday January 14, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f4f165d0ae6b01341f1d005056a9545d&#x22; title=&#x22;Fairness Is For Kids And Idiots - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+<item rdf:about="http://dilbert.com/strip/2017-01-13">
+<title>Dilbert - New Hire Makes More - Friday January 13, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f33d7ed0ae6b01341f1d005056a9545d&#x22; title=&#x22;New Hire Makes More - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+<item rdf:about="http://dilbert.com/strip/2017-01-12">
+<title>Dilbert - Coaching Alice - Thursday January 12, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-12</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f187cbb0ae6b01341f1d005056a9545d&#x22; title=&#x22;Coaching Alice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+<item rdf:about="http://dilbert.com/strip/2017-01-11">
+<title>Dilbert - Coaching Ted - Wednesday January 11, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-11</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/eeb6a390ae6b01341f1d005056a9545d&#x22; title=&#x22;Coaching Ted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+<item rdf:about="http://dilbert.com/strip/2017-01-10">
+<title>Dilbert - Ted Is Doing A Terrible Job - Tuesday January 10, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-10</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ecf9a570ae6b01341f1d005056a9545d&#x22; title=&#x22;Ted Is Doing A Terrible Job - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
+</rdf:RDF>

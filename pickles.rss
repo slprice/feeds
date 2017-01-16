@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="http://www.gocomics.com/pickles/">
+<title>Pickles by Brian Crane</title>
+<link>http://www.gocomics.com/pickles/</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/16" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/15" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/14" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/13" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/12" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/11" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2017/01/10" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/16">
+<title>Pickles by Brian Crane - Jan 16, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/f4838700b59401342af8005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/15">
+<title>Pickles by Brian Crane - Jan 15, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/15</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ef4ec5b0b8fc01342ece005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/14">
+<title>Pickles by Brian Crane - Jan 14, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/14</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/7da361d0ae8201341f49005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/13">
+<title>Pickles by Brian Crane - Jan 13, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/13</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/76175850ae8201341f49005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/12">
+<title>Pickles by Brian Crane - Jan 12, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/12</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/787f5fd0ae8201341f49005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/11">
+<title>Pickles by Brian Crane - Jan 11, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/11</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/7aea3e50ae8201341f49005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2017/01/10">
+<title>Pickles by Brian Crane - Jan 10, 2017</title>
+<link>http://www.gocomics.com/pickles/2017/01/10</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/72fb2380ae8201341f49005056a9545d" />]]></description>
+</item>
+</rdf:RDF>

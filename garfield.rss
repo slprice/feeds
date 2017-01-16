@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="http://www.gocomics.com/garfield/">
+<title>Garfield by Jim Davis</title>
+<link>http://www.gocomics.com/garfield/</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/16" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/15" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/14" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/13" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/12" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/11" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/01/10" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/16">
+<title>Garfield by Jim Davis - Jan 16, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d3f84df0acb201341c1f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/15">
+<title>Garfield by Jim Davis - Jan 15, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/15</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/f2526100acb201341c1f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/14">
+<title>Garfield by Jim Davis - Jan 14, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/14</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d264dcc0acb201341c1f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/13">
+<title>Garfield by Jim Davis - Jan 13, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/13</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d0baebf0acb201341c1f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/12">
+<title>Garfield by Jim Davis - Jan 12, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/12</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ce382f50acb201341c1f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/11">
+<title>Garfield by Jim Davis - Jan 11, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/11</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/cc760fa0acb201341c1f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2017/01/10">
+<title>Garfield by Jim Davis - Jan 10, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/01/10</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ca888030acb201341c1f005056a9545d" />]]></description>
+</item>
+</rdf:RDF>
