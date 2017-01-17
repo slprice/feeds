@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/11" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/01/10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2017/01/17">
+<title>Wizard of Id by Parker and Hart - Jan 17, 2017</title>
+<link>http://www.gocomics.com/wizardofid/2017/01/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/f99b3340b90c01342edd005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2017/01/16">
 <title>Wizard of Id by Parker and Hart - Jan 16, 2017</title>
 <link>http://www.gocomics.com/wizardofid/2017/01/16</link>
@@ -55,10 +60,5 @@
 <title>Wizard of Id by Parker and Hart - Jan 11, 2017</title>
 <link>http://www.gocomics.com/wizardofid/2017/01/11</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/e2471ea0b25f0134262a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2017/01/10">
-<title>Wizard of Id by Parker and Hart - Jan 10, 2017</title>
-<link>http://www.gocomics.com/wizardofid/2017/01/10</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/d9b79060b25f0134262a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
