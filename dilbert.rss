@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-18">
+<title>Dilbert - The Illusion Of Work - Wednesday January 18, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/bc7ebe70b3f8013428f5005056a9545d&#x22; title=&#x22;The Illusion Of Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-01-17">
 <title>Dilbert - Elbonians Jumping Off Roof - Tuesday January 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Coaching Alice - Thursday January 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f187cbb0ae6b01341f1d005056a9545d&#x22; title=&#x22;Coaching Alice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-11">
-<title>Dilbert - Coaching Ted - Wednesday January 11, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/eeb6a390ae6b01341f1d005056a9545d&#x22; title=&#x22;Coaching Ted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
