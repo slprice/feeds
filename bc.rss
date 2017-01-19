@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/01/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2017/01/19">
+<title>B.C. by Mastroianni and Hart - Jan 19, 2017</title>
+<link>http://www.gocomics.com/bc/2017/01/19</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/dd3c69a0b90c01342edd005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2017/01/18">
 <title>B.C. by Mastroianni and Hart - Jan 18, 2017</title>
 <link>http://www.gocomics.com/bc/2017/01/18</link>
@@ -55,10 +60,5 @@
 <title>B.C. by Mastroianni and Hart - Jan 13, 2017</title>
 <link>http://www.gocomics.com/bc/2017/01/13</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/b9247940b25f0134262a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/01/12">
-<title>B.C. by Mastroianni and Hart - Jan 12, 2017</title>
-<link>http://www.gocomics.com/bc/2017/01/12</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/bb4d75f0b25f0134262a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
