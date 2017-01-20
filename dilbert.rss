@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-14" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-20">
+<title>Dilbert - Remember Or Rumor - Friday January 20, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-20</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c0187630b3f8013428f5005056a9545d&#x22; title=&#x22;Remember Or Rumor - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-01-19">
 <title>Dilbert - Wally&#x27;s Red File Gets Him Out Of Work - Thursday January 19, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-19</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Fairness Is For Kids And Idiots - Saturday January 14, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-14</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f4f165d0ae6b01341f1d005056a9545d&#x22; title=&#x22;Fairness Is For Kids And Idiots - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-13">
-<title>Dilbert - New Hire Makes More - Friday January 13, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-13</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f33d7ed0ae6b01341f1d005056a9545d&#x22; title=&#x22;New Hire Makes More - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
