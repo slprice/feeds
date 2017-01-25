@@ -16,16 +16,21 @@
 <description>Hi and Lois is a classic American comic strip created by Mort Walker and Dik Browne. The strip portrays a portrait of a wholesome family with traditional values and modern-day sensibilities. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNF8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyM18xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pc19ocy4yMDE3MDEyMl8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyMV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyMF8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOV8xNDQwLmdpZg==" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOF8xNDQwLmdpZg==" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNV8xNDQwLmdpZg==">
+<title>Hi and Lois Comic Strip for January 25, 2017</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNV8xNDQwLmdpZg==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNV8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNV8xNDQwLmdpZg==" alt="Hi and Lois Comic Strip for January 25, 2017" /><br />Hi and Lois Comic Strip for January 25, 2017</a><br /><a href="http://comicskingdom.com/hi-and-lois/2017-01-25/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNF8xNDQwLmdpZg==">
 <title>Hi and Lois Comic Strip for January 24, 2017</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDEyNF8xNDQwLmdpZg==</link>
@@ -55,10 +60,5 @@
 <title>Hi and Lois Comic Strip for January 19, 2017</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOV8xNDQwLmdpZg==</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOV8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOV8xNDQwLmdpZg==" alt="Hi and Lois Comic Strip for January 19, 2017" /><br />Hi and Lois Comic Strip for January 19, 2017</a><br /><a href="http://comicskingdom.com/hi-and-lois/2017-01-19/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOF8xNDQwLmdpZg==">
-<title>Hi and Lois Comic Strip for January 18, 2017</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOF8xNDQwLmdpZg==</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOF8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxNy8wMS9IaV9hbmRfTG9pcy4yMDE3MDExOF8xNDQwLmdpZg==" alt="Hi and Lois Comic Strip for January 18, 2017" /><br />Hi and Lois Comic Strip for January 18, 2017</a><br /><a href="http://comicskingdom.com/hi-and-lois/2017-01-18/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
