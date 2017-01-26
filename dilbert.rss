@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-26">
+<title>Dilbert - Boss Tweets Sexist Stuff - Thursday January 26, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-26</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/daeb2aa0b8c401342e7b005056a9545d&#x22; title=&#x22;Boss Tweets Sexist Stuff - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-01-25">
 <title>Dilbert - Boss Tweets Racist Stuff - Wednesday January 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Remember Or Rumor - Friday January 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-20</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c0187630b3f8013428f5005056a9545d&#x22; title=&#x22;Remember Or Rumor - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-19">
-<title>Dilbert - Wally&#x27;s Red File Gets Him Out Of Work - Thursday January 19, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-19</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/be300c60b3f8013428f5005056a9545d&#x22; title=&#x22;Wally&#x27;s Red File Gets Him Out Of Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
