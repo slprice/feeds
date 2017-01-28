@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-28">
+<title>Dilbert - Tricky To Be An Optimist - Saturday January 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/de97e090b8c401342e7b005056a9545d&#x22; title=&#x22;Tricky To Be An Optimist - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-01-27">
 <title>Dilbert - Boss Tweets Fake News - Friday January 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday January 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9e1d4b20acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-21">
-<title>Dilbert - Secret Red File - Saturday January 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c1ccda60b3f8013428f5005056a9545d&#x22; title=&#x22;Secret Red File - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
