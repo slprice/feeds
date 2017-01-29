@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-29">
+<title>Dilbert -  - Sunday January 29, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a24cc380acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-01-28">
 <title>Dilbert - Tricky To Be An Optimist - Saturday January 28, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally&#x27;s Coffee Ideas - Monday January 23, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d50a0540b8c401342e7b005056a9545d&#x22; title=&#x22;Wally&#x27;s Coffee Ideas - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-22">
-<title>Dilbert -  - Sunday January 22, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9e1d4b20acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
