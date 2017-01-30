@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-01-30">
+<title>Dilbert - Robotic Hair Transplant - Monday January 30, 2017  </title>
+<link>http://dilbert.com/strip/2017-01-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/bc209bd0bc0d013432bd005056a9545d&#x22; title=&#x22;Robotic Hair Transplant - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-01-29">
 <title>Dilbert -  - Sunday January 29, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Trust The Boss - Tuesday January 24, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d7239400b8c401342e7b005056a9545d&#x22; title=&#x22;Trust The Boss - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-23">
-<title>Dilbert - Wally&#x27;s Coffee Ideas - Monday January 23, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d50a0540b8c401342e7b005056a9545d&#x22; title=&#x22;Wally&#x27;s Coffee Ideas - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
