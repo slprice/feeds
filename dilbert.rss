@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-30" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-05">
+<title>Dilbert -  - Sunday February 05, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-05</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a63e5ee0acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-04">
 <title>Dilbert - Days Off Versus More Pay - Saturday February 04, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-04</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Robotic Hair Transplant - Monday January 30, 2017  </title>
 <link>http://dilbert.com/strip/2017-01-30</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/bc209bd0bc0d013432bd005056a9545d&#x22; title=&#x22;Robotic Hair Transplant - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-29">
-<title>Dilbert -  - Sunday January 29, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-29</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a24cc380acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
