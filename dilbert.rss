@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-01-31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-07">
+<title>Dilbert - Standup Meeting - Tuesday February 07, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-07</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/de97aab0c3cb01343b54005056a9545d&#x22; title=&#x22;Standup Meeting - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-06">
 <title>Dilbert - Agile Methodology - Monday February 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Robot Lawyer Has Comments - Wednesday February 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-01</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c0377c30bc0d013432bd005056a9545d&#x22; title=&#x22;Robot Lawyer Has Comments - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-01-31">
-<title>Dilbert - Robot Lawyer Writes Gibberish - Tuesday January 31, 2017  </title>
-<link>http://dilbert.com/strip/2017-01-31</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/be0512d0bc0d013432bd005056a9545d&#x22; title=&#x22;Robot Lawyer Writes Gibberish - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
