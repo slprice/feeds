@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-08">
+<title>Dilbert - Keeping The Boss Away - Wednesday February 08, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e06e1520c3cb01343b54005056a9545d&#x22; title=&#x22;Keeping The Boss Away - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-07">
 <title>Dilbert - Standup Meeting - Tuesday February 07, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Doesn&#x27;t Open Email - Thursday February 02, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c18ef890bc0d013432bd005056a9545d&#x22; title=&#x22;Wally Doesn&#x27;t Open Email - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-01">
-<title>Dilbert - Robot Lawyer Has Comments - Wednesday February 01, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c0377c30bc0d013432bd005056a9545d&#x22; title=&#x22;Robot Lawyer Has Comments - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
