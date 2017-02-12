@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-06" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-12">
+<title>Dilbert -  - Sunday February 12, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-12</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f0d6eb20b60f01342b9b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-11">
 <title>Dilbert - Estimating Software Completion - Saturday February 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-11</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Agile Methodology - Monday February 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-06</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dcd58d30c3cb01343b54005056a9545d&#x22; title=&#x22;Agile Methodology - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-05">
-<title>Dilbert -  - Sunday February 05, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-05</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a63e5ee0acb001341c1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
