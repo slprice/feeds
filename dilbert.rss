@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-09" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-15">
+<title>Dilbert - Resources Complain - Wednesday February 15, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-15</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/063e2560c94f013441df005056a9545d&#x22; title=&#x22;Resources Complain - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-14">
 <title>Dilbert - Looks Good But Won&#x27;t Work - Tuesday February 14, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-14</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Faking Their Own Deaths - Thursday February 09, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-09</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e235bd90c3cb01343b54005056a9545d&#x22; title=&#x22;Faking Their Own Deaths - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-08">
-<title>Dilbert - Keeping The Boss Away - Wednesday February 08, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-08</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e06e1520c3cb01343b54005056a9545d&#x22; title=&#x22;Keeping The Boss Away - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
