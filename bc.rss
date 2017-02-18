@@ -17,12 +17,7 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/14" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/02/12" />
  </rdf:Seq>
 </items>
 </channel>
@@ -31,34 +26,9 @@
 <link>http://www.gocomics.com/bc/2017/02/18</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/6e8c2810cf0d013448be005056a9545d" />]]></description>
 </item>
-<item rdf:about="http://www.gocomics.com/bc/2017/02/17">
-<title>B.C. by Mastroianni and Hart - Feb 17, 2017</title>
-<link>http://www.gocomics.com/bc/2017/02/17</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/72ce3dd0cf0d013448be005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/02/16">
-<title>B.C. by Mastroianni and Hart - Feb 16, 2017</title>
-<link>http://www.gocomics.com/bc/2017/02/16</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/7734c280cf0d013448be005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/02/15">
-<title>B.C. by Mastroianni and Hart - Feb 15, 2017</title>
-<link>http://www.gocomics.com/bc/2017/02/15</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/78d6eba0cf0d013448be005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/bc/2017/02/14">
 <title>B.C. by Mastroianni and Hart - Feb 14, 2017</title>
 <link>http://www.gocomics.com/bc/2017/02/14</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/70ee0d80cf0d013448be005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/02/13">
-<title>B.C. by Mastroianni and Hart - Feb 13, 2017</title>
-<link>http://www.gocomics.com/bc/2017/02/13</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/74cfff00cf0d013448be005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/02/12">
-<title>B.C. by Mastroianni and Hart - Feb 12, 2017</title>
-<link>http://www.gocomics.com/bc/2017/02/12</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/9265e8c0d2fa01344d64005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
