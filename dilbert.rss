@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-19">
+<title>Dilbert -  - Sunday February 19, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/fe0f5520ba83013430b8005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-18">
 <title>Dilbert - Groomed For Management - Saturday February 18, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bad Optics - Monday February 13, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/02390290c94f013441df005056a9545d&#x22; title=&#x22;Bad Optics - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-12">
-<title>Dilbert -  - Sunday February 12, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f0d6eb20b60f01342b9b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
