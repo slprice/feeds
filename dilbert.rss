@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-21">
+<title>Dilbert - Add Feature To Legacy System - Tuesday February 21, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-21</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/771d9e50cec90134485f005056a9545d&#x22; title=&#x22;Add Feature To Legacy System - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-20">
 <title>Dilbert - Who Wants The Legacy System Job - Monday February 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Resources Complain - Wednesday February 15, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-15</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/063e2560c94f013441df005056a9545d&#x22; title=&#x22;Resources Complain - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-14">
-<title>Dilbert - Looks Good But Won&#x27;t Work - Tuesday February 14, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-14</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/03e515d0c94f013441df005056a9545d&#x22; title=&#x22;Looks Good But Won&#x27;t Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
