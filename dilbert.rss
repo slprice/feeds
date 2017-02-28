@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-02-28">
+<title>Dilbert - Wally&#x27;s Political Views Make Others Uncomfortable - Tuesday February 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-02-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cfaf0760d43401344eb0005056a9545d&#x22; title=&#x22;Wally&#x27;s Political Views Make Others Uncomfortable - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-02-27">
 <title>Dilbert - Wally&#x27;s Political Views - Monday February 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - How Long For New Feature - Wednesday February 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/78da4950cec90134485f005056a9545d&#x22; title=&#x22;How Long For New Feature - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-21">
-<title>Dilbert - Add Feature To Legacy System - Tuesday February 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/771d9e50cec90134485f005056a9545d&#x22; title=&#x22;Add Feature To Legacy System - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
