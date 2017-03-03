@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-25" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-24" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-03">
+<title>Dilbert - Wally Offended Everyone - Friday March 03, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-03</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d48b7510d43401344eb0005056a9545d&#x22; title=&#x22;Wally Offended Everyone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-02">
 <title>Dilbert - Asok Is Offended By Wally - Thursday March 02, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-02</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Is Born For The Job - Saturday February 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-02-25</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7eab4330cec90134485f005056a9545d&#x22; title=&#x22;Wally Is Born For The Job - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-24">
-<title>Dilbert - Taking Pride In Work - Friday February 24, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-24</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7cbbf710cec90134485f005056a9545d&#x22; title=&#x22;Taking Pride In Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
