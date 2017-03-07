@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-02-28" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-07">
+<title>Dilbert - Tina Won&#x27;t Stop Talking - Tuesday March 07, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-07</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/526e6300da8d013455fd005056a9545d&#x22; title=&#x22;Tina Won&#x27;t Stop Talking - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-06">
 <title>Dilbert - No Walking Away - Monday March 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally And Gandhi Have Lots In Common - Wednesday March 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-01</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d146b7b0d43401344eb0005056a9545d&#x22; title=&#x22;Wally And Gandhi Have Lots In Common - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-02-28">
-<title>Dilbert - Wally&#x27;s Political Views Make Others Uncomfortable - Tuesday February 28, 2017  </title>
-<link>http://dilbert.com/strip/2017-02-28</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cfaf0760d43401344eb0005056a9545d&#x22; title=&#x22;Wally&#x27;s Political Views Make Others Uncomfortable - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
