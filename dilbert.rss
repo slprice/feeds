@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-06" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-12">
+<title>Dilbert -  - Sunday March 12, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-12</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1f27c6c0c4fe01343cdb005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-11">
 <title>Dilbert - Avoid Offending Sensitive Idiots - Saturday March 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-11</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - No Walking Away - Monday March 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-06</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/50b892e0da8d013455fd005056a9545d&#x22; title=&#x22;No Walking Away - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-05">
-<title>Dilbert -  - Sunday March 05, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-05</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/17185130c4bb01343c8d005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
