@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-08" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-14">
+<title>Dilbert - Can&#x27;t Take Vacation - Tuesday March 14, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f8a50420e00001345c40005056a9545d&#x22; title=&#x22;Can&#x27;t Take Vacation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-13">
 <title>Dilbert - Actual Company Policy - Monday March 13, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-13</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Honest Opinion But Polite - Wednesday March 08, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-08</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/540e5d60da8d013455fd005056a9545d&#x22; title=&#x22;Honest Opinion But Polite - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-07">
-<title>Dilbert - Tina Won&#x27;t Stop Talking - Tuesday March 07, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-07</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/526e6300da8d013455fd005056a9545d&#x22; title=&#x22;Tina Won&#x27;t Stop Talking - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
