@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-14" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-20">
+<title>Dilbert - Wally Accidentally Invents Coffee Warmer - Monday March 20, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-20</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3152c500e4b801346300005056a9545d&#x22; title=&#x22;Wally Accidentally Invents Coffee Warmer - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-19">
 <title>Dilbert -  - Sunday March 19, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-19</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Can&#x27;t Take Vacation - Tuesday March 14, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-14</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f8a50420e00001345c40005056a9545d&#x22; title=&#x22;Can&#x27;t Take Vacation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-13">
-<title>Dilbert - Actual Company Policy - Monday March 13, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-13</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f6921040e00001345c40005056a9545d&#x22; title=&#x22;Actual Company Policy - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
