@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-22">
+<title>Dilbert - Wally&#x27;s Invention Goes Into Production - Wednesday March 22, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/34c2e800e4b801346300005056a9545d&#x22; title=&#x22;Wally&#x27;s Invention Goes Into Production - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-21">
 <title>Dilbert - Wally Presents His Invention To The Ceo - Tuesday March 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert&#x27;s Vacation Was Tragic - Thursday March 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/38f53950e00201345c44005056a9545d&#x22; title=&#x22;Dilbert&#x27;s Vacation Was Tragic - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-15">
-<title>Dilbert - Craving Vacation - Wednesday March 15, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/fa8f15a0e00001345c40005056a9545d&#x22; title=&#x22;Craving Vacation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
