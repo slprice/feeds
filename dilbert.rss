@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-03-30">
+<title>Dilbert - Wally Didn&#x27;t Write It Down - Thursday March 30, 2017  </title>
+<link>http://dilbert.com/strip/2017-03-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3cc67e10ea5101346b24005056a9545d&#x22; title=&#x22;Wally Didn&#x27;t Write It Down - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-29">
 <title>Dilbert - Wally Is Either Lazy Or Wise - Wednesday March 29, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Gets Promoted - Friday March 24, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/38d6e110e4b801346300005056a9545d&#x22; title=&#x22;Wally Gets Promoted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-23">
-<title>Dilbert - Wally&#x27;s Invention Is The Best Seller Ever - Thursday March 23, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/36edfac0e4b801346300005056a9545d&#x22; title=&#x22;Wally&#x27;s Invention Is The Best Seller Ever - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
