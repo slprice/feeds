@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-26" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-01">
+<title>Dilbert - It&#x27;s Like You Never Existed - Saturday April 01, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-01</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/40a44850ea5101346b24005056a9545d&#x22; title=&#x22;It&#x27;s Like You Never Existed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-03-31">
 <title>Dilbert - Attend A Meeting In My Place - Friday March 31, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-31</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday March 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-03-26</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8d444d20cbcd0134452f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-25">
-<title>Dilbert - Wally&#x27;s Coffee Drone - Saturday March 25, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-25</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3a936200e4b801346300005056a9545d&#x22; title=&#x22;Wally&#x27;s Coffee Drone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
