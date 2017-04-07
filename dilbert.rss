@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-03-31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-07">
+<title>Dilbert - Raising Cyborgs - Friday April 07, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-07</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d32203c0f0820134740b005056a9545d&#x22; title=&#x22;Raising Cyborgs - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-06">
 <title>Dilbert - Judging The Robot - Thursday April 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - It&#x27;s Like You Never Existed - Saturday April 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-01</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/40a44850ea5101346b24005056a9545d&#x22; title=&#x22;It&#x27;s Like You Never Existed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-03-31">
-<title>Dilbert - Attend A Meeting In My Place - Friday March 31, 2017  </title>
-<link>http://dilbert.com/strip/2017-03-31</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3ecb6890ea5101346b24005056a9545d&#x22; title=&#x22;Attend A Meeting In My Place - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
