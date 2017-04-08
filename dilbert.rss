@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-08">
+<title>Dilbert - Breaking Up With Robot - Saturday April 08, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d50ae110f0820134740b005056a9545d&#x22; title=&#x22;Breaking Up With Robot - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-07">
 <title>Dilbert - Raising Cyborgs - Friday April 07, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday April 02, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9083ccd0cbcd0134452f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-04-01">
-<title>Dilbert - It&#x27;s Like You Never Existed - Saturday April 01, 2017  </title>
-<link>http://dilbert.com/strip/2017-04-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/40a44850ea5101346b24005056a9545d&#x22; title=&#x22;It&#x27;s Like You Never Existed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
