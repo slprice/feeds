@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-06" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-12">
+<title>Dilbert - Dilbert Red Pills Asok - Wednesday April 12, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-12</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/393bd800f84501347f5d005056a9545d&#x22; title=&#x22;Dilbert Red Pills Asok - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-11">
 <title>Dilbert - Dilbert Enters The Jargon Matrix - Tuesday April 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-11</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Judging The Robot - Thursday April 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-06</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d194fb10f0820134740b005056a9545d&#x22; title=&#x22;Judging The Robot - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-04-05">
-<title>Dilbert - Better Listener Robot - Wednesday April 05, 2017  </title>
-<link>http://dilbert.com/strip/2017-04-05</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cf81b8a0f0820134740b005056a9545d&#x22; title=&#x22;Better Listener Robot - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
