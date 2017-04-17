@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-17">
+<title>Dilbert - Wally Volunteers For Vr Project - Monday April 17, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dce18530fb7a013483e0005056a9545d&#x22; title=&#x22;Wally Volunteers For Vr Project - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-16">
 <title>Dilbert -  - Sunday April 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert Enters The Jargon Matrix - Tuesday April 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/37ae44a0f84501347f5d005056a9545d&#x22; title=&#x22;Dilbert Enters The Jargon Matrix - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-04-10">
-<title>Dilbert - Asok Is In The Jargon Matrix - Monday April 10, 2017  </title>
-<link>http://dilbert.com/strip/2017-04-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/35b32dc0f84501347f5d005056a9545d&#x22; title=&#x22;Asok Is In The Jargon Matrix - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
