@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-19">
+<title>Dilbert - Evil Orc - Wednesday April 19, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e07fe830fb7a013483e0005056a9545d&#x22; title=&#x22;Evil Orc - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-18">
 <title>Dilbert - Wally&#x27;s Sleep Vr - Tuesday April 18, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Moves Into Bathroom Stall - Thursday April 13, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3b289410f84501347f5d005056a9545d&#x22; title=&#x22;Wally Moves Into Bathroom Stall - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-04-12">
-<title>Dilbert - Dilbert Red Pills Asok - Wednesday April 12, 2017  </title>
-<link>http://dilbert.com/strip/2017-04-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/393bd800f84501347f5d005056a9545d&#x22; title=&#x22;Dilbert Red Pills Asok - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
