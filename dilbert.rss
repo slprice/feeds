@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-21">
+<title>Dilbert - Virtual Vr And Jail Program - Friday April 21, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-21</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e45d02b0fb7a013483e0005056a9545d&#x22; title=&#x22;Virtual Vr And Jail Program - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-20">
 <title>Dilbert - Vr Cubicle - Thursday April 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bug In The Platform - Saturday April 15, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-15</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3eb0c170f84501347f5d005056a9545d&#x22; title=&#x22;Bug In The Platform - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-04-14">
-<title>Dilbert - 3 D Printer Will Save Millions - Friday April 14, 2017  </title>
-<link>http://dilbert.com/strip/2017-04-14</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3d167b00f84501347f5d005056a9545d&#x22; title=&#x22;3 D Printer Will Save Millions - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
