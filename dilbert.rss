@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-04-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-04-27">
+<title>Dilbert - Something About Honesty - Thursday April 27, 2017  </title>
+<link>http://dilbert.com/strip/2017-04-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0322fa00002f01358a9d005056a9545d&#x22; title=&#x22;Something About Honesty - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-04-26">
 <title>Dilbert - Culture As An Asset - Wednesday April 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Virtual Vr And Jail Program - Friday April 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-04-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e45d02b0fb7a013483e0005056a9545d&#x22; title=&#x22;Virtual Vr And Jail Program - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-04-20">
-<title>Dilbert - Vr Cubicle - Thursday April 20, 2017  </title>
-<link>http://dilbert.com/strip/2017-04-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e23fb230fb7a013483e0005056a9545d&#x22; title=&#x22;Vr Cubicle - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
