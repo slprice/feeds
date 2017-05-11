@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-05" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-11">
+<title>Dilbert - Sparing A Robot&#x27;s Feelings - Thursday May 11, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-11</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8a1330b00b5301359a72005056a9545d&#x22; title=&#x22;Sparing A Robot&#x27;s Feelings - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-10">
 <title>Dilbert - Replacing Robot Head - Wednesday May 10, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-10</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Keeping The Hacker Code - Friday May 05, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-05</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/595da1c0067f0135939a005056a9545d&#x22; title=&#x22;Keeping The Hacker Code - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-04">
-<title>Dilbert - Erik Used To Work For The Cia - Thursday May 04, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-04</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5779a9c0067f0135939a005056a9545d&#x22; title=&#x22;Erik Used To Work For The Cia - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
