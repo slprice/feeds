@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-16">
+<title>Dilbert - Robot&#x27;s Head Explodes - Tuesday May 16, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-16</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7096467010c20135a223005056a9545d&#x22; title=&#x22;Robot&#x27;s Head Explodes - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-15">
 <title>Dilbert - Robot Will Self Destruct - Monday May 15, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Replacing Robot Head - Wednesday May 10, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-10</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/87dfde100b5301359a72005056a9545d&#x22; title=&#x22;Replacing Robot Head - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-09">
-<title>Dilbert - Robot Attacks Boss - Tuesday May 09, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-09</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/85ff62200b5301359a72005056a9545d&#x22; title=&#x22;Robot Attacks Boss - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
