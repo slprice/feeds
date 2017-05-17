@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-17">
+<title>Dilbert - Re Accomodation On The Flight - Wednesday May 17, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7297d28010c20135a223005056a9545d&#x22; title=&#x22;Re Accomodation On The Flight - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-16">
 <title>Dilbert - Robot&#x27;s Head Explodes - Tuesday May 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Sparing A Robot&#x27;s Feelings - Thursday May 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8a1330b00b5301359a72005056a9545d&#x22; title=&#x22;Sparing A Robot&#x27;s Feelings - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-10">
-<title>Dilbert - Replacing Robot Head - Wednesday May 10, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/87dfde100b5301359a72005056a9545d&#x22; title=&#x22;Replacing Robot Head - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
