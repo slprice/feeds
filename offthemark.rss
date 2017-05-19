@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2017/05/19">
+<title>Off the Mark by Mark Parisi - May 19, 2017</title>
+<link>http://www.gocomics.com/offthemark/2017/05/19</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/c8ba1b9016740135aa3f005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2017/05/18">
 <title>Off the Mark by Mark Parisi - May 18, 2017</title>
 <link>http://www.gocomics.com/offthemark/2017/05/18</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark by Mark Parisi - May 13, 2017</title>
 <link>http://www.gocomics.com/offthemark/2017/05/13</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/71f9592010f40135a277005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2017/05/12">
-<title>Off the Mark by Mark Parisi - May 12, 2017</title>
-<link>http://www.gocomics.com/offthemark/2017/05/12</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/6ff185a010f40135a277005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
