@@ -19,10 +19,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/17" />
  </rdf:Seq>
 </items>
 </channel>
@@ -41,24 +38,9 @@
 <link>http://www.gocomics.com/dogsofckennel/2017/05/21</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/0c64b2e01ff50135b791005056a9545d" />]]></description>
 </item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2017/05/20">
-<title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - May 20, 2017</title>
-<link>http://www.gocomics.com/dogsofckennel/2017/05/20</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/41234b90155b0135a8b3005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2017/05/19">
-<title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - May 19, 2017</title>
-<link>http://www.gocomics.com/dogsofckennel/2017/05/19</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/3e9777f0155b0135a8b3005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2017/05/18">
 <title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - May 18, 2017</title>
 <link>http://www.gocomics.com/dogsofckennel/2017/05/18</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/438b2ae0155b0135a8b3005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2017/05/17">
-<title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - May 17, 2017</title>
-<link>http://www.gocomics.com/dogsofckennel/2017/05/17</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/3a8f6d70155b0135a8b3005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
