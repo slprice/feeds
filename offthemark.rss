@@ -20,6 +20,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/20" />
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2017/05/17" />
  </rdf:Seq>
@@ -44,6 +45,11 @@
 <title>Off the Mark by Mark Parisi - May 20, 2017</title>
 <link>http://www.gocomics.com/offthemark/2017/05/20</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/ca8a226016740135aa3f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/offthemark/2017/05/19">
+<title>Off the Mark by Mark Parisi - May 19, 2017</title>
+<link>http://www.gocomics.com/offthemark/2017/05/19</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/c8ba1b9016740135aa3f005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/offthemark/2017/05/18">
 <title>Off the Mark by Mark Parisi - May 18, 2017</title>
