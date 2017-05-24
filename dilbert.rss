@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-24">
+<title>Dilbert - Exposition - Wednesday May 24, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-24</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3c33a310164b0135a9fb005056a9545d&#x22; title=&#x22;Exposition - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-23">
 <title>Dilbert - Randy Sees Normals As Livestock - Tuesday May 23, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Why Did The Algorithm Bump Dilbert - Thursday May 18, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-18</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/756f337010c20135a223005056a9545d&#x22; title=&#x22;Why Did The Algorithm Bump Dilbert - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-17">
-<title>Dilbert - Re Accomodation On The Flight - Wednesday May 17, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-17</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7297d28010c20135a223005056a9545d&#x22; title=&#x22;Re Accomodation On The Flight - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
