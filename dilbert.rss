@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-19" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-25">
+<title>Dilbert - Normals Are Dispensible - Thursday May 25, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-25</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3df60650164b0135a9fb005056a9545d&#x22; title=&#x22;Normals Are Dispensible - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-24">
 <title>Dilbert - Exposition - Wednesday May 24, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-24</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Asok Should Not Brag - Friday May 19, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-19</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7752bac010c20135a223005056a9545d&#x22; title=&#x22;Asok Should Not Brag - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-18">
-<title>Dilbert - Why Did The Algorithm Bump Dilbert - Thursday May 18, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-18</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/756f337010c20135a223005056a9545d&#x22; title=&#x22;Why Did The Algorithm Bump Dilbert - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
