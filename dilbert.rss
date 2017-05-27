@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-27">
+<title>Dilbert - Cyborg Makes Wally Unnecessary - Saturday May 27, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/42568e60164b0135a9fb005056a9545d&#x22; title=&#x22;Cyborg Makes Wally Unnecessary - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-26">
 <title>Dilbert - Cyborg Rumors - Friday May 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday May 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9be29620fd89013486fb005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-20">
-<title>Dilbert - Delegating - Saturday May 20, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7910ebb010c20135a223005056a9545d&#x22; title=&#x22;Delegating - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
