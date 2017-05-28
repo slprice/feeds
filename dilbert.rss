@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-28">
+<title>Dilbert -  - Sunday May 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9e69eb80017701358c8b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-27">
 <title>Dilbert - Cyborg Makes Wally Unnecessary - Saturday May 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Randy Has A Microchip In His Brain - Monday May 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/384df950164b0135a9fb005056a9545d&#x22; title=&#x22;Randy Has A Microchip In His Brain - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-21">
-<title>Dilbert -  - Sunday May 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9be29620fd89013486fb005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
