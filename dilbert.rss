@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-05-29">
+<title>Dilbert - Dogbert Gives Wally A Prescription - Monday May 29, 2017  </title>
+<link>http://dilbert.com/strip/2017-05-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/be8a58501bb90135b144005056a9545d&#x22; title=&#x22;Dogbert Gives Wally A Prescription - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-28">
 <title>Dilbert -  - Sunday May 28, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Randy Sees Normals As Livestock - Tuesday May 23, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3a749600164b0135a9fb005056a9545d&#x22; title=&#x22;Randy Sees Normals As Livestock - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-22">
-<title>Dilbert - Randy Has A Microchip In His Brain - Monday May 22, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/384df950164b0135a9fb005056a9545d&#x22; title=&#x22;Randy Has A Microchip In His Brain - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
