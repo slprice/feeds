@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-26" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-01">
+<title>Dilbert - Alice Tries To Be Interesting  - Thursday June 01, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-01</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c25627501bb90135b144005056a9545d&#x22; title=&#x22;Alice Tries To Be Interesting  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-05-31">
 <title>Dilbert - Wally Sleeps During Meetings - Wednesday May 31, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-31</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Cyborg Rumors - Friday May 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-05-26</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/400cce30164b0135a9fb005056a9545d&#x22; title=&#x22;Cyborg Rumors - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-25">
-<title>Dilbert - Normals Are Dispensible - Thursday May 25, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-25</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3df60650164b0135a9fb005056a9545d&#x22; title=&#x22;Normals Are Dispensible - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
