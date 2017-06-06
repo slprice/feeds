@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/06/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/06/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/06/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/06/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/06/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/06/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2017/05/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/dogsofckennel/2017/06/06">
+<title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - Jun 6, 2017</title>
+<link>http://www.gocomics.com/dogsofckennel/2017/06/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/08d9fe7025db0135c010005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2017/06/05">
 <title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - Jun 5, 2017</title>
 <link>http://www.gocomics.com/dogsofckennel/2017/06/05</link>
@@ -55,10 +60,5 @@
 <title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - May 31, 2017</title>
 <link>http://www.gocomics.com/dogsofckennel/2017/05/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/93aa537022500135baed005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2017/05/30">
-<title>Dogs of C-Kennel by Mick &#x26; Mason Mastroianni - May 30, 2017</title>
-<link>http://www.gocomics.com/dogsofckennel/2017/05/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/95ac514022500135baed005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
