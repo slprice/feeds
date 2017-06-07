@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-05-31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-07">
+<title>Dilbert - Ted Complains About Dilbert  - Wednesday June 07, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-07</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a2dcbab0213c0135b944005056a9545d&#x22; title=&#x22;Ted Complains About Dilbert  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-06">
 <title>Dilbert - Be Creative With Funding  - Tuesday June 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Alice Tries To Be Interesting  - Thursday June 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-01</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c25627501bb90135b144005056a9545d&#x22; title=&#x22;Alice Tries To Be Interesting  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-05-31">
-<title>Dilbert - Wally Sleeps During Meetings - Wednesday May 31, 2017  </title>
-<link>http://dilbert.com/strip/2017-05-31</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c1125c901bb90135b144005056a9545d&#x22; title=&#x22;Wally Sleeps During Meetings - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
