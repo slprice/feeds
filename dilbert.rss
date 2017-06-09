@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-09">
+<title>Dilbert - Scavenging For Parts - Friday June 09, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a55f54c0213c0135b944005056a9545d&#x22; title=&#x22;Scavenging For Parts - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-08">
 <title>Dilbert - Dilbert Is Under Budget - Thursday June 08, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Cubicles Like A Carton Of Eggs - Saturday June 03, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4f543a01bb90135b144005056a9545d&#x22; title=&#x22;Cubicles Like A Carton Of Eggs - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-02">
-<title>Dilbert - Modular Workstations  - Friday June 02, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c3af67201bb90135b144005056a9545d&#x22; title=&#x22;Modular Workstations  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
