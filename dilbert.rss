@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-05" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-11">
+<title>Dilbert -  - Sunday June 11, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-11</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9bc6b2e006f701359450005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-10">
 <title>Dilbert - Dilbert Tries To Get Funding - Saturday June 10, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-10</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert&#x27;s Project Is Unfunded  - Monday June 05, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-05</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a0615f60213c0135b944005056a9545d&#x22; title=&#x22;Dilbert&#x27;s Project Is Unfunded  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-04">
-<title>Dilbert -  - Sunday June 04, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-04</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b1d0101006b4013593f4005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
