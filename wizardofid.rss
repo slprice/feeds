@@ -16,20 +16,25 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/06" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2017/06/05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2017/06/12">
+<title>Wizard of Id by Parker and Hart - Jun 12, 2017</title>
+<link>http://www.gocomics.com/wizardofid/2017/06/12</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/0063d1602b5b0135c7dc005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2017/06/11">
 <title>Wizard of Id by Parker and Hart - Jun 11, 2017</title>
 <link>http://www.gocomics.com/wizardofid/2017/06/11</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/8b63277030db0135cf9f005056a9545d" />]]></description>
+<description><![CDATA[<img src="http://assets.amuniversal.com/0a2044f0313f0135cfef005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2017/06/10">
 <title>Wizard of Id by Parker and Hart - Jun 10, 2017</title>
@@ -55,10 +60,5 @@
 <title>Wizard of Id by Parker and Hart - Jun 6, 2017</title>
 <link>http://www.gocomics.com/wizardofid/2017/06/06</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/b3a7973025da0135c010005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2017/06/05">
-<title>Wizard of Id by Parker and Hart - Jun 5, 2017</title>
-<link>http://www.gocomics.com/wizardofid/2017/06/05</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/b557899025da0135c010005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
