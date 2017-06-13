@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-13">
+<title>Dilbert - One Small Mistake Is Doom  - Tuesday June 13, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f074a35028320135c34a005056a9545d&#x22; title=&#x22;One Small Mistake Is Doom  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-12">
 <title>Dilbert - Don&#x27;t Make Eye Contact With Ceo  - Monday June 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Ted Complains About Dilbert  - Wednesday June 07, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a2dcbab0213c0135b944005056a9545d&#x22; title=&#x22;Ted Complains About Dilbert  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-06">
-<title>Dilbert - Be Creative With Funding  - Tuesday June 06, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a1ab8090213c0135b944005056a9545d&#x22; title=&#x22;Be Creative With Funding  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

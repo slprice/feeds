@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/06/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2017/06/13">
+<title>B.C. by Mastroianni and Hart - Jun 13, 2017</title>
+<link>http://www.gocomics.com/bc/2017/06/13</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/cc861be02b5a0135c7dc005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2017/06/12">
 <title>B.C. by Mastroianni and Hart - Jun 12, 2017</title>
 <link>http://www.gocomics.com/bc/2017/06/12</link>
@@ -34,7 +39,7 @@
 <item rdf:about="http://www.gocomics.com/bc/2017/06/11">
 <title>B.C. by Mastroianni and Hart - Jun 11, 2017</title>
 <link>http://www.gocomics.com/bc/2017/06/11</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/5e3f99d031a30135d03f005056a9545d" />]]></description>
+<description><![CDATA[<img src="http://assets.amuniversal.com/1301296032080135d0ab005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/bc/2017/06/10">
 <title>B.C. by Mastroianni and Hart - Jun 10, 2017</title>
@@ -55,10 +60,5 @@
 <title>B.C. by Mastroianni and Hart - Jun 7, 2017</title>
 <link>http://www.gocomics.com/bc/2017/06/07</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/7e92682025da0135c010005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/06/06">
-<title>B.C. by Mastroianni and Hart - Jun 6, 2017</title>
-<link>http://www.gocomics.com/bc/2017/06/06</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/7717b59025da0135c010005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
