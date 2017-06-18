@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-18">
+<title>Dilbert -  - Sunday June 18, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/39da3e700e9001359f42005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-17">
 <title>Dilbert - Ceo Likes Asok&#x27;s Presentation  - Saturday June 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Don&#x27;t Make Eye Contact With Ceo  - Monday June 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ef32b0b028320135c34a005056a9545d&#x22; title=&#x22;Don&#x27;t Make Eye Contact With Ceo  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-11">
-<title>Dilbert -  - Sunday June 11, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9bc6b2e006f701359450005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
