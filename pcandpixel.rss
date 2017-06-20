@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="http://www.gocomics.com/pcandpixel/">
+<title>PC and Pixel by Tak Bui</title>
+<link>http://www.gocomics.com/pcandpixel/</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/20" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/19" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/18" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/17" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/16" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/15" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/06/14" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/20">
+<title>PC and Pixel by Tak Bui - Jun 20, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/20</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ef1acab035980135d38f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/19">
+<title>PC and Pixel by Tak Bui - Jun 19, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/19</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ebcf512035980135d38f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/18">
+<title>PC and Pixel by Tak Bui - Jun 18, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/18</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/edabae4035980135d38f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/17">
+<title>PC and Pixel by Tak Bui - Jun 17, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/b998d6d031b60135cf89005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/16">
+<title>PC and Pixel by Tak Bui - Jun 16, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/b75ce25031b60135cf89005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/15">
+<title>PC and Pixel by Tak Bui - Jun 15, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/15</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ba504de031b60135cf89005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/06/14">
+<title>PC and Pixel by Tak Bui - Jun 14, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/06/14</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/b8ec3be031b60135cf89005056a9545d" />]]></description>
+</item>
+</rdf:RDF>

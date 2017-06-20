@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="http://www.gocomics.com/herman/">
+<title>Herman by Jim Unger</title>
+<link>http://www.gocomics.com/herman/</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/20" />
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/19" />
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/18" />
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/17" />
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/16" />
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/15" />
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/06/14" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/20">
+<title>Herman by Jim Unger - Jun 20, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/20</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/316594a02c750135c961005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/19">
+<title>Herman by Jim Unger - Jun 19, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/19</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/2f53ec902c750135c961005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/18">
+<title>Herman by Jim Unger - Jun 18, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/18</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/68b9df4012870135a4cd005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/17">
+<title>Herman by Jim Unger - Jun 17, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/20efd5f027be0135c2ae005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/16">
+<title>Herman by Jim Unger - Jun 16, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/1fa7fe5027be0135c2ae005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/15">
+<title>Herman by Jim Unger - Jun 15, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/15</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/1e65169027be0135c2ae005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/herman/2017/06/14">
+<title>Herman by Jim Unger - Jun 14, 2017</title>
+<link>http://www.gocomics.com/herman/2017/06/14</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/1d29aad027be0135c2ae005056a9545d" />]]></description>
+</item>
+</rdf:RDF>
