@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2017/06/14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/ziggy/2017/06/21">
+<title>Ziggy by Tom Wilson &#x26; Tom II - Jun 21, 2017</title>
+<link>http://www.gocomics.com/ziggy/2017/06/21</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d720faa031f00135d095005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/ziggy/2017/06/20">
 <title>Ziggy by Tom Wilson &#x26; Tom II - Jun 20, 2017</title>
 <link>http://www.gocomics.com/ziggy/2017/06/20</link>
@@ -55,10 +60,5 @@
 <title>Ziggy by Tom Wilson &#x26; Tom II - Jun 15, 2017</title>
 <link>http://www.gocomics.com/ziggy/2017/06/15</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/16332a502c720135c955005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2017/06/14">
-<title>Ziggy by Tom Wilson &#x26; Tom II - Jun 14, 2017</title>
-<link>http://www.gocomics.com/ziggy/2017/06/14</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/148627202c720135c955005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
