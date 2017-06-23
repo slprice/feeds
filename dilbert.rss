@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-23">
+<title>Dilbert - Collusion In The Mind Only - Friday June 23, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-23</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f90502102c380135c907005056a9545d&#x22; title=&#x22;Collusion In The Mind Only - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-22">
 <title>Dilbert - Dilbert Is Cleared Of Colluding - Thursday June 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Ceo Likes Asok&#x27;s Presentation  - Saturday June 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-17</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f61d514028320135c34a005056a9545d&#x22; title=&#x22;Ceo Likes Asok&#x27;s Presentation  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-16">
-<title>Dilbert - 75 Slides Too Long  - Friday June 16, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-16</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f4c24b3028320135c34a005056a9545d&#x22; title=&#x22;75 Slides Too Long  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
