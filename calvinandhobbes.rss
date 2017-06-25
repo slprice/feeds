@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/06/18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2017/06/25">
+<title>Calvin and Hobbes by Bill Watterson - Jun 25, 2017</title>
+<link>http://www.gocomics.com/calvinandhobbes/2017/06/25</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/75927e40017701358c8b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2017/06/24">
 <title>Calvin and Hobbes by Bill Watterson - Jun 24, 2017</title>
 <link>http://www.gocomics.com/calvinandhobbes/2017/06/24</link>
@@ -55,10 +60,5 @@
 <title>Calvin and Hobbes by Bill Watterson - Jun 19, 2017</title>
 <link>http://www.gocomics.com/calvinandhobbes/2017/06/19</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/f3121f2003d201358ff9005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2017/06/18">
-<title>Calvin and Hobbes by Bill Watterson - Jun 18, 2017</title>
-<link>http://www.gocomics.com/calvinandhobbes/2017/06/18</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/710a72b0017701358c8b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
