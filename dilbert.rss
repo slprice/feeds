@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-06-27">
+<title>Dilbert - Boss Wants Private Office - Tuesday June 27, 2017  </title>
+<link>http://dilbert.com/strip/2017-06-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/289e5a6031bd0135d05c005056a9545d&#x22; title=&#x22;Boss Wants Private Office - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-06-26">
 <title>Dilbert - Open Office Plan Failed - Monday June 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dogbert The Special Counsel - Wednesday June 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f55048802c380135c907005056a9545d&#x22; title=&#x22;Dogbert The Special Counsel - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-20">
-<title>Dilbert - Dilbert Might Be Colluding  - Tuesday June 20, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f383cf202c380135c907005056a9545d&#x22; title=&#x22;Dilbert Might Be Colluding  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
