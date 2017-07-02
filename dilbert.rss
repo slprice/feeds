@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-26" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-02">
+<title>Dilbert -  - Sunday July 02, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-02</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/fbef3a6016ae0135aa8b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-01">
 <title>Dilbert - Move To Cubicles Is Complete - Saturday July 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-01</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Open Office Plan Failed - Monday June 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-26</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2741d36031bd0135d05c005056a9545d&#x22; title=&#x22;Open Office Plan Failed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-25">
-<title>Dilbert -  - Sunday June 25, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-25</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3459deb013470135a5e0005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
