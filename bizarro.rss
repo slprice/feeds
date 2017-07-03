@@ -16,16 +16,21 @@
 <description>Bizarro is a surreal comic panel where eyeballs hover, dynamite sizzles, upside-down birds soar and a slice of pie hides in every corner. Bizarro is the means by which cartoonist Dan Piraro unleashes his uniquely eccentric view of the world. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19wLjIwMTcwNzAzXzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19udGIuMjAxNzA3MDJfMTQ0MC5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19wLjIwMTcwNzAxXzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjMwXzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI5XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI4XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI3XzY1Ny5naWY=" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI2XzY1Ny5naWY=" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19wLjIwMTcwNzAzXzY1Ny5naWY=">
+<title>Bizarro Comic Strip for July 03, 2017</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19wLjIwMTcwNzAzXzY1Ny5naWY=</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19wLjIwMTcwNzAzXzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19wLjIwMTcwNzAzXzY1Ny5naWY=" alt="Bizarro Comic Strip for July 03, 2017" /><br />Bizarro Comic Strip for July 03, 2017</a><br /><a href="http://comicskingdom.com/bizarro/2017-07-03/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19udGIuMjAxNzA3MDJfMTQ0MC5naWY=">
 <title>Bizarro Comic Strip for July 02, 2017</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDcvQml6YXJyb19udGIuMjAxNzA3MDJfMTQ0MC5naWY=</link>
@@ -55,10 +60,5 @@
 <title>Bizarro Comic Strip for June 27, 2017</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI3XzY1Ny5naWY=</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI3XzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI3XzY1Ny5naWY=" alt="Bizarro Comic Strip for June 27, 2017" /><br />Bizarro Comic Strip for June 27, 2017</a><br /><a href="http://comicskingdom.com/bizarro/2017-06-27/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI2XzY1Ny5naWY=">
-<title>Bizarro Comic Strip for June 26, 2017</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI2XzY1Ny5naWY=</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI2XzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMDYvQml6YXJyb19wLjIwMTcwNjI2XzY1Ny5naWY=" alt="Bizarro Comic Strip for June 26, 2017" /><br />Bizarro Comic Strip for June 26, 2017</a><br /><a href="http://comicskingdom.com/bizarro/2017-06-26/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
