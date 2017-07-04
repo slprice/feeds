@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-28" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-04">
+<title>Dilbert - Immersive Vr Employee Is Creepy - Tuesday July 04, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-04</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/16ac02a037390135d3f2005056a9545d&#x22; title=&#x22;Immersive Vr Employee Is Creepy - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-03">
 <title>Dilbert - H Ired An Immersive Vr Employee - Monday July 03, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-03</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Two Choices For Work Space - Wednesday June 28, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-28</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/29cfe57031bd0135d05c005056a9545d&#x22; title=&#x22;Two Choices For Work Space - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-27">
-<title>Dilbert - Boss Wants Private Office - Tuesday June 27, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-27</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/289e5a6031bd0135d05c005056a9545d&#x22; title=&#x22;Boss Wants Private Office - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
