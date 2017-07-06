@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-30" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-06-29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-06">
+<title>Dilbert - Asok Can&#x27;t Take Immersive Vr Seat - Thursday July 06, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-06</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1915f6f037390135d3f2005056a9545d&#x22; title=&#x22;Asok Can&#x27;t Take Immersive Vr Seat - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-05">
 <title>Dilbert - Immersive Vr Is Immortal - Wednesday July 05, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Asok Uses An Algorithm - Friday June 30, 2017  </title>
 <link>http://dilbert.com/strip/2017-06-30</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4336beb031be0135d05e005056a9545d&#x22; title=&#x22;Asok Uses An Algorithm - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-06-29">
-<title>Dilbert - Asok Is In Charge Of Cubicle Move - Thursday June 29, 2017  </title>
-<link>http://dilbert.com/strip/2017-06-29</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2b25ac9031bd0135d05c005056a9545d&#x22; title=&#x22;Asok Is In Charge Of Cubicle Move - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
