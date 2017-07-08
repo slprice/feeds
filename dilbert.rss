@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-08">
+<title>Dilbert - Immersive Vr Employee Quits - Saturday July 08, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1b76f20037390135d3f2005056a9545d&#x22; title=&#x22;Immersive Vr Employee Quits - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-07">
 <title>Dilbert - Attending A Meeting For Kevin - Friday July 07, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday July 02, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/fbef3a6016ae0135aa8b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-01">
-<title>Dilbert - Move To Cubicles Is Complete - Saturday July 01, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/448b8d9031be0135d05e005056a9545d&#x22; title=&#x22;Move To Cubicles Is Complete - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
