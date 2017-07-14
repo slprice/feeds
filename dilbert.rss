@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-08" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-14">
+<title>Dilbert - The Cia Is Listening - Friday July 14, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/367703903d890135d5f8005056a9545d&#x22; title=&#x22;The Cia Is Listening - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-13">
 <title>Dilbert - Home Speaker Prototype - Thursday July 13, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-13</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Immersive Vr Employee Quits - Saturday July 08, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-08</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1b76f20037390135d3f2005056a9545d&#x22; title=&#x22;Immersive Vr Employee Quits - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-07">
-<title>Dilbert - Attending A Meeting For Kevin - Friday July 07, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-07</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1a487b1037390135d3f2005056a9545d&#x22; title=&#x22;Attending A Meeting For Kevin - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
