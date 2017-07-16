@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-16">
+<title>Dilbert -  - Sunday July 16, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-16</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a11f063021af0135b9f2005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-15">
 <title>Dilbert - Home Speaker Goes Bad - Saturday July 15, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Do Whatever The Data Says - Monday July 10, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-10</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/32036d403d890135d5f8005056a9545d&#x22; title=&#x22;Do Whatever The Data Says - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-09">
-<title>Dilbert -  - Sunday July 09, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-09</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3ec38b401cf80135b335005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
