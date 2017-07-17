@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/11" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frankandernest/2017/07/10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frankandernest/2017/07/17">
+<title>Frank and Ernest by Thaves - Jul 17, 2017</title>
+<link>http://www.gocomics.com/frankandernest/2017/07/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d596cc1044980135d890005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frankandernest/2017/07/16">
 <title>Frank and Ernest by Thaves - Jul 16, 2017</title>
 <link>http://www.gocomics.com/frankandernest/2017/07/16</link>
@@ -55,10 +60,5 @@
 <title>Frank and Ernest by Thaves - Jul 11, 2017</title>
 <link>http://www.gocomics.com/frankandernest/2017/07/11</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/f3c493803ef90135d6b6005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frankandernest/2017/07/10">
-<title>Frank and Ernest by Thaves - Jul 10, 2017</title>
-<link>http://www.gocomics.com/frankandernest/2017/07/10</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/f23f91003ef90135d6b6005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
