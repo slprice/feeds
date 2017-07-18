@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-18">
+<title>Dilbert - Ted Promoted To Software Architect - Tuesday July 18, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dec20020448a0135d884005056a9545d&#x22; title=&#x22;Ted Promoted To Software Architect - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-17">
 <title>Dilbert - Wally Waits For Information - Monday July 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Getting The Wrong Answer - Wednesday July 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/343137203d890135d5f8005056a9545d&#x22; title=&#x22;Getting The Wrong Answer - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-11">
-<title>Dilbert - Unethical Assumptions - Tuesday July 11, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/33246be03d890135d5f8005056a9545d&#x22; title=&#x22;Unethical Assumptions - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
