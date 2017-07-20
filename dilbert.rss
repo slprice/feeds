@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-14" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-20">
+<title>Dilbert - Adding A Feature - Thursday July 20, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-20</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e1225900448a0135d884005056a9545d&#x22; title=&#x22;Adding A Feature - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-19">
 <title>Dilbert - Internal Rules Versus Good Code - Wednesday July 19, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-19</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - The Cia Is Listening - Friday July 14, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-14</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/367703903d890135d5f8005056a9545d&#x22; title=&#x22;The Cia Is Listening - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-13">
-<title>Dilbert - Home Speaker Prototype - Thursday July 13, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-13</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/355290203d890135d5f8005056a9545d&#x22; title=&#x22;Home Speaker Prototype - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
