@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-26">
+<title>Dilbert - No Calendar Needed - Wednesday July 26, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-26</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e6a1b630487f0135d9c6005056a9545d&#x22; title=&#x22;No Calendar Needed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-25">
 <title>Dilbert - Wally&#x27;s Excuses List - Tuesday July 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Adding A Feature - Thursday July 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-20</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e1225900448a0135d884005056a9545d&#x22; title=&#x22;Adding A Feature - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-19">
-<title>Dilbert - Internal Rules Versus Good Code - Wednesday July 19, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-19</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dfeb3930448a0135d884005056a9545d&#x22; title=&#x22;Internal Rules Versus Good Code - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
