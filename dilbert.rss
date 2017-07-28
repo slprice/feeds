@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-07-28">
+<title>Dilbert - Wally&#x27;s Project Is Not Confirmed - Friday July 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-07-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e8f25dd0487f0135d9c6005056a9545d&#x22; title=&#x22;Wally&#x27;s Project Is Not Confirmed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-07-27">
 <title>Dilbert - Wally Secret Project - Thursday July 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bad At Your Job - Saturday July 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e3976d00448a0135d884005056a9545d&#x22; title=&#x22;Bad At Your Job - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-21">
-<title>Dilbert - Make It Hard To Uninstall - Friday July 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e25de0e0448a0135d884005056a9545d&#x22; title=&#x22;Make It Hard To Uninstall - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
