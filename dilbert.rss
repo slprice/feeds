@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-27" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-02">
+<title>Dilbert - Nothing Dilbert Does Matters - Wednesday August 02, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-02</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/954a93204e050135dbae005056a9545d&#x22; title=&#x22;Nothing Dilbert Does Matters - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-01">
 <title>Dilbert - No Dumb Questions - Tuesday August 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-01</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Secret Project - Thursday July 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-27</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e7ccdeb0487f0135d9c6005056a9545d&#x22; title=&#x22;Wally Secret Project - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-26">
-<title>Dilbert - No Calendar Needed - Wednesday July 26, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-26</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e6a1b630487f0135d9c6005056a9545d&#x22; title=&#x22;No Calendar Needed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
