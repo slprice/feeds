@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-31" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-07-30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-06">
+<title>Dilbert -  - Sunday August 06, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-06</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0d29570033c20135d2de005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-05">
 <title>Dilbert - Lips Stopped Moving - Saturday August 05, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Scientists Confirm We Are Simulations - Monday July 31, 2017  </title>
 <link>http://dilbert.com/strip/2017-07-31</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/92d990c04e050135dbae005056a9545d&#x22; title=&#x22;Scientists Confirm We Are Simulations - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-07-30">
-<title>Dilbert -  - Sunday July 30, 2017  </title>
-<link>http://dilbert.com/strip/2017-07-30</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d2d923a02d780135cad6005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

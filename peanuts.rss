@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/08/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/08/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/08/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/08/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/08/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/08/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/07/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2017/07/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2017/08/06">
+<title>Peanuts by Charles Schulz - Aug 6, 2017</title>
+<link>http://www.gocomics.com/peanuts/2017/08/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/caec4d403e830135d693005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2017/08/05">
 <title>Peanuts by Charles Schulz - Aug 5, 2017</title>
 <link>http://www.gocomics.com/peanuts/2017/08/05</link>
@@ -55,10 +60,5 @@
 <title>Peanuts by Charles Schulz - Jul 31, 2017</title>
 <link>http://www.gocomics.com/peanuts/2017/07/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/8976939031be0135d05e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2017/07/30">
-<title>Peanuts by Charles Schulz - Jul 30, 2017</title>
-<link>http://www.gocomics.com/peanuts/2017/07/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/1084df00387e0135d483005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
