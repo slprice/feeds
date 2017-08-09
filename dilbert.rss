@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-09">
+<title>Dilbert - Contradicting Himself - Wednesday August 09, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d9720c2052c00135dd36005056a9545d&#x22; title=&#x22;Contradicting Himself - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-08">
 <title>Dilbert - Accidental Deletion - Tuesday August 08, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert Does Nothing Useful - Thursday August 03, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/968ac0604e050135dbae005056a9545d&#x22; title=&#x22;Dilbert Does Nothing Useful - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-02">
-<title>Dilbert - Nothing Dilbert Does Matters - Wednesday August 02, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/954a93204e050135dbae005056a9545d&#x22; title=&#x22;Nothing Dilbert Does Matters - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
