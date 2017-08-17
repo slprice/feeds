@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-17">
+<title>Dilbert - Ideal Customer - Thursday August 17, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ebef33a0583c0135def8005056a9545d&#x22; title=&#x22;Ideal Customer - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-16">
 <title>Dilbert - Dogbert&#x27;s Unreliable Research Company - Wednesday August 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Pretends To Work - Friday August 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dbc4aaf052c00135dd36005056a9545d&#x22; title=&#x22;Wally Pretends To Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-10">
-<title>Dilbert - Repeating Your Point Too Much - Thursday August 10, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/da98288052c00135dd36005056a9545d&#x22; title=&#x22;Repeating Your Point Too Much - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
