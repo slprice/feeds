@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-19">
+<title>Dilbert - Estimate Of Timeline - Saturday August 19, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/eef21780583c0135def8005056a9545d&#x22; title=&#x22;Estimate Of Timeline - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-18">
 <title>Dilbert - Winning The Meeting - Friday August 18, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday August 13, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/612d28603a0b0135d52f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-12">
-<title>Dilbert - Boss Cancels Food Service - Saturday August 12, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dce2e23052c00135dd36005056a9545d&#x22; title=&#x22;Boss Cancels Food Service - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
