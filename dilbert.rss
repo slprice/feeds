@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-22">
+<title>Dilbert - Product Warning Is Coming Along - Tuesday August 22, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a48d64105dce0135e0fc005056a9545d&#x22; title=&#x22;Product Warning Is Coming Along - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-21">
 <title>Dilbert - Tina Writes Product Warnings - Monday August 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dogbert&#x27;s Unreliable Research Company - Wednesday August 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ea688400583c0135def8005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Unreliable Research Company - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-15">
-<title>Dilbert - Wally&#x27;s Legacy System Report - Tuesday August 15, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e9090460583c0135def8005056a9545d&#x22; title=&#x22;Wally&#x27;s Legacy System Report - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

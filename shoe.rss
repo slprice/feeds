@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2017/08/15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2017/08/22">
+<title>Shoe by Gary Brookins and Susie MacNelly - Aug 22, 2017</title>
+<link>http://www.gocomics.com/shoe/2017/08/22</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/0ee50030641c0135e347005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2017/08/21">
 <title>Shoe by Gary Brookins and Susie MacNelly - Aug 21, 2017</title>
 <link>http://www.gocomics.com/shoe/2017/08/21</link>
@@ -55,10 +60,5 @@
 <title>Shoe by Gary Brookins and Susie MacNelly - Aug 16, 2017</title>
 <link>http://www.gocomics.com/shoe/2017/08/16</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/514b63e05f660135e1bc005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2017/08/15">
-<title>Shoe by Gary Brookins and Susie MacNelly - Aug 15, 2017</title>
-<link>http://www.gocomics.com/shoe/2017/08/15</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/4b4f26705f660135e1bc005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
