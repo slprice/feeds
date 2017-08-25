@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-19" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-25">
+<title>Dilbert - 500 Pages Would Be Rubbish - Friday August 25, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-25</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/aa31ae305dce0135e0fc005056a9545d&#x22; title=&#x22;500 Pages Would Be Rubbish - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-24">
 <title>Dilbert - Rabies Warnings - Thursday August 24, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-24</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Estimate Of Timeline - Saturday August 19, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-19</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/eef21780583c0135def8005056a9545d&#x22; title=&#x22;Estimate Of Timeline - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-18">
-<title>Dilbert - Winning The Meeting - Friday August 18, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-18</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ed7ff610583c0135def8005056a9545d&#x22; title=&#x22;Winning The Meeting - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
