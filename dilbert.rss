@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-08-29">
+<title>Dilbert - Pat Yourself On The Head - Tuesday August 29, 2017  </title>
+<link>http://dilbert.com/strip/2017-08-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9a9f5f6063500135e2e9005056a9545d&#x22; title=&#x22;Pat Yourself On The Head - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-08-28">
 <title>Dilbert - Ceo Makes More Money In Stocks - Monday August 28, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Gain Weight Using Product - Wednesday August 23, 2017  </title>
 <link>http://dilbert.com/strip/2017-08-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a65c80c05dce0135e0fc005056a9545d&#x22; title=&#x22;Gain Weight Using Product - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-22">
-<title>Dilbert - Product Warning Is Coming Along - Tuesday August 22, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a48d64105dce0135e0fc005056a9545d&#x22; title=&#x22;Product Warning Is Coming Along - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
