@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-08-31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-09-07">
+<title>Dilbert - Robot Will Crush Employees  - Thursday September 07, 2017  </title>
+<link>http://dilbert.com/strip/2017-09-07</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a4c0fa70696e0135e529005056a9545d&#x22; title=&#x22;Robot Will Crush Employees  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-09-06">
 <title>Dilbert - Robot Is Too Smart - Wednesday September 06, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Soul Killing Tasks - Friday September 01, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-01</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3531f8d0634f0135e2e6005056a9545d&#x22; title=&#x22;Soul Killing Tasks - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-08-31">
-<title>Dilbert - View From Thirty Thousand Feet - Thursday August 31, 2017  </title>
-<link>http://dilbert.com/strip/2017-08-31</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9c72d27063500135e2e9005056a9545d&#x22; title=&#x22;View From Thirty Thousand Feet - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
