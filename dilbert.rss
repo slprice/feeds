@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-09-13">
+<title>Dilbert - Engineer With No Soul - Wednesday September 13, 2017  </title>
+<link>http://dilbert.com/strip/2017-09-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ea4a22306e3e0135e6e0005056a9545d&#x22; title=&#x22;Engineer With No Soul - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-09-12">
 <title>Dilbert - Wally Takes Decaf Vacations - Tuesday September 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Robot Will Crush Employees  - Thursday September 07, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a4c0fa70696e0135e529005056a9545d&#x22; title=&#x22;Robot Will Crush Employees  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-09-06">
-<title>Dilbert - Robot Is Too Smart - Wednesday September 06, 2017  </title>
-<link>http://dilbert.com/strip/2017-09-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ed6488b0696f0135e52b005056a9545d&#x22; title=&#x22;Robot Is Too Smart - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
