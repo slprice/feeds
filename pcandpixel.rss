@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/12" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2017/09/11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2017/09/18">
+<title>PC and Pixel by Tak Bui - Sep 18, 2017</title>
+<link>http://www.gocomics.com/pcandpixel/2017/09/18</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/5c0089c079f60135eb33005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2017/09/17">
 <title>PC and Pixel by Tak Bui - Sep 17, 2017</title>
 <link>http://www.gocomics.com/pcandpixel/2017/09/17</link>
@@ -55,10 +60,5 @@
 <title>PC and Pixel by Tak Bui - Sep 12, 2017</title>
 <link>http://www.gocomics.com/pcandpixel/2017/09/12</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/bce82980542f0135ddc4005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2017/09/11">
-<title>PC and Pixel by Tak Bui - Sep 11, 2017</title>
-<link>http://www.gocomics.com/pcandpixel/2017/09/11</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/b6313630542f0135ddc4005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

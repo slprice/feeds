@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-09-18">
+<title>Dilbert - Helping The Boss Be Successful - Monday September 18, 2017  </title>
+<link>http://dilbert.com/strip/2017-09-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8a5a7300754b0135e986005056a9545d&#x22; title=&#x22;Helping The Boss Be Successful - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-09-17">
 <title>Dilbert -  - Sunday September 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Takes Decaf Vacations - Tuesday September 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e8a859706e3e0135e6e0005056a9545d&#x22; title=&#x22;Wally Takes Decaf Vacations - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-09-11">
-<title>Dilbert - Too Dumb To Understand - Monday September 11, 2017  </title>
-<link>http://dilbert.com/strip/2017-09-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e65989106e3e0135e6e0005056a9545d&#x22; title=&#x22;Too Dumb To Understand - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
