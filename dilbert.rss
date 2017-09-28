@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-09-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-09-28">
+<title>Dilbert - Dilbert&#x27;s History Of Lying - Thursday September 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-09-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/afc2dd4079360135eadf005056a9545d&#x22; title=&#x22;Dilbert&#x27;s History Of Lying - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-09-27">
 <title>Dilbert - Everyone Says Dilbert Lied - Wednesday September 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Tina The Whistleblower - Friday September 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-09-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/91a5fff0754b0135e986005056a9545d&#x22; title=&#x22;Tina The Whistleblower - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-09-21">
-<title>Dilbert - Lots Of Things Happening Behind The Scenes - Thursday September 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-09-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8fdd9850754b0135e986005056a9545d&#x22; title=&#x22;Lots Of Things Happening Behind The Scenes - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
