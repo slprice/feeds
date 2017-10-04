@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/10/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/10/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/10/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/10/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/09/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/09/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/09/28" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2017/09/27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2017/10/04">
+<title>Herman by Jim Unger - Oct 4, 2017</title>
+<link>http://www.gocomics.com/herman/2017/10/04</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/c6e63c507fc00135ed68005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2017/10/03">
 <title>Herman by Jim Unger - Oct 3, 2017</title>
 <link>http://www.gocomics.com/herman/2017/10/03</link>
@@ -55,10 +60,5 @@
 <title>Herman by Jim Unger - Sep 28, 2017</title>
 <link>http://www.gocomics.com/herman/2017/09/28</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/5f6274c079770135eb06005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2017/09/27">
-<title>Herman by Jim Unger - Sep 27, 2017</title>
-<link>http://www.gocomics.com/herman/2017/09/27</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/5beac7a079770135eb06005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
