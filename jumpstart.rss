@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/10/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/10/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/10/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/10/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/10/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/09/30" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2017/09/29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2017/10/06">
+<title>JumpStart by Robb Armstrong - Oct 6, 2017</title>
+<link>http://www.gocomics.com/jumpstart/2017/10/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/0816711085020135ef34005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2017/10/05">
 <title>JumpStart by Robb Armstrong - Oct 5, 2017</title>
 <link>http://www.gocomics.com/jumpstart/2017/10/05</link>
@@ -55,10 +60,5 @@
 <title>JumpStart by Robb Armstrong - Sep 30, 2017</title>
 <link>http://www.gocomics.com/jumpstart/2017/09/30</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/c7775bc07f850135ed36005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2017/09/29">
-<title>JumpStart by Robb Armstrong - Sep 29, 2017</title>
-<link>http://www.gocomics.com/jumpstart/2017/09/29</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/4173a9a07f840135ed35005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
