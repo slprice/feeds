@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2017/10/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2017/10/08">
+<title>Frazz by Jef Mallett - Oct 8, 2017</title>
+<link>http://www.gocomics.com/frazz/2017/10/08</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/89ec41106eb10135e71c005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2017/10/07">
 <title>Frazz by Jef Mallett - Oct 7, 2017</title>
 <link>http://www.gocomics.com/frazz/2017/10/07</link>
@@ -55,10 +60,5 @@
 <title>Frazz by Jef Mallett - Oct 2, 2017</title>
 <link>http://www.gocomics.com/frazz/2017/10/02</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/af67425085020135ef34005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2017/10/01">
-<title>Frazz by Jef Mallett - Oct 1, 2017</title>
-<link>http://www.gocomics.com/frazz/2017/10/01</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/ec8492d066920135e487005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
