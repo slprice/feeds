@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-04" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-03" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-10">
+<title>Dilbert - Logical Reasons For Learning To Negotiate  - Tuesday October 10, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-10</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9d21732085010135ef34005056a9545d&#x22; title=&#x22;Logical Reasons For Learning To Negotiate  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-09">
 <title>Dilbert - Dilbert Wants To Take A Class In Negotiating  - Monday October 09, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-09</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Can We Borrow An Apron  - Wednesday October 04, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-04</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/68b3b38084380135eeda005056a9545d&#x22; title=&#x22;Can We Borrow An Apron  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-03">
-<title>Dilbert - Dogbert The Pr Specialist  - Tuesday October 03, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-03</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1330090084370135eed7005056a9545d&#x22; title=&#x22;Dogbert The Pr Specialist  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
