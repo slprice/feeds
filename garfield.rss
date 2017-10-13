@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2017/10/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/garfield/2017/10/13">
+<title>Garfield by Jim Davis - Oct 13, 2017</title>
+<link>http://www.gocomics.com/garfield/2017/10/13</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/23f903607a7b0135eb76005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/garfield/2017/10/12">
 <title>Garfield by Jim Davis - Oct 12, 2017</title>
 <link>http://www.gocomics.com/garfield/2017/10/12</link>
@@ -55,10 +60,5 @@
 <title>Garfield by Jim Davis - Oct 7, 2017</title>
 <link>http://www.gocomics.com/garfield/2017/10/07</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/a6f678e069fa0135e584005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2017/10/06">
-<title>Garfield by Jim Davis - Oct 6, 2017</title>
-<link>http://www.gocomics.com/garfield/2017/10/06</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/aac8bf0069fa0135e584005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
