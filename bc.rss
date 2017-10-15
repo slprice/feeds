@@ -22,7 +22,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/10/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/10/10" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2017/10/09" />
  </rdf:Seq>
 </items>
 </channel>
@@ -55,10 +54,5 @@
 <title>B.C. by Mastroianni and Hart - Oct 10, 2017</title>
 <link>http://www.gocomics.com/bc/2017/10/10</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/da24717084530135eeee005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2017/10/09">
-<title>B.C. by Mastroianni and Hart - Oct 9, 2017</title>
-<link>http://www.gocomics.com/bc/2017/10/09</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/e372574084530135eeee005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
