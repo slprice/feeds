@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-17">
+<title>Dilbert - Explaining Block Chain To Marketing - Tuesday October 17, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6f5e757084380135eeda005056a9545d&#x22; title=&#x22;Explaining Block Chain To Marketing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-16">
 <title>Dilbert - Initial Coin Offering  - Monday October 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dogbert Won&#x27;t Teach Persuasion To Dilbert  - Wednesday October 11, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9f051db085010135ef34005056a9545d&#x22; title=&#x22;Dogbert Won&#x27;t Teach Persuasion To Dilbert  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-10">
-<title>Dilbert - Logical Reasons For Learning To Negotiate  - Tuesday October 10, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9d21732085010135ef34005056a9545d&#x22; title=&#x22;Logical Reasons For Learning To Negotiate  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
