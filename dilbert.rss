@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-18">
+<title>Dilbert - Boss Doesn&#x27;t Understand A Word Of It  - Wednesday October 18, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/712ddb7084380135eeda005056a9545d&#x22; title=&#x22;Boss Doesn&#x27;t Understand A Word Of It  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-17">
 <title>Dilbert - Explaining Block Chain To Marketing - Tuesday October 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert Is Bad At Negotiating  - Thursday October 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a09bd7e085010135ef34005056a9545d&#x22; title=&#x22;Dilbert Is Bad At Negotiating  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-11">
-<title>Dilbert - Dogbert Won&#x27;t Teach Persuasion To Dilbert  - Wednesday October 11, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9f051db085010135ef34005056a9545d&#x22; title=&#x22;Dogbert Won&#x27;t Teach Persuasion To Dilbert  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
