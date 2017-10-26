@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-26">
+<title>Dilbert - Wally Uses Phone When Troll Does - Thursday October 26, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-26</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4ef538608f450135f2fa005056a9545d&#x22; title=&#x22;Wally Uses Phone When Troll Does - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-25">
 <title>Dilbert - Arguing On Twitter With Facts - Wednesday October 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Listening To Your Gut - Friday October 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-20</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/72e21d5084380135eeda005056a9545d&#x22; title=&#x22;Listening To Your Gut - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-19">
-<title>Dilbert - Boss Is The Common Variable - Thursday October 19, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-19</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/17ed26b084370135eed7005056a9545d&#x22; title=&#x22;Boss Is The Common Variable - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
