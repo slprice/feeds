@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-28">
+<title>Dilbert - Robot Is Not A Droid - Saturday October 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f09106008f430135f2f7005056a9545d&#x22; title=&#x22;Robot Is Not A Droid - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-27">
 <title>Dilbert - Troll Has No Job - Friday October 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday October 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f88f17107a7a0135eb76005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-21">
-<title>Dilbert - Alice Says Dilbert Is Narcissistic - Saturday October 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/19a4914084370135eed7005056a9545d&#x22; title=&#x22;Alice Says Dilbert Is Narcissistic - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
