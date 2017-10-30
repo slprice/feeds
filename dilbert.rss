@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-30">
+<title>Dilbert - Monday  - Monday October 30, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cc0c0e0094ef0135f4f4005056a9545d&#x22; title=&#x22;Monday  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-29">
 <title>Dilbert -  - Sunday October 29, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Boss Is Not A Quitter  - Tuesday October 24, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ecc211608f430135f2f7005056a9545d&#x22; title=&#x22;Boss Is Not A Quitter  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-23">
-<title>Dilbert - Boss Gets A Troll  - Monday October 23, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4d3a19308f450135f2fa005056a9545d&#x22; title=&#x22;Boss Gets A Troll  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

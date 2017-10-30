@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/24" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2017/10/23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2017/10/30">
+<title>Pearls Before Swine by Stephan Pastis - Oct 30, 2017</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2017/10/30</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/9ede02409a3a0135f6cf005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2017/10/29">
 <title>Pearls Before Swine by Stephan Pastis - Oct 29, 2017</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2017/10/29</link>
@@ -55,10 +60,5 @@
 <title>Pearls Before Swine by Stephan Pastis - Oct 24, 2017</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2017/10/24</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/75acc76095860135f52e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2017/10/23">
-<title>Pearls Before Swine by Stephan Pastis - Oct 23, 2017</title>
-<link>http://www.gocomics.com/pearlsbeforeswine/2017/10/23</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/c3592a3095840135f52d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
