@@ -16,7 +16,7 @@
 <description>Bizarro is a surreal comic panel where eyeballs hover, dynamite sizzles, upside-down birds soar and a slice of pie hides in every corner. Bizarro is the means by which cartoonist Dan Piraro unleashes his uniquely eccentric view of the world. About</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="//safr.kingfeatures.com/img/icons/24x/warn.gif" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDMwXzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19udGIuMjAxNzEwMjlfMTQ0MC5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDI4XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDI3XzY1Ny5naWY=" />
@@ -26,10 +26,10 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="//safr.kingfeatures.com/img/icons/24x/warn.gif">
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDMwXzY1Ny5naWY=">
 <title>Bizarro Comic Strip for October 30, 2017</title>
-<link>//safr.kingfeatures.com/img/icons/24x/warn.gif</link>
-<description><![CDATA[<a href="//safr.kingfeatures.com/img/icons/24x/warn.gif"><img src="//safr.kingfeatures.com/img/icons/24x/warn.gif" alt="Bizarro Comic Strip for October 30, 2017" /><br />Bizarro Comic Strip for October 30, 2017</a><br /><a href="http://comicskingdom.com/bizarro/2017-10-30/">Comics Kingdom</a>]]></description>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDMwXzY1Ny5naWY=</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDMwXzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19wLjIwMTcxMDMwXzY1Ny5naWY=" alt="Bizarro Comic Strip for October 30, 2017" /><br />Bizarro Comic Strip for October 30, 2017</a><br /><a href="http://comicskingdom.com/bizarro/2017-10-30/">Comics Kingdom</a>]]></description>
 </item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTcvMTAvQml6YXJyb19udGIuMjAxNzEwMjlfMTQ0MC5naWY=">
 <title>Bizarro Comic Strip for October 29, 2017</title>
