@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-25" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-24" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-10-31">
+<title>Dilbert - Neural Link To Phone  - Tuesday October 31, 2017  </title>
+<link>http://dilbert.com/strip/2017-10-31</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c2dcca3094ef0135f4f4005056a9545d&#x22; title=&#x22;Neural Link To Phone  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-10-30">
 <title>Dilbert - Monday  - Monday October 30, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-30</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Arguing On Twitter With Facts - Wednesday October 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-25</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ee80bd608f430135f2f7005056a9545d&#x22; title=&#x22;Arguing On Twitter With Facts - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-24">
-<title>Dilbert - Boss Is Not A Quitter  - Tuesday October 24, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-24</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ecc211608f430135f2f7005056a9545d&#x22; title=&#x22;Boss Is Not A Quitter  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
