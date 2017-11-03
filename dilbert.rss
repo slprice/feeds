@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-28" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-10-27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-11-03">
+<title>Dilbert - App For Jumping Off The Roof  - Friday November 03, 2017  </title>
+<link>http://dilbert.com/strip/2017-11-03</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4fb5fb094ef0135f4f4005056a9545d&#x22; title=&#x22;App For Jumping Off The Roof  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-11-02">
 <title>Dilbert - Boss Is Like A Zombie With No App  - Thursday November 02, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-02</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Robot Is Not A Droid - Saturday October 28, 2017  </title>
 <link>http://dilbert.com/strip/2017-10-28</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f09106008f430135f2f7005056a9545d&#x22; title=&#x22;Robot Is Not A Droid - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-10-27">
-<title>Dilbert - Troll Has No Job - Friday October 27, 2017  </title>
-<link>http://dilbert.com/strip/2017-10-27</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/647205d08f420135f2f5005056a9545d&#x22; title=&#x22;Troll Has No Job - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
