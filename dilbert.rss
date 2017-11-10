@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-04" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-03" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-11-10">
+<title>Dilbert - Wally Is Working If You Don&#x27;t See Him - Friday November 10, 2017  </title>
+<link>http://dilbert.com/strip/2017-11-10</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/773c49109a3a0135f6cf005056a9545d&#x22; title=&#x22;Wally Is Working If You Don&#x27;t See Him - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-11-09">
 <title>Dilbert - Wally Works On Stealth Clothing - Thursday November 09, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-09</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Boss Ends Neural Interface  - Saturday November 04, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-04</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ca5be06094ef0135f4f4005056a9545d&#x22; title=&#x22;Boss Ends Neural Interface  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-11-03">
-<title>Dilbert - App For Jumping Off The Roof  - Friday November 03, 2017  </title>
-<link>http://dilbert.com/strip/2017-11-03</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4fb5fb094ef0135f4f4005056a9545d&#x22; title=&#x22;App For Jumping Off The Roof  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
