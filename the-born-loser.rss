@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/10" />
-  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2017/11/09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/the-born-loser/2017/11/16">
+<title>The Born Loser by Art and Chip Sansom - Nov 16, 2017</title>
+<link>http://www.gocomics.com/the-born-loser/2017/11/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/1ff7f1a0a5530135faf7005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2017/11/15">
 <title>The Born Loser by Art and Chip Sansom - Nov 15, 2017</title>
 <link>http://www.gocomics.com/the-born-loser/2017/11/15</link>
@@ -55,10 +60,5 @@
 <title>The Born Loser by Art and Chip Sansom - Nov 10, 2017</title>
 <link>http://www.gocomics.com/the-born-loser/2017/11/10</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/6a6693e09fd60135f8ed005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/the-born-loser/2017/11/09">
-<title>The Born Loser by Art and Chip Sansom - Nov 9, 2017</title>
-<link>http://www.gocomics.com/the-born-loser/2017/11/09</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/68c0e9309fd60135f8ed005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
