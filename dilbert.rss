@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-11-18">
+<title>Dilbert - Let&#x27;s Do The Meeting Later - Saturday November 18, 2017  </title>
+<link>http://dilbert.com/strip/2017-11-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8d1d97809fd60135f8ed005056a9545d&#x22; title=&#x22;Let&#x27;s Do The Meeting Later - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-11-17">
 <title>Dilbert - Ted Might Drop Dead - Friday November 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday November 12, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/060601807f320135ed1f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-11-11">
-<title>Dilbert - Wally Presents To Board - Saturday November 11, 2017  </title>
-<link>http://dilbert.com/strip/2017-11-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/79263a409a3a0135f6cf005056a9545d&#x22; title=&#x22;Wally Presents To Board - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
