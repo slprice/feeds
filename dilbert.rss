@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-11-22">
+<title>Dilbert - Wally Not Motivated - Wednesday November 22, 2017  </title>
+<link>http://dilbert.com/strip/2017-11-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/65643c30a0860135f934005056a9545d&#x22; title=&#x22;Wally Not Motivated - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-11-21">
 <title>Dilbert - Wally Is A Maverick - Tuesday November 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Work Until You Drop - Thursday November 16, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0f0bc4609fd50135f8ec005056a9545d&#x22; title=&#x22;Work Until You Drop - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-11-15">
-<title>Dilbert - Wally&#x27;s Watch Is A Snitch - Wednesday November 15, 2017  </title>
-<link>http://dilbert.com/strip/2017-11-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/49361b709fd70135f8ed005056a9545d&#x22; title=&#x22;Wally&#x27;s Watch Is A Snitch - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
