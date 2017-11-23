@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2017/11/16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2017/11/23">
+<title>Calvin and Hobbes by Bill Watterson - Nov 23, 2017</title>
+<link>http://www.gocomics.com/calvinandhobbes/2017/11/23</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ad8746e052ed0135dd55005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2017/11/22">
 <title>Calvin and Hobbes by Bill Watterson - Nov 22, 2017</title>
 <link>http://www.gocomics.com/calvinandhobbes/2017/11/22</link>
@@ -55,10 +60,5 @@
 <title>Calvin and Hobbes by Bill Watterson - Nov 17, 2017</title>
 <link>http://www.gocomics.com/calvinandhobbes/2017/11/17</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/a5e095d052ed0135dd55005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2017/11/16">
-<title>Calvin and Hobbes by Bill Watterson - Nov 16, 2017</title>
-<link>http://www.gocomics.com/calvinandhobbes/2017/11/16</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/a3bc358052ed0135dd55005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
