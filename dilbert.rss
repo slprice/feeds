@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-11-26">
+<title>Dilbert -  - Sunday November 26, 2017  </title>
+<link>http://dilbert.com/strip/2017-11-26</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d3b042e08c8d0135f249005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-11-25">
 <title>Dilbert - Threatening Wally - Saturday November 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Likes Sitting  - Monday November 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-20</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9008f890a0880135f935005056a9545d&#x22; title=&#x22;Wally Likes Sitting  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-11-19">
-<title>Dilbert -  - Sunday November 19, 2017  </title>
-<link>http://dilbert.com/strip/2017-11-19</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9bbcb840870d0135f035005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
