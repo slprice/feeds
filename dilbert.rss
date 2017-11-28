@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-11-28">
+<title>Dilbert - Financial Forecaster Quit - Tuesday November 28, 2017  </title>
+<link>http://dilbert.com/strip/2017-11-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/13baf8b0aacd0135fd13005056a9545d&#x22; title=&#x22;Financial Forecaster Quit - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-11-27">
 <title>Dilbert - Robot Can Take Boss&#x27;s Job  - Monday November 27, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Not Motivated - Wednesday November 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/65643c30a0860135f934005056a9545d&#x22; title=&#x22;Wally Not Motivated - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-11-21">
-<title>Dilbert - Wally Is A Maverick - Tuesday November 21, 2017  </title>
-<link>http://dilbert.com/strip/2017-11-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e4db3510a0870135f935005056a9545d&#x22; title=&#x22;Wally Is A Maverick - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
