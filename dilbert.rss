@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-29" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-11-28" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-05">
+<title>Dilbert - Elbonians Hackers Get Into Network - Tuesday December 05, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-05</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5af325a0b04a0135ff38005056a9545d&#x22; title=&#x22;Elbonians Hackers Get Into Network - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-04">
 <title>Dilbert - Boss Finds A Thumb Drive  - Monday December 04, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-04</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Worthless Financial Projections - Wednesday November 29, 2017  </title>
 <link>http://dilbert.com/strip/2017-11-29</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a9ed6e60aacb0135fd11005056a9545d&#x22; title=&#x22;Worthless Financial Projections - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-11-28">
-<title>Dilbert - Financial Forecaster Quit - Tuesday November 28, 2017  </title>
-<link>http://dilbert.com/strip/2017-11-28</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/13baf8b0aacd0135fd13005056a9545d&#x22; title=&#x22;Financial Forecaster Quit - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
