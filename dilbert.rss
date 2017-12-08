@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-08">
+<title>Dilbert - Elbonian Virus Infects Mission Statement  - Friday December 08, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f73a5040b0480135ff36005056a9545d&#x22; title=&#x22;Elbonian Virus Infects Mission Statement  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-07">
 <title>Dilbert - Virus Gives Everyone A Raise  - Thursday December 07, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Nailed It - Saturday December 02, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/172bb1a0aacd0135fd13005056a9545d&#x22; title=&#x22;Nailed It - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-01">
-<title>Dilbert - Forecasts Are Guessing Plus Math - Friday December 01, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/156a2660aacd0135fd13005056a9545d&#x22; title=&#x22;Forecasts Are Guessing Plus Math - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
