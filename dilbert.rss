@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-05" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-11">
+<title>Dilbert - Boss Counts Cards  - Monday December 11, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-11</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e4ab5b60b5c4013500ef005056a9545d&#x22; title=&#x22;Boss Counts Cards  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-10">
 <title>Dilbert -  - Sunday December 10, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-10</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Elbonians Hackers Get Into Network - Tuesday December 05, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-05</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5af325a0b04a0135ff38005056a9545d&#x22; title=&#x22;Elbonians Hackers Get Into Network - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-04">
-<title>Dilbert - Boss Finds A Thumb Drive  - Monday December 04, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-04</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4da68b0b04b0135ff39005056a9545d&#x22; title=&#x22;Boss Finds A Thumb Drive  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
