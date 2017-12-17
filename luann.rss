@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/11" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2017/12/10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/luann/2017/12/17">
+<title>Luann by Greg Evans - Dec 17, 2017</title>
+<link>http://www.gocomics.com/luann/2017/12/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d859ff30953a0135f515005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/luann/2017/12/16">
 <title>Luann by Greg Evans - Dec 16, 2017</title>
 <link>http://www.gocomics.com/luann/2017/12/16</link>
@@ -55,10 +60,5 @@
 <title>Luann by Greg Evans - Dec 11, 2017</title>
 <link>http://www.gocomics.com/luann/2017/12/11</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/f8be9090bc1001350357005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2017/12/10">
-<title>Luann by Greg Evans - Dec 10, 2017</title>
-<link>http://www.gocomics.com/luann/2017/12/10</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/3ed31100914d0135f3d7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
