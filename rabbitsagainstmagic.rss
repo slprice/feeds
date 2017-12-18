@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/12" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2017/12/11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2017/12/18">
+<title>Rabbits Against Magic by Jonathan Lemon - Dec 18, 2017</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2017/12/18</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d2c03f00c455013506c0005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2017/12/17">
 <title>Rabbits Against Magic by Jonathan Lemon - Dec 17, 2017</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2017/12/17</link>
@@ -55,10 +60,5 @@
 <title>Rabbits Against Magic by Jonathan Lemon - Dec 12, 2017</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2017/12/12</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/705f0ed0bc280135036f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2017/12/11">
-<title>Rabbits Against Magic by Jonathan Lemon - Dec 11, 2017</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2017/12/11</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/712babb0bc280135036f005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
