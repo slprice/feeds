@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-23">
+<title>Dilbert -  Homeland Security Risk - Saturday December 23, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-23</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0acf6910bb4c01350303005056a9545d&#x22; title=&#x22; Homeland Security Risk - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-22">
 <title>Dilbert -  Human Sensation Slipping Away - Friday December 22, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday December 17, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-17</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/69a79c709d940135f869005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-16">
-<title>Dilbert - Product Is Too Addictive  - Saturday December 16, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-16</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/55b7ef10b5c6013500f1005056a9545d&#x22; title=&#x22;Product Is Too Addictive  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

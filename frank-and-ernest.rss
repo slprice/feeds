@@ -16,20 +16,25 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2017/12/16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frank-and-ernest/2017/12/23">
+<title>Frank and Ernest by Thaves - Dec 22, 2017</title>
+<link>http://www.gocomics.com/frank-and-ernest/2017/12/23</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/49f69570bdb80135042e005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frank-and-ernest/2017/12/22">
 <title>Frank and Ernest by Thaves - Dec 22, 2017</title>
 <link>http://www.gocomics.com/frank-and-ernest/2017/12/22</link>
-<description><![CDATA[<img src="//assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+<description><![CDATA[<img src="http://assets.amuniversal.com/49f69570bdb80135042e005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/frank-and-ernest/2017/12/21">
 <title>Frank and Ernest by Thaves - Dec 21, 2017</title>
@@ -55,10 +60,5 @@
 <title>Frank and Ernest by Thaves - Dec 17, 2017</title>
 <link>http://www.gocomics.com/frank-and-ernest/2017/12/17</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/0386a4e0a68d0135fb88005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frank-and-ernest/2017/12/16">
-<title>Frank and Ernest by Thaves - Dec 16, 2017</title>
-<link>http://www.gocomics.com/frank-and-ernest/2017/12/16</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/107ebd90b73e013501a0005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
