@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-24">
+<title>Dilbert -  - Sunday December 24, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-24</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6d2633c09d940135f869005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-23">
 <title>Dilbert -  Homeland Security Risk - Saturday December 23, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Apps Trigger Zombie Apocolypse  - Monday December 18, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-18</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/075c81e0bb4c01350303005056a9545d&#x22; title=&#x22;Apps Trigger Zombie Apocolypse   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-17">
-<title>Dilbert -  - Sunday December 17, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-17</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/69a79c709d940135f869005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
