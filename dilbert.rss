@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-26">
+<title>Dilbert - Cracked Screen  - Tuesday December 26, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-26</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/72fe0ab0c0ca0135050f005056a9545d&#x22; title=&#x22;Cracked Screen  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-25">
 <title>Dilbert - Beautiful, Slippery, Brittle  - Monday December 25, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Animal Testing Is Done - Wednesday December 20, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-20</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b1b7f8b0bb4a01350302005056a9545d&#x22; title=&#x22; Animal Testing Is Done - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-19">
-<title>Dilbert -  Zimbu Tests The App - Tuesday December 19, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-19</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/087ff390bb4c01350303005056a9545d&#x22; title=&#x22; Zimbu Tests The App - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
