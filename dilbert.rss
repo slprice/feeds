@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-27">
+<title>Dilbert - Winning Design Awards - Wednesday December 27, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/955d0a00c0c90135050f005056a9545d&#x22; title=&#x22;Winning Design Awards - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-26">
 <title>Dilbert - Cracked Screen  - Tuesday December 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Dopamine - Thursday December 21, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b2fcfd40bb4a01350302005056a9545d&#x22; title=&#x22; Dopamine - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-20">
-<title>Dilbert -  Animal Testing Is Done - Wednesday December 20, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b1b7f8b0bb4a01350302005056a9545d&#x22; title=&#x22; Animal Testing Is Done - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
