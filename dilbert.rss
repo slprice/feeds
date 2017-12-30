@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2017-12-30">
+<title>Dilbert - The Problem Is Humans  - Saturday December 30, 2017  </title>
+<link>http://dilbert.com/strip/2017-12-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9b6746a0c0c90135050f005056a9545d&#x22; title=&#x22;The Problem Is Humans  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-29">
 <title>Dilbert - Insurance For Phones  - Friday December 29, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday December 24, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6d2633c09d940135f869005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-23">
-<title>Dilbert -  Homeland Security Risk - Saturday December 23, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0acf6910bb4c01350303005056a9545d&#x22; title=&#x22; Homeland Security Risk - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
