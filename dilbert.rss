@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-26" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-01">
+<title>Dilbert - Laying Down Suppressive Fire  - Monday January 01, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-01</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3a6f5a40c6480135071f005056a9545d&#x22; title=&#x22;Laying Down Suppressive Fire   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2017-12-31">
 <title>Dilbert -  - Sunday December 31, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-31</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Cracked Screen  - Tuesday December 26, 2017  </title>
 <link>http://dilbert.com/strip/2017-12-26</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/72fe0ab0c0ca0135050f005056a9545d&#x22; title=&#x22;Cracked Screen  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-25">
-<title>Dilbert - Beautiful, Slippery, Brittle  - Monday December 25, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-25</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/92fea670c0c90135050f005056a9545d&#x22; title=&#x22;Beautiful, Slippery, Brittle   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
