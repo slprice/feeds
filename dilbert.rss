@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2017-12-31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-07">
+<title>Dilbert -  - Sunday January 07, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-07</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/574cefc0ceec01350a5b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-06">
 <title>Dilbert - Humans Have A Slight Advantage  - Saturday January 06, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Laying Down Suppressive Fire  - Monday January 01, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-01</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3a6f5a40c6480135071f005056a9545d&#x22; title=&#x22;Laying Down Suppressive Fire   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2017-12-31">
-<title>Dilbert -  - Sunday December 31, 2017  </title>
-<link>http://dilbert.com/strip/2017-12-31</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c02f0350a70a0135fbdb005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
