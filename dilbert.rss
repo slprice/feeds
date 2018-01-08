@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-08">
+<title>Dilbert - Dogbert&#x27;s Insult Consulting - Monday January 08, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5c703e10cee701350a56005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Insult Consulting - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-07">
 <title>Dilbert -  - Sunday January 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Has A Car Problem  - Tuesday January 02, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3c361c80c6480135071f005056a9545d&#x22; title=&#x22;Wally Has A Car Problem  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-01">
-<title>Dilbert - Laying Down Suppressive Fire  - Monday January 01, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3a6f5a40c6480135071f005056a9545d&#x22; title=&#x22;Laying Down Suppressive Fire   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
