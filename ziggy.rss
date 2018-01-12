@@ -20,6 +20,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/01/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/01/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/01/09" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/01/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/01/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/01/06" />
  </rdf:Seq>
@@ -44,6 +45,11 @@
 <title>Ziggy by Tom Wilson &#x26; Tom II - Jan 9, 2018</title>
 <link>http://www.gocomics.com/ziggy/2018/01/09</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/d8c87a10d3d701350bf8005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2018/01/08">
+<title>Ziggy by Tom Wilson &#x26; Tom II - Jan 8, 2018</title>
+<link>http://www.gocomics.com/ziggy/2018/01/08</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/d5c400d0d3d701350bf8005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/ziggy/2018/01/07">
 <title>Ziggy by Tom Wilson &#x26; Tom II - Jan 7, 2018</title>
