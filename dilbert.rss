@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-13">
+<title>Dilbert -  Offensive Tweet From Long Ago - Saturday January 13, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/657d4a50cee701350a56005056a9545d&#x22; title=&#x22; Offensive Tweet From Long Ago - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-12">
 <title>Dilbert - Coworkers Who Are Special  - Friday January 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday January 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/574cefc0ceec01350a5b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-06">
-<title>Dilbert - Humans Have A Slight Advantage  - Saturday January 06, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/18f1e400c6490135071f005056a9545d&#x22; title=&#x22;Humans Have A Slight Advantage  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
