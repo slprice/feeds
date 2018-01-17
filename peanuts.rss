@@ -18,7 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/01/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/01/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/01/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/01/12" />
@@ -35,11 +34,6 @@
 <title>Peanuts by Charles Schulz - Jan 16, 2018</title>
 <link>http://www.gocomics.com/peanuts/2018/01/16</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/bec065d0c968013508ad005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2018/01/15">
-<title>Peanuts by Charles Schulz - Jan 15, 2018</title>
-<link>http://www.gocomics.com/peanuts/2018/01/15</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/62a52c80c96a013508ae005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/01/14">
 <title>Peanuts by Charles Schulz - Jan 14, 2018</title>

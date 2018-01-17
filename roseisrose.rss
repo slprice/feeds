@@ -17,11 +17,9 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/11" />
  </rdf:Seq>
 </items>
@@ -30,11 +28,6 @@
 <title>Rose is Rose by Don Wimmer and Pat Brady - Jan 17, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/01/17</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/54ef4380d2f501350b8a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/01/16">
-<title>Rose is Rose by Don Wimmer and Pat Brady - Jan 16, 2018</title>
-<link>http://www.gocomics.com/roseisrose/2018/01/16</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/53d5e620d2f501350b8a005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/01/15">
 <title>Rose is Rose by Don Wimmer and Pat Brady - Jan 15, 2018</title>
@@ -50,11 +43,6 @@
 <title>Rose is Rose by Don Wimmer and Pat Brady - Jan 13, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/01/13</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/2a179210c98a013508d0005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/01/12">
-<title>Rose is Rose by Don Wimmer and Pat Brady - Jan 12, 2018</title>
-<link>http://www.gocomics.com/roseisrose/2018/01/12</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/28111230c98a013508d0005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/01/11">
 <title>Rose is Rose by Don Wimmer and Pat Brady - Jan 11, 2018</title>
