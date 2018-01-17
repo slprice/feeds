@@ -17,9 +17,11 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/17" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/13" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/01/11" />
  </rdf:Seq>
 </items>
@@ -28,6 +30,11 @@
 <title>Pearls Before Swine by Stephan Pastis - Jan 17, 2018</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2018/01/17</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/39eee080d78801350d13005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/01/16">
+<title>Pearls Before Swine by Stephan Pastis - Jan 16, 2018</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2018/01/16</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/386b5620d78801350d13005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/01/15">
 <title>Pearls Before Swine by Stephan Pastis - Jan 15, 2018</title>
@@ -43,6 +50,11 @@
 <title>Pearls Before Swine by Stephan Pastis - Jan 13, 2018</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2018/01/13</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/b0d04370d20d01350b19005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/01/12">
+<title>Pearls Before Swine by Stephan Pastis - Jan 12, 2018</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2018/01/12</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/cc953690d21101350b1d005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/01/11">
 <title>Pearls Before Swine by Stephan Pastis - Jan 11, 2018</title>
