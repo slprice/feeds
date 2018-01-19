@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-19">
+<title>Dilbert - Employee Body Cams  - Friday January 19, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7752dc20d2bd01350b65005056a9545d&#x22; title=&#x22;Employee Body Cams  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-18">
 <title>Dilbert - Data Encapsulation - Thursday January 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Offensive Tweet From Long Ago - Saturday January 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/657d4a50cee701350a56005056a9545d&#x22; title=&#x22; Offensive Tweet From Long Ago - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-12">
-<title>Dilbert - Coworkers Who Are Special  - Friday January 12, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/63a2f000cee701350a56005056a9545d&#x22; title=&#x22;Coworkers Who Are Special  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
