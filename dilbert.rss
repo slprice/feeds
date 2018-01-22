@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-22">
+<title>Dilbert - Unforseen Problems - Monday January 22, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/aa0c23f0d6c801350cc9005056a9545d&#x22; title=&#x22;Unforseen Problems - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-21">
 <title>Dilbert -  - Sunday January 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Ricky Joins The Ai Project  - Tuesday January 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/734dd580d2bd01350b65005056a9545d&#x22; title=&#x22;Ricky Joins The Ai Project  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-15">
-<title>Dilbert - Success Diminishes Other Guy  - Monday January 15, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/71ebbf30d2bd01350b65005056a9545d&#x22; title=&#x22;Success Diminishes Other Guy   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
