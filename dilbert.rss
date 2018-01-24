@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-24">
+<title>Dilbert - Alice Gives Honest Opinion - Wednesday January 24, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-24</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2b59acc0d6ca01350ccb005056a9545d&#x22; title=&#x22;Alice Gives Honest Opinion - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-23">
 <title>Dilbert - User Specifications Are Not Complete  - Tuesday January 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Data Encapsulation - Thursday January 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-18</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/760abea0d2bd01350b65005056a9545d&#x22; title=&#x22;Data Encapsulation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-17">
-<title>Dilbert - Asok Upgrades His Soul - Wednesday January 17, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-17</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/74b49420d2bd01350b65005056a9545d&#x22; title=&#x22;Asok Upgrades His Soul - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
