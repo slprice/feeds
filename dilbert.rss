@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-27">
+<title>Dilbert -  Dilbert Refuses To Admit He Is Wrong - Saturday January 27, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ab52ffe0d6c801350cc9005056a9545d&#x22; title=&#x22; Dilbert Refuses To Admit He Is Wrong - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-26">
 <title>Dilbert - Asok Is A Narcissist Too - Friday January 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday January 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4fce7c00ceec01350a5b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-20">
-<title>Dilbert - Ceo Gives Shoulder Rubs  - Saturday January 20, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/78a13830d2bd01350b65005056a9545d&#x22; title=&#x22;Ceo Gives Shoulder Rubs  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
