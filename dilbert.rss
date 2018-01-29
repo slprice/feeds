@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-29">
+<title>Dilbert - Murder By Car  - Monday January 29, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/db4e8fa0dd0d01350f17005056a9545d&#x22; title=&#x22;Murder By Car   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-28">
 <title>Dilbert -  - Sunday January 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - User Specifications Are Not Complete  - Tuesday January 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/70e33ab0d6cb01350ccd005056a9545d&#x22; title=&#x22;User Specifications Are Not Complete  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-22">
-<title>Dilbert - Unforseen Problems - Monday January 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/aa0c23f0d6c801350cc9005056a9545d&#x22; title=&#x22;Unforseen Problems - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
