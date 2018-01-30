@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/24" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/01/23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/01/30">
+<title>Rose is Rose by Don Wimmer and Pat Brady - Jan 30, 2018</title>
+<link>http://www.gocomics.com/roseisrose/2018/01/30</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/aacce800e1dc013510f3005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/01/29">
 <title>Rose is Rose by Don Wimmer and Pat Brady - Jan 29, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/01/29</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose by Don Wimmer and Pat Brady - Jan 24, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/01/24</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/4c3ee950d9e601350e3e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/01/23">
-<title>Rose is Rose by Don Wimmer and Pat Brady - Jan 23, 2018</title>
-<link>http://www.gocomics.com/roseisrose/2018/01/23</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/4ae2c010d9e601350e3e005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
