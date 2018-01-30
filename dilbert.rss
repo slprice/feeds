@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-30">
+<title>Dilbert - Kill Code In Car  - Tuesday January 30, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/04307c90dd1001350f18005056a9545d&#x22; title=&#x22;Kill Code In Car  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-29">
 <title>Dilbert - Murder By Car  - Monday January 29, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Alice Gives Honest Opinion - Wednesday January 24, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2b59acc0d6ca01350ccb005056a9545d&#x22; title=&#x22;Alice Gives Honest Opinion - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-23">
-<title>Dilbert - User Specifications Are Not Complete  - Tuesday January 23, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/70e33ab0d6cb01350ccd005056a9545d&#x22; title=&#x22;User Specifications Are Not Complete  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
