@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-25" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-24" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-01-31">
+<title>Dilbert - Backdoor Into Self Driving Car Code  - Wednesday January 31, 2018  </title>
+<link>http://dilbert.com/strip/2018-01-31</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3dc18cf0dd0f01350f18005056a9545d&#x22; title=&#x22;Backdoor Into Self Driving Car Code  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-01-30">
 <title>Dilbert - Kill Code In Car  - Tuesday January 30, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-30</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Absurd Absolute - Thursday January 25, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-25</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/721d3e80d6cb01350ccd005056a9545d&#x22; title=&#x22; Absurd Absolute - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-24">
-<title>Dilbert - Alice Gives Honest Opinion - Wednesday January 24, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-24</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2b59acc0d6ca01350ccb005056a9545d&#x22; title=&#x22;Alice Gives Honest Opinion - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
