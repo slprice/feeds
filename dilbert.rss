@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-27" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-01-26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-02">
+<title>Dilbert - Ted Dies By Software - Friday February 02, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-02</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dc8c0bd0dd0d01350f17005056a9545d&#x22; title=&#x22;Ted Dies By Software - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-01">
 <title>Dilbert - Dilbert Won&#x27;t Kill - Thursday February 01, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-01</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Dilbert Refuses To Admit He Is Wrong - Saturday January 27, 2018  </title>
 <link>http://dilbert.com/strip/2018-01-27</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ab52ffe0d6c801350cc9005056a9545d&#x22; title=&#x22; Dilbert Refuses To Admit He Is Wrong - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-01-26">
-<title>Dilbert - Asok Is A Narcissist Too - Friday January 26, 2018  </title>
-<link>http://dilbert.com/strip/2018-01-26</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2cabd790d6ca01350ccb005056a9545d&#x22; title=&#x22;Asok Is A Narcissist Too - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
