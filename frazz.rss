@@ -19,10 +19,8 @@
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/02/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/02/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/02/03" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/02/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/02/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/01/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/01/30" />
  </rdf:Seq>
 </items>
 </channel>
@@ -41,11 +39,6 @@
 <link>http://www.gocomics.com/frazz/2018/02/03</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/cb8a7860e28501351138005056a9545d" />]]></description>
 </item>
-<item rdf:about="http://www.gocomics.com/frazz/2018/02/02">
-<title>Frazz by Jef Mallett - Feb 2, 2018</title>
-<link>http://www.gocomics.com/frazz/2018/02/02</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/c9ea9a00e28501351138005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/frazz/2018/02/01">
 <title>Frazz by Jef Mallett - Feb 1, 2018</title>
 <link>http://www.gocomics.com/frazz/2018/02/01</link>
@@ -55,10 +48,5 @@
 <title>Frazz by Jef Mallett - Jan 31, 2018</title>
 <link>http://www.gocomics.com/frazz/2018/01/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/c6df4d60e28501351138005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2018/01/30">
-<title>Frazz by Jef Mallett - Jan 30, 2018</title>
-<link>http://www.gocomics.com/frazz/2018/01/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/c557f870e28501351138005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
