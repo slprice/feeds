@@ -16,6 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/02/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/02/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/02/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/02/02" />
@@ -25,6 +26,11 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/02/05">
+<title>Rabbits Against Magic by Jonathan Lemon - Feb 5, 2018</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2018/02/05</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/1e777720ea8301351481005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/02/04">
 <title>Rabbits Against Magic by Jonathan Lemon - Feb 4, 2018</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/02/04</link>
