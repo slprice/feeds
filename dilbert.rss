@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-05" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-11">
+<title>Dilbert -  - Sunday February 11, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-11</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5b0ecd30ceec01350a5b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-10">
 <title>Dilbert - Need To Be More Creative - Saturday February 10, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-10</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Sunk Costs - Monday February 05, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-05</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2d6c4c90e749013512ee005056a9545d&#x22; title=&#x22;Sunk Costs - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-04">
-<title>Dilbert -  - Sunday February 04, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-04</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5ec4d5d0ceec01350a5b005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
