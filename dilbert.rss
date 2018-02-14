@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-08" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-14">
+<title>Dilbert - Pill For Boss Conversations - Wednesday February 14, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9bdabf80e74a013512ef005056a9545d&#x22; title=&#x22;Pill For Boss Conversations - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-13">
 <title>Dilbert - Anger Issues - Tuesday February 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-13</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Someone Stole Phb&#x27;s Idea - Thursday February 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-08</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/980f9810e74a013512ef005056a9545d&#x22; title=&#x22; Someone Stole Phb&#x27;s Idea - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-07">
-<title>Dilbert - Wally Finds Critical Bug - Wednesday February 07, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-07</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/96cfe460e74a013512ef005056a9545d&#x22; title=&#x22;Wally Finds Critical Bug - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
