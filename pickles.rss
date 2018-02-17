@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/11" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/02/10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2018/02/17">
+<title>Pickles by Brian Crane - Feb 17, 2018</title>
+<link>http://www.gocomics.com/pickles/2018/02/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/ecd16500e99d0135140e005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2018/02/16">
 <title>Pickles by Brian Crane - Feb 16, 2018</title>
 <link>http://www.gocomics.com/pickles/2018/02/16</link>
@@ -55,10 +60,5 @@
 <title>Pickles by Brian Crane - Feb 11, 2018</title>
 <link>http://www.gocomics.com/pickles/2018/02/11</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/29b8aee0d31701350ba8005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2018/02/10">
-<title>Pickles by Brian Crane - Feb 10, 2018</title>
-<link>http://www.gocomics.com/pickles/2018/02/10</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/a6d75e60e397013511d2005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
