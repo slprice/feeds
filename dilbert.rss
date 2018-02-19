@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-19">
+<title>Dilbert - We&#x27;re Not A Bunch Of Idiots  - Monday February 19, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/74443910ed840135156d005056a9545d&#x22; title=&#x22;We&#x27;re Not A Bunch Of Idiots   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-18">
 <title>Dilbert -  - Sunday February 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Anger Issues - Tuesday February 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9aab6cf0e74a013512ef005056a9545d&#x22; title=&#x22;Anger Issues - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-12">
-<title>Dilbert - Worried About Dilbert&#x27;s Mental Health - Monday February 12, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/30027350e749013512ee005056a9545d&#x22; title=&#x22;Worried About Dilbert&#x27;s Mental Health - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
