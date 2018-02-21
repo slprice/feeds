@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-21">
+<title>Dilbert - Wally Maintains The Network  - Wednesday February 21, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-21</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/42885580ed8701351571005056a9545d&#x22; title=&#x22;Wally Maintains The Network  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-20">
 <title>Dilbert - Not Morons  - Tuesday February 20, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Boss Is Sane - Thursday February 15, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-15</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9d132b50e74a013512ef005056a9545d&#x22; title=&#x22;Boss Is Sane - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-14">
-<title>Dilbert - Pill For Boss Conversations - Wednesday February 14, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-14</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9bdabf80e74a013512ef005056a9545d&#x22; title=&#x22;Pill For Boss Conversations - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
