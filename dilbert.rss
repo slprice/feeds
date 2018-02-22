@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-22">
+<title>Dilbert - Compensation Based On Happiness - Thursday February 22, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ea4a41f0ed850135156f005056a9545d&#x22; title=&#x22;Compensation Based On Happiness - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-21">
 <title>Dilbert - Wally Maintains The Network  - Wednesday February 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Directionally Accurate - Friday February 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/313477d0e749013512ee005056a9545d&#x22; title=&#x22;Directionally Accurate - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-15">
-<title>Dilbert - Boss Is Sane - Thursday February 15, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9d132b50e74a013512ef005056a9545d&#x22; title=&#x22;Boss Is Sane - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
