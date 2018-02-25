@@ -19,6 +19,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/23" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/02/19" />
@@ -38,6 +39,11 @@
 <item rdf:about="http://www.gocomics.com/pcandpixel/2018/02/23">
 <title>PC and Pixel by Tak Bui - Feb 25, 2018</title>
 <link>http://www.gocomics.com/pcandpixel/2018/02/23</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/4c9bbbe0fbee01351b1d005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2018/02/22">
+<title>PC and Pixel by Tak Bui - Feb 25, 2018</title>
+<link>http://www.gocomics.com/pcandpixel/2018/02/22</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/4c9bbbe0fbee01351b1d005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2018/02/21">
