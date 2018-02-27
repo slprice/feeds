@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-02-27">
+<title>Dilbert - How To Use Personality Profiles  - Tuesday February 27, 2018  </title>
+<link>http://dilbert.com/strip/2018-02-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ac57edd0f24d0135172d005056a9545d&#x22; title=&#x22;How To Use Personality Profiles  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-26">
 <title>Dilbert - Dogbert&#x27;s Personality Profiles  - Monday February 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Maintains The Network  - Wednesday February 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/42885580ed8701351571005056a9545d&#x22; title=&#x22;Wally Maintains The Network  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-20">
-<title>Dilbert - Not Morons  - Tuesday February 20, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e8f69230ed850135156f005056a9545d&#x22; title=&#x22;Not Morons  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
