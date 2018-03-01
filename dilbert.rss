@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-01">
+<title>Dilbert - Optimal Meeting Density  - Thursday March 01, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-01</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/aef81bb0f24d0135172d005056a9545d&#x22; title=&#x22;Optimal Meeting Density  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-02-28">
 <title>Dilbert - Disgruntled Carol - Wednesday February 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Listening To A Millenial - Friday February 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/eb928de0ed850135156f005056a9545d&#x22; title=&#x22;Listening To A Millenial - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-22">
-<title>Dilbert - Compensation Based On Happiness - Thursday February 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ea4a41f0ed850135156f005056a9545d&#x22; title=&#x22;Compensation Based On Happiness - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
