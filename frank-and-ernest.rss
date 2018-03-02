@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/03/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/03/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/02/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/02/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/02/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/02/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/02/24" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2018/02/23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frank-and-ernest/2018/03/02">
+<title>Frank and Ernest by Thaves - Mar 2, 2018</title>
+<link>http://www.gocomics.com/frank-and-ernest/2018/03/02</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/80e602e0f4b101351864005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frank-and-ernest/2018/03/01">
 <title>Frank and Ernest by Thaves - Mar 1, 2018</title>
 <link>http://www.gocomics.com/frank-and-ernest/2018/03/01</link>
@@ -55,10 +60,5 @@
 <title>Frank and Ernest by Thaves - Feb 24, 2018</title>
 <link>http://www.gocomics.com/frank-and-ernest/2018/02/24</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/c650f8f0ef240135163b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frank-and-ernest/2018/02/23">
-<title>Frank and Ernest by Thaves - Feb 23, 2018</title>
-<link>http://www.gocomics.com/frank-and-ernest/2018/02/23</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/c4ccc0e0ef240135163b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
