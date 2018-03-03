@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-25" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-24" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-03">
+<title>Dilbert - Boss Checks On His Nickname - Saturday March 03, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-03</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b0362e40f24d0135172d005056a9545d&#x22; title=&#x22;Boss Checks On His Nickname - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-02">
 <title>Dilbert - Boss The Bottleneck  - Friday March 02, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-02</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday February 25, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-25</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/67c89680d3d501350bf8005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-24">
-<title>Dilbert - Millenial Fever - Saturday February 24, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-24</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/43c74140ed8701351571005056a9545d&#x22; title=&#x22;Millenial Fever - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
