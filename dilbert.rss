@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-26" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-04">
+<title>Dilbert -  - Sunday March 04, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-04</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/65a03af0d3d501350bf8005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-03">
 <title>Dilbert - Boss Checks On His Nickname - Saturday March 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-03</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dogbert&#x27;s Personality Profiles  - Monday February 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-26</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1b1f78e0f24f0135172e005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Personality Profiles   - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-25">
-<title>Dilbert -  - Sunday February 25, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-25</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/67c89680d3d501350bf8005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
