@@ -11,7 +11,7 @@
 >
 
 <channel rdf:about="http://www.gocomics.com/herman/">
-<title>Herman by Jim Unger</title>
+<title>Herman</title>
 <link>http://www.gocomics.com/herman/</link>
 <description></description>
 <items>
@@ -27,37 +27,37 @@
 </items>
 </channel>
 <item rdf:about="http://www.gocomics.com/herman/2018/03/06">
-<title>Herman by Jim Unger - Mar 6, 2018</title>
+<title>Herman - Mar 6, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/06</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/da038350f99501351a28005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/03/05">
-<title>Herman by Jim Unger - Mar 5, 2018</title>
+<title>Herman - Mar 5, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/05</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/dcb01d80f99501351a28005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/03/04">
-<title>Herman by Jim Unger - Mar 4, 2018</title>
+<title>Herman - Mar 4, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/04</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/b7525ba0e2020135110f005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/03/03">
-<title>Herman by Jim Unger - Mar 3, 2018</title>
+<title>Herman - Mar 3, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/03</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/21017870f2830135175a005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/03/02">
-<title>Herman by Jim Unger - Mar 2, 2018</title>
+<title>Herman - Mar 2, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/02</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/265161e0f2830135175a005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/03/01">
-<title>Herman by Jim Unger - Mar 1, 2018</title>
+<title>Herman - Mar 1, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/01</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/2504cb00f2830135175a005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/02/28">
-<title>Herman by Jim Unger - Feb 28, 2018</title>
+<title>Herman - Feb 28, 2018</title>
 <link>http://www.gocomics.com/herman/2018/02/28</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/23a4fd70f2830135175a005056a9545d" />]]></description>
 </item>
