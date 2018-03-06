@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-28" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-02-27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-06">
+<title>Dilbert - When Clarity Is Not Your Friend - Tuesday March 06, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-06</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4a849610f94b013519e9005056a9545d&#x22; title=&#x22;When Clarity Is Not Your Friend - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-05">
 <title>Dilbert - Elbonian Slave Labor  - Monday March 05, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Disgruntled Carol - Wednesday February 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-02-28</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/adacb910f24d0135172d005056a9545d&#x22; title=&#x22;Disgruntled Carol - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-02-27">
-<title>Dilbert - How To Use Personality Profiles  - Tuesday February 27, 2018  </title>
-<link>http://dilbert.com/strip/2018-02-27</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ac57edd0f24d0135172d005056a9545d&#x22; title=&#x22;How To Use Personality Profiles  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
