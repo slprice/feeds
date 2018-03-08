@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/03/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/03/08">
+<title>Wizard of Id - Mar 8, 2018</title>
+<link>http://www.gocomics.com/wizardofid/2018/03/08</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/0a79cfe0ec16013514ed005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2018/03/07">
 <title>Wizard of Id - Mar 7, 2018</title>
 <link>http://www.gocomics.com/wizardofid/2018/03/07</link>
@@ -55,10 +60,5 @@
 <title>Wizard of Id - Mar 2, 2018</title>
 <link>http://www.gocomics.com/wizardofid/2018/03/02</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/460a9810f4ed01351897005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2018/03/01">
-<title>Wizard of Id - Mar 1, 2018</title>
-<link>http://www.gocomics.com/wizardofid/2018/03/01</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/4406eff0f4ed01351897005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
