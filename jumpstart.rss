@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/03" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/03/02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/03/09">
+<title>JumpStart - Mar 9, 2018</title>
+<link>http://www.gocomics.com/jumpstart/2018/03/09</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/9c9423c0fe0a01351bbf005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/03/08">
 <title>JumpStart - Mar 8, 2018</title>
 <link>http://www.gocomics.com/jumpstart/2018/03/08</link>
@@ -55,10 +60,5 @@
 <title>JumpStart - Mar 3, 2018</title>
 <link>http://www.gocomics.com/jumpstart/2018/03/03</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/e8051060f89901351998005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/03/02">
-<title>JumpStart - Mar 2, 2018</title>
-<link>http://www.gocomics.com/jumpstart/2018/03/02</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/7e2497f0f89801351996005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
