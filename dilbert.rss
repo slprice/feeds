@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-13">
+<title>Dilbert - Team Building Lunch - Tuesday March 13, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/535f9b00f94b013519e9005056a9545d&#x22; title=&#x22;Team Building Lunch - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-12">
 <title>Dilbert - Meeting Rooms Are Booked  - Monday March 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Two Hour Summary - Wednesday March 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4c112690f94b013519e9005056a9545d&#x22; title=&#x22;Two Hour Summary - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-06">
-<title>Dilbert - When Clarity Is Not Your Friend - Tuesday March 06, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4a849610f94b013519e9005056a9545d&#x22; title=&#x22;When Clarity Is Not Your Friend - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

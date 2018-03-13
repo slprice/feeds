@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/03/13">
+<title>Rose is Rose - Mar 13, 2018</title>
+<link>http://www.gocomics.com/roseisrose/2018/03/13</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/c1bc6820ffc601351caa005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/03/12">
 <title>Rose is Rose - Mar 12, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/03/12</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose - Mar 7, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/03/07</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/71eb0450fa3401351a72005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/03/06">
-<title>Rose is Rose - Mar 6, 2018</title>
-<link>http://www.gocomics.com/roseisrose/2018/03/06</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/7070c2d0fa3401351a72005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
