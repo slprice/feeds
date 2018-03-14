@@ -16,16 +16,21 @@
 <description>Mutts is a comic strip, created by Patrick McDonnell, that explores the special bond between animals and their guardians, and the endearing friendship of Earl, the dog, and Mooch the cat. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzE0XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzEzXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzEyXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzX250Yi4yMDE4MDMxMV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzEwXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA5XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA4XzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA3XzE0NDAuZ2lm" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzE0XzE0NDAuZ2lm">
+<title>Mutts Comic Strip for March 14, 2018</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzE0XzE0NDAuZ2lm</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzE0XzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzE0XzE0NDAuZ2lm" alt="Mutts Comic Strip for March 14, 2018" /><br />Mutts Comic Strip for March 14, 2018</a><br /><a href="http://comicskingdom.com/mutts/2018-03-14/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzEzXzE0NDAuZ2lm">
 <title>Mutts Comic Strip for March 13, 2018</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzEzXzE0NDAuZ2lm</link>
@@ -55,10 +60,5 @@
 <title>Mutts Comic Strip for March 08, 2018</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA4XzE0NDAuZ2lm</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA4XzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA4XzE0NDAuZ2lm" alt="Mutts Comic Strip for March 08, 2018" /><br />Mutts Comic Strip for March 08, 2018</a><br /><a href="http://comicskingdom.com/mutts/2018-03-08/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA3XzE0NDAuZ2lm">
-<title>Mutts Comic Strip for March 07, 2018</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA3XzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA3XzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE4LzAzL011dHRzLjIwMTgwMzA3XzE0NDAuZ2lm" alt="Mutts Comic Strip for March 07, 2018" /><br />Mutts Comic Strip for March 07, 2018</a><br /><a href="http://comicskingdom.com/mutts/2018-03-07/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
