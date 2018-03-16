@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-16">
+<title>Dilbert - Moth Man Keeps Popping In - Friday March 16, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-16</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/57652df0f94b013519e9005056a9545d&#x22; title=&#x22;Moth Man Keeps Popping In - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-15">
 <title>Dilbert - Mothman Detects Energy - Thursday March 15, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Mentor Can&#x27;t Tell A Hoax From Reality - Saturday March 10, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-10</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5066a320f94b013519e9005056a9545d&#x22; title=&#x22;Mentor Can&#x27;t Tell A Hoax From Reality - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-09">
-<title>Dilbert - Boss Loves Criticism - Friday March 09, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-09</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4ef05bb0f94b013519e9005056a9545d&#x22; title=&#x22;Boss Loves Criticism - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
