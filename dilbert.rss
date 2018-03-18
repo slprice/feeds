@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-18">
+<title>Dilbert -  - Sunday March 18, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2c343590d88c01350da9005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-17">
 <title>Dilbert - Moth Man Visits Alice - Saturday March 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Meeting Rooms Are Booked  - Monday March 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/51dc81d0f94b013519e9005056a9545d&#x22; title=&#x22;Meeting Rooms Are Booked  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-11">
-<title>Dilbert -  - Sunday March 11, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cc2eb690d42201350c1a005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
