@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-19">
+<title>Dilbert - Porch Thief Is Neutralized  - Monday March 19, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5c3082e002cb01361d8d005056a9545d&#x22; title=&#x22;Porch Thief Is Neutralized  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-18">
 <title>Dilbert -  - Sunday March 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Team Building Lunch - Tuesday March 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/535f9b00f94b013519e9005056a9545d&#x22; title=&#x22;Team Building Lunch - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-12">
-<title>Dilbert - Meeting Rooms Are Booked  - Monday March 12, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/51dc81d0f94b013519e9005056a9545d&#x22; title=&#x22;Meeting Rooms Are Booked  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
