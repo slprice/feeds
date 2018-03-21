@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-21">
+<title>Dilbert - Hot And Cold In The Office - Wednesday March 21, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-21</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5e6773f002cb01361d8d005056a9545d&#x22; title=&#x22;Hot And Cold In The Office - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-20">
 <title>Dilbert - Temperature Court - Tuesday March 20, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Mothman Detects Energy - Thursday March 15, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-15</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5612b520f94b013519e9005056a9545d&#x22; title=&#x22;Mothman Detects Energy - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-14">
-<title>Dilbert - Story Telling Mothman - Wednesday March 14, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-14</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/54b4b920f94b013519e9005056a9545d&#x22; title=&#x22;Story Telling Mothman - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
