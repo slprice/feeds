@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-22">
+<title>Dilbert - Unplugged Server - Thursday March 22, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/219a7ea002ce01361d90005056a9545d&#x22; title=&#x22;Unplugged Server - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-21">
 <title>Dilbert - Hot And Cold In The Office - Wednesday March 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Moth Man Keeps Popping In - Friday March 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/57652df0f94b013519e9005056a9545d&#x22; title=&#x22;Moth Man Keeps Popping In - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-15">
-<title>Dilbert - Mothman Detects Energy - Thursday March 15, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5612b520f94b013519e9005056a9545d&#x22; title=&#x22;Mothman Detects Energy - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
