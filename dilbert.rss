@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-23">
+<title>Dilbert - No Good Ideas In Decades - Friday March 23, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-23</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cfd7521002cc01361d8e005056a9545d&#x22; title=&#x22;No Good Ideas In Decades - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-22">
 <title>Dilbert - Unplugged Server - Thursday March 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Moth Man Visits Alice - Saturday March 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-17</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/58b9afb0f94b013519e9005056a9545d&#x22; title=&#x22;Moth Man Visits Alice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-16">
-<title>Dilbert - Moth Man Keeps Popping In - Friday March 16, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-16</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/57652df0f94b013519e9005056a9545d&#x22; title=&#x22;Moth Man Keeps Popping In - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
