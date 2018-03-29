@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-03-29">
+<title>Dilbert - Doing Nothing - Thursday March 29, 2018  </title>
+<link>http://dilbert.com/strip/2018-03-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c27d2d10084101361fb4005056a9545d&#x22; title=&#x22;Doing Nothing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-03-28">
 <title>Dilbert - To Do List - Wednesday March 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - No Good Ideas In Decades - Friday March 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cfd7521002cc01361d8e005056a9545d&#x22; title=&#x22;No Good Ideas In Decades - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-22">
-<title>Dilbert - Unplugged Server - Thursday March 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/219a7ea002ce01361d90005056a9545d&#x22; title=&#x22;Unplugged Server - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
