@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/26" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/03/25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2018/04/01">
+<title>B.C. - Apr 1, 2018</title>
+<link>http://www.gocomics.com/bc/2018/04/01</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/17ba1e601260013623a7005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2018/03/31">
 <title>B.C. - Mar 31, 2018</title>
 <link>http://www.gocomics.com/bc/2018/03/31</link>
@@ -55,10 +60,5 @@
 <title>B.C. - Mar 26, 2018</title>
 <link>http://www.gocomics.com/bc/2018/03/26</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/ba582de0efd10135168c005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/03/25">
-<title>B.C. - Mar 25, 2018</title>
-<link>http://www.gocomics.com/bc/2018/03/25</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/ea89c0500cdf0136219c005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
