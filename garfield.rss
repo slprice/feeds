@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/03/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/03/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/03/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/03/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/03/27" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/03/26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/garfield/2018/04/02">
+<title>Garfield - Apr 2, 2018</title>
+<link>http://www.gocomics.com/garfield/2018/04/02</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/3fa33f30fe4401351bea005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/garfield/2018/04/01">
 <title>Garfield - Apr 1, 2018</title>
 <link>http://www.gocomics.com/garfield/2018/04/01</link>
@@ -55,10 +60,5 @@
 <title>Garfield - Mar 27, 2018</title>
 <link>http://www.gocomics.com/garfield/2018/03/27</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/3b196220fe4401351bea005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/03/26">
-<title>Garfield - Mar 26, 2018</title>
-<link>http://www.gocomics.com/garfield/2018/03/26</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/4877eb70fe4401351bea005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
