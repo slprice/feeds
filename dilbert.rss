@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-30" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-05">
+<title>Dilbert - Team Building Dance - Thursday April 05, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-05</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/eb691b700dcf013621d2005056a9545d&#x22; title=&#x22;Team Building Dance - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-04">
 <title>Dilbert - Value Of An Employee&#x27;s Life - Wednesday April 04, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-04</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Call My Lost Phone - Friday March 30, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-30</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3033b1e0084301361fb6005056a9545d&#x22; title=&#x22;Call My Lost Phone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-29">
-<title>Dilbert - Doing Nothing - Thursday March 29, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-29</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c27d2d10084101361fb4005056a9545d&#x22; title=&#x22;Doing Nothing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
