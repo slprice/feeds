@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-31" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-03-30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-06">
+<title>Dilbert - Elbonian Interference - Friday April 06, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-06</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7842a0400dce013621cf005056a9545d&#x22; title=&#x22;Elbonian Interference - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-05">
 <title>Dilbert - Team Building Dance - Thursday April 05, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Anyone Fired Lately - Saturday March 31, 2018  </title>
 <link>http://dilbert.com/strip/2018-03-31</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/79f5e6d0084401361fb7005056a9545d&#x22; title=&#x22;Anyone Fired Lately - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-03-30">
-<title>Dilbert - Call My Lost Phone - Friday March 30, 2018  </title>
-<link>http://dilbert.com/strip/2018-03-30</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3033b1e0084301361fb6005056a9545d&#x22; title=&#x22;Call My Lost Phone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
