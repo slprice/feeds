@@ -11,21 +11,26 @@
 >
 
 <channel rdf:about="http://www.gocomics.com/calvinandhobbes/">
-<title>Calvin and Hobbes</title>
+<title>Calvin and Hobbes By Bill Watterson</title>
 <link>http://www.gocomics.com/calvinandhobbes/</link>
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/04/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/04/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/03/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/03/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/04/06">
+<title>Calvin and Hobbes - Apr 6, 2018</title>
+<link>http://www.gocomics.com/calvinandhobbes/2018/04/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/3f90be90ff0d01351c55005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/04/05">
 <title>Calvin and Hobbes - Apr 5, 2018</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/04/05</link>
@@ -55,10 +60,5 @@
 <title>Calvin and Hobbes - Mar 31, 2018</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/03/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/495c5700e2c301351168005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/03/30">
-<title>Calvin and Hobbes - Mar 30, 2018</title>
-<link>http://www.gocomics.com/calvinandhobbes/2018/03/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/4d8ad060e2c301351168005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

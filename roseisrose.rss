@@ -11,21 +11,26 @@
 >
 
 <channel rdf:about="http://www.gocomics.com/roseisrose/">
-<title>Rose is Rose</title>
+<title>Rose is Rose By Don Wimmer and Pat Brady</title>
 <link>http://www.gocomics.com/roseisrose/</link>
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/04/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/04/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/03/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/04/06">
+<title>Rose is Rose - Apr 6, 2018</title>
+<link>http://www.gocomics.com/roseisrose/2018/04/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/dbd4b030110301362364005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/04/05">
 <title>Rose is Rose - Apr 5, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/04/05</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose - Mar 31, 2018</title>
 <link>http://www.gocomics.com/roseisrose/2018/03/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/3ce73a000b4d0136213c005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/03/30">
-<title>Rose is Rose - Mar 30, 2018</title>
-<link>http://www.gocomics.com/roseisrose/2018/03/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/3b90a4c00b4d0136213c005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

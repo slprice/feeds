@@ -11,21 +11,26 @@
 >
 
 <channel rdf:about="http://www.gocomics.com/herman/">
-<title>Herman</title>
+<title>Herman By Jim Unger</title>
 <link>http://www.gocomics.com/herman/</link>
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/04/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/04/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/03/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/03/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2018/04/06">
+<title>Herman - Apr 6, 2018</title>
+<link>http://www.gocomics.com/herman/2018/04/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/8ae1fe000e3e01362209005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2018/04/05">
 <title>Herman - Apr 5, 2018</title>
 <link>http://www.gocomics.com/herman/2018/04/05</link>
@@ -55,10 +60,5 @@
 <title>Herman - Mar 31, 2018</title>
 <link>http://www.gocomics.com/herman/2018/03/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/65bd6e40087b01361fde005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2018/03/30">
-<title>Herman - Mar 30, 2018</title>
-<link>http://www.gocomics.com/herman/2018/03/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/6b40f250087b01361fde005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

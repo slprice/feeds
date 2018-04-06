@@ -11,21 +11,26 @@
 >
 
 <channel rdf:about="http://www.gocomics.com/rabbitsagainstmagic/">
-<title>Rabbits Against Magic</title>
+<title>Rabbits Against Magic By Jonathan Lemon</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/</link>
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/04/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/04/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/03/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/03/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/04/06">
+<title>Rabbits Against Magic - Apr 6, 2018</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2018/04/06</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/78e522b018ec01362632005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/04/05">
 <title>Rabbits Against Magic - Apr 5, 2018</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/04/05</link>
@@ -55,10 +60,5 @@
 <title>Rabbits Against Magic - Mar 31, 2018</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/03/31</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/6d82a2d015bf01362517005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/03/30">
-<title>Rabbits Against Magic - Mar 30, 2018</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2018/03/30</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/8dacc06010450136231a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
