@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-08" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-14">
+<title>Dilbert - No Path To Success - Saturday April 14, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ec156a901352013623ee005056a9545d&#x22; title=&#x22;No Path To Success - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-13">
 <title>Dilbert - Exactly What Guilty People Say  - Friday April 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-13</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday April 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-08</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9c0154c0f27a01351756005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-07">
-<title>Dilbert - Elbonian Interference With Ads - Saturday April 07, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-07</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/79941ea00dce013621cf005056a9545d&#x22; title=&#x22;Elbonian Interference With Ads - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
