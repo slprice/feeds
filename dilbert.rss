@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-09" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-15">
+<title>Dilbert -  - Sunday April 15, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-15</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4e2dd020f59f013518f1005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-14">
 <title>Dilbert - No Path To Success - Saturday April 14, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-14</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - How Conspiracy Theories Start  - Monday April 09, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-09</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4a3eb5701354013623f1005056a9545d&#x22; title=&#x22;How Conspiracy Theories Start  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-08">
-<title>Dilbert -  - Sunday April 08, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-08</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9c0154c0f27a01351756005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
