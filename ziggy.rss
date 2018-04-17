@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/11" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/04/10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/ziggy/2018/04/17">
+<title>Ziggy - Apr 17, 2018</title>
+<link>http://www.gocomics.com/ziggy/2018/04/17</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/7378af501e760136284b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/ziggy/2018/04/16">
 <title>Ziggy - Apr 16, 2018</title>
 <link>http://www.gocomics.com/ziggy/2018/04/16</link>
@@ -55,10 +60,5 @@
 <title>Ziggy - Apr 11, 2018</title>
 <link>http://www.gocomics.com/ziggy/2018/04/11</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/6a2377d018f601362635005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/04/10">
-<title>Ziggy - Apr 10, 2018</title>
-<link>http://www.gocomics.com/ziggy/2018/04/10</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/6bb6abd018f601362635005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
