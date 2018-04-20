@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-14" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-20">
+<title>Dilbert - Dumb Question - Friday April 20, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-20</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6bb1744018bf01362611005056a9545d&#x22; title=&#x22;Dumb Question - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-19">
 <title>Dilbert - Terrible Personality - Thursday April 19, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-19</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - No Path To Success - Saturday April 14, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-14</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ec156a901352013623ee005056a9545d&#x22; title=&#x22;No Path To Success - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-13">
-<title>Dilbert - Exactly What Guilty People Say  - Friday April 13, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-13</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ea89ff301352013623ee005056a9545d&#x22; title=&#x22;Exactly What Guilty People Say  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
