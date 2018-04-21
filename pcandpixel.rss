@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/04/14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2018/04/21">
+<title>PC and Pixel - Apr 21, 2018</title>
+<link>http://www.gocomics.com/pcandpixel/2018/04/21</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/31f75f102163013629ba005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2018/04/20">
 <title>PC and Pixel - Apr 20, 2018</title>
 <link>http://www.gocomics.com/pcandpixel/2018/04/20</link>
@@ -55,10 +60,5 @@
 <title>PC and Pixel - Apr 15, 2018</title>
 <link>http://www.gocomics.com/pcandpixel/2018/04/15</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/1d0283c02161013629b8005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2018/04/14">
-<title>PC and Pixel - Apr 14, 2018</title>
-<link>http://www.gocomics.com/pcandpixel/2018/04/14</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/388a76d01e2101362812005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
