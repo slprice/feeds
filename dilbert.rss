@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-24">
+<title>Dilbert - Totally Painless Brain Removal - Tuesday April 24, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-24</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/896223301f0b0136287e005056a9545d&#x22; title=&#x22;Totally Painless Brain Removal - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-23">
 <title>Dilbert - Cryogenic Investment Firm  - Monday April 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Boss Instincts - Wednesday April 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-18</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9e2882f018bc0136260d005056a9545d&#x22; title=&#x22;Boss Instincts - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-17">
-<title>Dilbert - Deducing Rank - Tuesday April 17, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-17</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6a5a835018bf01362611005056a9545d&#x22; title=&#x22;Deducing Rank - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
