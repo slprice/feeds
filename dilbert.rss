@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-26">
+<title>Dilbert - Kicking Brains Into The River - Thursday April 26, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-26</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e0ce94601f0c01362880005056a9545d&#x22; title=&#x22;Kicking Brains Into The River - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-25">
 <title>Dilbert - Brains In A River - Wednesday April 25, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dumb Question - Friday April 20, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-20</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6bb1744018bf01362611005056a9545d&#x22; title=&#x22;Dumb Question - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-19">
-<title>Dilbert - Terrible Personality - Thursday April 19, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-19</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9f73034018bc0136260d005056a9545d&#x22; title=&#x22;Terrible Personality - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
