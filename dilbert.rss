@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-27">
+<title>Dilbert - Arresting The Rich - Friday April 27, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/15208f101f0a0136287c005056a9545d&#x22; title=&#x22;Arresting The Rich - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-26">
 <title>Dilbert - Kicking Brains Into The River - Thursday April 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Show More Initiative - Saturday April 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6d01c0a018bf01362611005056a9545d&#x22; title=&#x22;Show More Initiative - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-20">
-<title>Dilbert - Dumb Question - Friday April 20, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6bb1744018bf01362611005056a9545d&#x22; title=&#x22;Dumb Question - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

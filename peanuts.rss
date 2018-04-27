@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/04/27">
+<title>Peanuts - Apr 27, 2018</title>
+<link>http://www.gocomics.com/peanuts/2018/04/27</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/2e72ded01f0a0136287c005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/04/26">
 <title>Peanuts - Apr 26, 2018</title>
 <link>http://www.gocomics.com/peanuts/2018/04/26</link>
@@ -55,10 +60,5 @@
 <title>Peanuts - Apr 21, 2018</title>
 <link>http://www.gocomics.com/peanuts/2018/04/21</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/57bcf3a018be0136260f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2018/04/20">
-<title>Peanuts - Apr 20, 2018</title>
-<link>http://www.gocomics.com/peanuts/2018/04/20</link>
-<description><![CDATA[<img src="http://assets.amuniversal.com/aa14834018bc0136260d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
