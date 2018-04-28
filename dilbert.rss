@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-04-28">
+<title>Dilbert - Aggressive Littering - Saturday April 28, 2018  </title>
+<link>http://dilbert.com/strip/2018-04-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e21b05501f0c01362880005056a9545d&#x22; title=&#x22;Aggressive Littering - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-04-27">
 <title>Dilbert - Arresting The Rich - Friday April 27, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday April 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4d0c9b80fa5601351a93005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-21">
-<title>Dilbert - Show More Initiative - Saturday April 21, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6d01c0a018bf01362611005056a9545d&#x22; title=&#x22;Show More Initiative - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
