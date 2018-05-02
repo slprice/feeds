@@ -16,12 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/05/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/05/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/29" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/28" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/27" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/04/26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/05/02">
+<title>Peanuts - May 2, 2018</title>
+<link>http://www.gocomics.com/peanuts/2018/05/02</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/b96217e0294201362c54005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/05/01">
 <title>Peanuts - May 1, 2018</title>
 <link>http://www.gocomics.com/peanuts/2018/05/01</link>
@@ -36,5 +45,20 @@
 <title>Peanuts - Apr 29, 2018</title>
 <link>http://www.gocomics.com/peanuts/2018/04/29</link>
 <description><![CDATA[<img src="http://assets.amuniversal.com/6b42f7900ebf01362241005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/04/28">
+<title>Peanuts - Apr 28, 2018</title>
+<link>http://www.gocomics.com/peanuts/2018/04/28</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/301e21d01f0a0136287c005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/04/27">
+<title>Peanuts - Apr 27, 2018</title>
+<link>http://www.gocomics.com/peanuts/2018/04/27</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/2e72ded01f0a0136287c005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/04/26">
+<title>Peanuts - Apr 26, 2018</title>
+<link>http://www.gocomics.com/peanuts/2018/04/26</link>
+<description><![CDATA[<img src="http://assets.amuniversal.com/068f58601f0d01362880005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
