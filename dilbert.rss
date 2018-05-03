@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-27" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-04-26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-03">
+<title>Dilbert - Customers Work For Free - Thursday May 03, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-03</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ae5c1a2023d001362a5c005056a9545d&#x22; title=&#x22;Customers Work For Free - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-02">
 <title>Dilbert - Bad User Interface - Wednesday May 02, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-02</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Arresting The Rich - Friday April 27, 2018  </title>
 <link>http://dilbert.com/strip/2018-04-27</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/15208f101f0a0136287c005056a9545d&#x22; title=&#x22;Arresting The Rich - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-04-26">
-<title>Dilbert - Kicking Brains Into The River - Thursday April 26, 2018  </title>
-<link>http://dilbert.com/strip/2018-04-26</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e0ce94601f0c01362880005056a9545d&#x22; title=&#x22;Kicking Brains Into The River - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
