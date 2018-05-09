@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-09">
+<title>Dilbert - Our Api - Wednesday May 09, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/617cd320294101362c53005056a9545d&#x22; title=&#x22;Our Api - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-08">
 <title>Dilbert - Press Release About Hack - Tuesday May 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Customers Work For Free - Thursday May 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ae5c1a2023d001362a5c005056a9545d&#x22; title=&#x22;Customers Work For Free - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-02">
-<title>Dilbert - Bad User Interface - Wednesday May 02, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/acc5744023d001362a5c005056a9545d&#x22; title=&#x22;Bad User Interface - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
