@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/08" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/05/07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/luann/2018/05/14">
+<title>Luann - May 14, 2018</title>
+<link>http://www.gocomics.com/luann/2018/05/14</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/2a79e0903501013630b8005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/luann/2018/05/13">
 <title>Luann - May 13, 2018</title>
 <link>http://www.gocomics.com/luann/2018/05/13</link>
@@ -55,10 +60,5 @@
 <title>Luann - May 8, 2018</title>
 <link>http://www.gocomics.com/luann/2018/05/08</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/93f856902f8601362eb5005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/05/07">
-<title>Luann - May 7, 2018</title>
-<link>http://www.gocomics.com/luann/2018/05/07</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/01f7a6c02f8801362eb7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

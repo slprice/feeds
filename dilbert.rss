@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-08" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-14">
+<title>Dilbert - Boss Comes To Work Sick  - Monday May 14, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c1bb6c002ed701362e75005056a9545d&#x22; title=&#x22;Boss Comes To Work Sick  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-13">
 <title>Dilbert -  - Sunday May 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-13</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Press Release About Hack - Tuesday May 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-08</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/601b0650294101362c53005056a9545d&#x22; title=&#x22;Press Release About Hack - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-07">
-<title>Dilbert - Massive Data Breach  - Monday May 07, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-07</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e5bade20293f01362c52005056a9545d&#x22; title=&#x22;Massive Data Breach  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
