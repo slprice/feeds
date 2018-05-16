@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-16">
+<title>Dilbert - Facial Recognition Software - Wednesday May 16, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-16</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/942f09a02ed301362e6e005056a9545d&#x22; title=&#x22;Facial Recognition Software - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-15">
 <title>Dilbert - Do Not Implicate Boss - Tuesday May 15, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Changing Company Name - Thursday May 10, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-10</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/62ec95d0294101362c53005056a9545d&#x22; title=&#x22;Changing Company Name - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-09">
-<title>Dilbert - Our Api - Wednesday May 09, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-09</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/617cd320294101362c53005056a9545d&#x22; title=&#x22;Our Api - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
