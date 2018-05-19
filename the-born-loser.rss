@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/05/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/the-born-loser/2018/05/19">
+<title>The Born Loser - May 19, 2018</title>
+<link>http://www.gocomics.com/the-born-loser/2018/05/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f2ac27c0344201363064005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/05/18">
 <title>The Born Loser - May 18, 2018</title>
 <link>http://www.gocomics.com/the-born-loser/2018/05/18</link>
@@ -55,10 +60,5 @@
 <title>The Born Loser - May 13, 2018</title>
 <link>http://www.gocomics.com/the-born-loser/2018/05/13</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e66926b01e7b0136284f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/the-born-loser/2018/05/12">
-<title>The Born Loser - May 12, 2018</title>
-<link>http://www.gocomics.com/the-born-loser/2018/05/12</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c24728302f8701362eb7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-19">
+<title>Dilbert - We Are Family - Saturday May 19, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4615db02ed701362e75005056a9545d&#x22; title=&#x22;We Are Family - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-18">
 <title>Dilbert - Stress Balls - Friday May 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday May 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/758ac5100ebc01362241005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-12">
-<title>Dilbert - Purchasing Did Not Order Part - Saturday May 12, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/65bef3d0294101362c53005056a9545d&#x22; title=&#x22;Purchasing Did Not Order Part - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
