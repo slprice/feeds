@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2018/05/22">
+<title>Off the Mark - May 22, 2018</title>
+<link>http://www.gocomics.com/offthemark/2018/05/22</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/c6245ac039fc0136329d005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/05/21">
 <title>Off the Mark - May 21, 2018</title>
 <link>http://www.gocomics.com/offthemark/2018/05/21</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark - May 16, 2018</title>
 <link>http://www.gocomics.com/offthemark/2018/05/16</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/cc05cd10347c0136308e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2018/05/15">
-<title>Off the Mark - May 15, 2018</title>
-<link>http://www.gocomics.com/offthemark/2018/05/15</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/caad1f20347c0136308e005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
