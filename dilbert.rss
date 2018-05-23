@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-23">
+<title>Dilbert - Idea Stealing - Wednesday May 23, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-23</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5e28d55039c30136327f005056a9545d&#x22; title=&#x22;Idea Stealing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-22">
 <title>Dilbert - Second Opinion - Tuesday May 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Conditions For Wally To Be On The Team - Thursday May 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-17</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4975c702ed001362e6b005056a9545d&#x22; title=&#x22;Conditions For Wally To Be On The Team - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-16">
-<title>Dilbert - Facial Recognition Software - Wednesday May 16, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-16</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/942f09a02ed301362e6e005056a9545d&#x22; title=&#x22;Facial Recognition Software - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
