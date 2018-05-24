@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/05/17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2018/05/24">
+<title>Frazz - May 24, 2018</title>
+<link>http://www.gocomics.com/frazz/2018/05/24</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/82cf64703a90013632d1005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2018/05/23">
 <title>Frazz - May 23, 2018</title>
 <link>http://www.gocomics.com/frazz/2018/05/23</link>
@@ -55,10 +60,5 @@
 <title>Frazz - May 18, 2018</title>
 <link>http://www.gocomics.com/frazz/2018/05/18</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/ffea98203500013630b8005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2018/05/17">
-<title>Frazz - May 17, 2018</title>
-<link>http://www.gocomics.com/frazz/2018/05/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/fe59ae603500013630b8005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

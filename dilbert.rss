@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-24">
+<title>Dilbert - Boring And Needy Children - Thursday May 24, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-24</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5f8e62c039c30136327f005056a9545d&#x22; title=&#x22;Boring And Needy Children - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-23">
 <title>Dilbert - Idea Stealing - Wednesday May 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Stress Balls - Friday May 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-18</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c310cc902ed701362e75005056a9545d&#x22; title=&#x22;Stress Balls - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-17">
-<title>Dilbert - Conditions For Wally To Be On The Team - Thursday May 17, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-17</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c4975c702ed001362e6b005056a9545d&#x22; title=&#x22;Conditions For Wally To Be On The Team - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
