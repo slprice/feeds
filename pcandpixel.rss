@@ -16,13 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/05/19" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2018/05/19">
-<title>PC and Pixel - May 19, 2018</title>
-<link>http://www.gocomics.com/pcandpixel/2018/05/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5274e270376e013631f6005056a9545d" />]]></description>
-</item>
 </rdf:RDF>
