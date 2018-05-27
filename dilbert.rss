@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-27">
+<title>Dilbert -  - Sunday May 27, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b0d8d45023f301362a6e005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-26">
 <title>Dilbert - Spittle - Saturday May 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Two People Named Tina  - Monday May 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5b5571e039c30136327f005056a9545d&#x22; title=&#x22;Two People Named Tina  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-20">
-<title>Dilbert -  - Sunday May 20, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9dfdb2b01548013624e2005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
