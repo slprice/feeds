@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-28">
+<title>Dilbert - Wifi In Slide Deck  - Monday May 28, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-28</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/63c79a0039c30136327f005056a9545d&#x22; title=&#x22;Wifi In Slide Deck  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-27">
 <title>Dilbert -  - Sunday May 27, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Second Opinion - Tuesday May 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-22</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5ca6a3f039c30136327f005056a9545d&#x22; title=&#x22;Second Opinion - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-21">
-<title>Dilbert - Two People Named Tina  - Monday May 21, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-21</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5b5571e039c30136327f005056a9545d&#x22; title=&#x22;Two People Named Tina  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
