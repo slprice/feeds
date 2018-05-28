@@ -18,6 +18,7 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/27" />
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/05/23" />
@@ -34,6 +35,11 @@
 <title>Off the Mark - May 27, 2018</title>
 <link>http://www.gocomics.com/offthemark/2018/05/27</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/b578c840258e01362b42005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/offthemark/2018/05/26">
+<title>Off the Mark - May 26, 2018</title>
+<link>http://www.gocomics.com/offthemark/2018/05/26</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/cbda3c1039fc0136329d005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/05/25">
 <title>Off the Mark - May 25, 2018</title>
