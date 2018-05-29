@@ -16,11 +16,17 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/05/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/05/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/05/27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2018/05/29">
+<title>PC and Pixel - May 29, 2018</title>
+<link>http://www.gocomics.com/pcandpixel/2018/05/29</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/364f5ae040ae01363534005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2018/05/28">
 <title>PC and Pixel - May 28, 2018</title>
 <link>http://www.gocomics.com/pcandpixel/2018/05/28</link>

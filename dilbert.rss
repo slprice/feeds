@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-29">
+<title>Dilbert - Wife Versus Wifi - Tuesday May 29, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6520a24039c30136327f005056a9545d&#x22; title=&#x22;Wife Versus Wifi - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-28">
 <title>Dilbert - Wifi In Slide Deck  - Monday May 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Idea Stealing - Wednesday May 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5e28d55039c30136327f005056a9545d&#x22; title=&#x22;Idea Stealing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-22">
-<title>Dilbert - Second Opinion - Tuesday May 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5ca6a3f039c30136327f005056a9545d&#x22; title=&#x22;Second Opinion - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

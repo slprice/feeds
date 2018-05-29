@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/23" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/05/22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2018/05/29">
+<title>Herman - May 29, 2018</title>
+<link>http://www.gocomics.com/herman/2018/05/29</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/dbf19e403a3f013632b7005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2018/05/28">
 <title>Herman - May 28, 2018</title>
 <link>http://www.gocomics.com/herman/2018/05/28</link>
@@ -55,10 +60,5 @@
 <title>Herman - May 23, 2018</title>
 <link>http://www.gocomics.com/herman/2018/05/23</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e71f3ee03545013630f6005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2018/05/22">
-<title>Herman - May 22, 2018</title>
-<link>http://www.gocomics.com/herman/2018/05/22</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e5aff7f03545013630f6005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
