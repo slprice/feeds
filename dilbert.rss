@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-05-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-05-30">
+<title>Dilbert - Arguing With Idiots - Wednesday May 30, 2018  </title>
+<link>http://dilbert.com/strip/2018-05-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/667a930039c30136327f005056a9545d&#x22; title=&#x22;Arguing With Idiots - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-05-29">
 <title>Dilbert - Wife Versus Wifi - Tuesday May 29, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Boring And Needy Children - Thursday May 24, 2018  </title>
 <link>http://dilbert.com/strip/2018-05-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5f8e62c039c30136327f005056a9545d&#x22; title=&#x22;Boring And Needy Children - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-05-23">
-<title>Dilbert - Idea Stealing - Wednesday May 23, 2018  </title>
-<link>http://dilbert.com/strip/2018-05-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5e28d55039c30136327f005056a9545d&#x22; title=&#x22;Idea Stealing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
