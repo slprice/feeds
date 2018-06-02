@@ -16,6 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/06/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/06/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/05/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/05/30" />
@@ -25,6 +26,11 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2018/06/02">
+<title>PC and Pixel - Jun 2, 2018</title>
+<link>http://www.gocomics.com/pcandpixel/2018/06/02</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/39cfeda040ae01363534005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2018/06/01">
 <title>PC and Pixel - Jun 1, 2018</title>
 <link>http://www.gocomics.com/pcandpixel/2018/06/01</link>
