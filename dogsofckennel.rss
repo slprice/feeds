@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/06/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/06/08">
+<title>Dogs of C-Kennel - Jun 8, 2018</title>
+<link>http://www.gocomics.com/dogsofckennel/2018/06/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/17c044f045d9013636ef005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2018/06/07">
 <title>Dogs of C-Kennel - Jun 7, 2018</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/06/07</link>
@@ -55,10 +60,5 @@
 <title>Dogs of C-Kennel - Jun 2, 2018</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/06/02</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c4a447703f8f013634b1005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/06/01">
-<title>Dogs of C-Kennel - Jun 1, 2018</title>
-<link>http://www.gocomics.com/dogsofckennel/2018/06/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c0daab303f8f013634b1005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
