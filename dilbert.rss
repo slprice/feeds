@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-06-09">
+<title>Dilbert - Wally&#x27;s Stealth Drone - Saturday June 09, 2018  </title>
+<link>http://dilbert.com/strip/2018-06-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a421e930418501363597005056a9545d&#x22; title=&#x22;Wally&#x27;s Stealth Drone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-06-08">
 <title>Dilbert - Good Day At Work - Friday June 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday June 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f20c17f024ff01362aed005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-06-02">
-<title>Dilbert - Monster Puts People In Boxes - Saturday June 02, 2018  </title>
-<link>http://dilbert.com/strip/2018-06-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/6b2fb6f039c30136327f005056a9545d&#x22; title=&#x22;Monster Puts People In Boxes - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
