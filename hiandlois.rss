@@ -16,16 +16,21 @@
 <description>Hi and Lois is a classic American comic strip created by Mort Walker and Dik Browne. The strip portrays a portrait of a wholesome family with traditional values and modern-day sensibilities. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYxMF8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwOV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwOF8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwN18xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwNl8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwNV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwNF8xNDQwLmdpZg==" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYwM18xNDQwLmdpZg==" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYxMF8xNDQwLmdpZg==">
+<title>Hi and Lois Comic Strip for June 10, 2018</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYxMF8xNDQwLmdpZg==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYxMF8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYxMF8xNDQwLmdpZg==" alt="Hi and Lois Comic Strip for June 10, 2018" /><br />Hi and Lois Comic Strip for June 10, 2018</a><br /><a href="http://comicskingdom.com/hi-and-lois/2018-06-10/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwOV8xNDQwLmdpZg==">
 <title>Hi and Lois Comic Strip for June 09, 2018</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwOV8xNDQwLmdpZg==</link>
@@ -55,10 +60,5 @@
 <title>Hi and Lois Comic Strip for June 04, 2018</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwNF8xNDQwLmdpZg==</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwNF8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pcy4yMDE4MDYwNF8xNDQwLmdpZg==" alt="Hi and Lois Comic Strip for June 04, 2018" /><br />Hi and Lois Comic Strip for June 04, 2018</a><br /><a href="http://comicskingdom.com/hi-and-lois/2018-06-04/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYwM18xNDQwLmdpZg==">
-<title>Hi and Lois Comic Strip for June 03, 2018</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYwM18xNDQwLmdpZg==</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYwM18xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IaUFuZExvaXMvMjAxOC8wNi9IaV9hbmRfTG9pc19ocy4yMDE4MDYwM18xNDQwLmdpZg==" alt="Hi and Lois Comic Strip for June 03, 2018" /><br />Hi and Lois Comic Strip for June 03, 2018</a><br /><a href="http://comicskingdom.com/hi-and-lois/2018-06-03/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
