@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/12" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/06/11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/06/18">
+<title>Rabbits Against Magic - Jun 18, 2018</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2018/06/18</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/7f1622b04a7a013638a4005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/06/17">
 <title>Rabbits Against Magic - Jun 17, 2018</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/06/17</link>
@@ -55,10 +60,5 @@
 <title>Rabbits Against Magic - Jun 12, 2018</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/06/12</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/90b32e504a650136389c005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/06/11">
-<title>Rabbits Against Magic - Jun 11, 2018</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2018/06/11</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/160335b0484d01363827005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

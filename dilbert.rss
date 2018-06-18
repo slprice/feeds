@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-06-18">
+<title>Dilbert - Dogbert Will Start Monday Or Tuesday - Monday June 18, 2018  </title>
+<link>http://dilbert.com/strip/2018-06-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1b4dcb804a3e01363887005056a9545d&#x22; title=&#x22;Dogbert Will Start Monday Or Tuesday - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-06-17">
 <title>Dilbert -  - Sunday June 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Asking Successful People For Advice - Tuesday June 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a6cc3800418501363597005056a9545d&#x22; title=&#x22;Asking Successful People For Advice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-06-11">
-<title>Dilbert - Wally Teaches Success - Monday June 11, 2018  </title>
-<link>http://dilbert.com/strip/2018-06-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a5784fe0418501363597005056a9545d&#x22; title=&#x22;Wally Teaches Success - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
