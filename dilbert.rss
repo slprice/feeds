@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-19" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-06-25">
+<title>Dilbert - Feedback From Twitter Guy  - Monday June 25, 2018  </title>
+<link>http://dilbert.com/strip/2018-06-25</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0d7a99e04fc801363a91005056a9545d&#x22; title=&#x22;Feedback From Twitter Guy  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-06-24">
 <title>Dilbert -  - Sunday June 24, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-24</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Negotiating Expert - Tuesday June 19, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-19</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1c9ddf104a3e01363887005056a9545d&#x22; title=&#x22;Negotiating Expert - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-06-18">
-<title>Dilbert - Dogbert Will Start Monday Or Tuesday - Monday June 18, 2018  </title>
-<link>http://dilbert.com/strip/2018-06-18</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1b4dcb804a3e01363887005056a9545d&#x22; title=&#x22;Dogbert Will Start Monday Or Tuesday - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
