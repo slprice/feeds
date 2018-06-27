@@ -19,6 +19,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/25" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/06/21" />
@@ -39,6 +40,11 @@
 <title>Pearls Before Swine - Jun 25, 2018</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2018/06/25</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c60ef700561201363cea005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/06/24">
+<title>Pearls Before Swine - Jun 24, 2018</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2018/06/24</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/475b8e303b8f01363360005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/06/23">
 <title>Pearls Before Swine - Jun 23, 2018</title>
