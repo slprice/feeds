@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-06-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-06-29">
+<title>Dilbert - Might Reorganize - Friday June 29, 2018  </title>
+<link>http://dilbert.com/strip/2018-06-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/12003e404fc801363a91005056a9545d&#x22; title=&#x22;Might Reorganize - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-06-28">
 <title>Dilbert - Ted Cross Trains - Thursday June 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - How Dare You - Saturday June 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-06-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/dcdf19604a4001363889005056a9545d&#x22; title=&#x22;How Dare You - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-06-22">
-<title>Dilbert - Wally&#x27;s Best Play - Friday June 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-06-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/db7dba604a4001363889005056a9545d&#x22; title=&#x22;Wally&#x27;s Best Play - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
