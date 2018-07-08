@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/07/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2018/07/08">
+<title>Pickles - Jul 8, 2018</title>
+<link>http://www.gocomics.com/pickles/2018/07/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/c335b9904739013637a9005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2018/07/07">
 <title>Pickles - Jul 7, 2018</title>
 <link>http://www.gocomics.com/pickles/2018/07/07</link>
@@ -55,10 +60,5 @@
 <title>Pickles - Jul 2, 2018</title>
 <link>http://www.gocomics.com/pickles/2018/07/02</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/73a153b0519201363b6e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2018/07/01">
-<title>Pickles - Jul 1, 2018</title>
-<link>http://www.gocomics.com/pickles/2018/07/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ae59983041b9013635be005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

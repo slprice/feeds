@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-08">
+<title>Dilbert -  - Sunday July 08, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/55b89460481901363819005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-07">
 <title>Dilbert - Can&#x27;t Remember Wally&#x27;s Project - Saturday July 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Strategy Is To Nimble And Agile  - Monday July 02, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2d9dac40554801363c91005056a9545d&#x22; title=&#x22;Strategy Is To Nimble And Agile  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-01">
-<title>Dilbert -  - Sunday July 01, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b475d0203bc901363377005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
