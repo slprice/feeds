@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-05" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-11">
+<title>Dilbert - Your Word Against Everyone - Wednesday July 11, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-11</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8d1db9705ad301363e9e005056a9545d&#x22; title=&#x22;Your Word Against Everyone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-10">
 <title>Dilbert - Mind Reader Coworker - Tuesday July 10, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-10</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Contractor Wants To Be Employee - Thursday July 05, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-05</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/31985620554801363c91005056a9545d&#x22; title=&#x22;Contractor Wants To Be Employee - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-04">
-<title>Dilbert - Reducing Headcount By Attrition - Wednesday July 04, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-04</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/304193d0554801363c91005056a9545d&#x22; title=&#x22;Reducing Headcount By Attrition - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
