@@ -22,7 +22,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/07/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/07/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/07/08" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/07/07" />
  </rdf:Seq>
 </items>
 </channel>
@@ -55,10 +54,5 @@
 <title>Luann for Jul 8, 2018 | GoComics.com - 2018-07-08</title>
 <link>http://www.gocomics.com/luann/2018/07/08</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/8ab74a503540013630f3005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/07/07">
-<title>Luann for Jul 7, 2018 | GoComics.com - 2018-07-07</title>
-<link>http://www.gocomics.com/luann/2018/07/07</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ad364cc05ad301363e9e005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
