@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/07/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2018/07/13">
+<title>Off the Mark for Jul 13, 2018 | GoComics.com - 2018-07-13</title>
+<link>http://www.gocomics.com/offthemark/2018/07/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/1c0d4a00607e013640e3005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/07/12">
 <title>Off the Mark for Jul 12, 2018 | GoComics.com - 2018-07-12</title>
 <link>http://www.gocomics.com/offthemark/2018/07/12</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark for Jul 7, 2018 | GoComics.com - 2018-07-07</title>
 <link>http://www.gocomics.com/offthemark/2018/07/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/fd730e405afd01363eb7005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2018/07/06">
-<title>Off the Mark for Jul 6, 2018 | GoComics.com - 2018-07-06</title>
-<link>http://www.gocomics.com/offthemark/2018/07/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/fbf3c2f05afd01363eb7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

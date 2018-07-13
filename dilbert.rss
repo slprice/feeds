@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-13">
+<title>Dilbert - Everyone Says You Disagree With Everything - Friday July 13, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/44c0e1d05ad401363e9e005056a9545d&#x22; title=&#x22;Everyone Says You Disagree With Everything - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-12">
 <title>Dilbert - Dilbert Is Misinterpreted - Thursday July 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Can&#x27;t Remember Wally&#x27;s Project - Saturday July 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/32ed6760554801363c91005056a9545d&#x22; title=&#x22;Can&#x27;t Remember Wally&#x27;s Project - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-06">
-<title>Dilbert - No Plans To Reorganize - Friday July 06, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/99f7c200554901363c93005056a9545d&#x22; title=&#x22;No Plans To Reorganize - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

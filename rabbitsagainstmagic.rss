@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/07/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/07/13">
+<title>Rabbits Against Magic for Jul 13, 2018 | GoComics.com - 2018-07-13</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2018/07/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6a90d65063970136424d005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/07/12">
 <title>Rabbits Against Magic for Jul 12, 2018 | GoComics.com - 2018-07-12</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/07/12</link>
@@ -55,10 +60,5 @@
 <title>Rabbits Against Magic for Jul 7, 2018 | GoComics.com - 2018-07-07</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/07/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e2538d305d4901363fdd005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/07/06">
-<title>Rabbits Against Magic for Jul 6, 2018 | GoComics.com - 2018-07-06</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2018/07/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/fadee8005d4b01363fdf005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
