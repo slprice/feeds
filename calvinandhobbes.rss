@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/09" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/07/08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/07/15">
+<title>Calvin and Hobbes for Jul 15, 2018 | GoComics.com - 2018-07-15</title>
+<link>http://www.gocomics.com/calvinandhobbes/2018/07/15</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/73d44df060b8013640f9005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/07/14">
 <title>Calvin and Hobbes for Jul 14, 2018 | GoComics.com - 2018-07-14</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/07/14</link>
@@ -55,10 +60,5 @@
 <title>Calvin and Hobbes for Jul 9, 2018 | GoComics.com - 2018-07-09</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/07/09</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/7b6e46d0574a01363d89005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/07/08">
-<title>Calvin and Hobbes for Jul 8, 2018 | GoComics.com - 2018-07-08</title>
-<link>http://www.gocomics.com/calvinandhobbes/2018/07/08</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/49a7c8c05fef013640a8005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
