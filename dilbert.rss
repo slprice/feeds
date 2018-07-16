@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-16">
+<title>Dilbert - Elbonian Sales Video Assignment  - Monday July 16, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-16</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/97aa88905d1101363fa8005056a9545d&#x22; title=&#x22;Elbonian Sales Video Assignment  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-15">
 <title>Dilbert -  - Sunday July 15, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Mind Reader Coworker - Tuesday July 10, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-10</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8b72d9005ad301363e9e005056a9545d&#x22; title=&#x22;Mind Reader Coworker - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-09">
-<title>Dilbert - Your Lying Face  - Monday July 09, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-09</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/89d133205ad301363e9e005056a9545d&#x22; title=&#x22;Your Lying Face  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

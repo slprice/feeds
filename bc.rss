@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/10" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/07/09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2018/07/16">
+<title>B.C. for Jul 16, 2018 | GoComics.com - 2018-07-16</title>
+<link>http://www.gocomics.com/bc/2018/07/16</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/8112a5305bd501363f1a005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2018/07/15">
 <title>B.C. for Jul 15, 2018 | GoComics.com - 2018-07-15</title>
 <link>http://www.gocomics.com/bc/2018/07/15</link>
@@ -55,10 +60,5 @@
 <title>B.C. for Jul 10, 2018 | GoComics.com - 2018-07-10</title>
 <link>http://www.gocomics.com/bc/2018/07/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/acddf3e05bd501363f1a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/07/09">
-<title>B.C. for Jul 9, 2018 | GoComics.com - 2018-07-09</title>
-<link>http://www.gocomics.com/bc/2018/07/09</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/9b9847c05bd501363f1a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
