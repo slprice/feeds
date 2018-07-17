@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-17">
+<title>Dilbert - Elbonian Cabbage Juggling - Tuesday July 17, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/99853ad05d1101363fa8005056a9545d&#x22; title=&#x22;Elbonian Cabbage Juggling - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-16">
 <title>Dilbert - Elbonian Sales Video Assignment  - Monday July 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Your Word Against Everyone - Wednesday July 11, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8d1db9705ad301363e9e005056a9545d&#x22; title=&#x22;Your Word Against Everyone - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-10">
-<title>Dilbert - Mind Reader Coworker - Tuesday July 10, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8b72d9005ad301363e9e005056a9545d&#x22; title=&#x22;Mind Reader Coworker - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
