@@ -20,6 +20,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/18" />
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/15" />
  </rdf:Seq>
@@ -44,6 +45,11 @@
 <title>JumpStart for Jul 18, 2018 | GoComics.com - 2018-07-18</title>
 <link>http://www.gocomics.com/jumpstart/2018/07/18</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/846f2ac066890136430b005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/07/17">
+<title>JumpStart for Jul 17, 2018 | GoComics.com - 2018-07-17</title>
+<link>http://www.gocomics.com/jumpstart/2018/07/17</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d59428a0668a0136430c005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/07/16">
 <title>JumpStart for Jul 16, 2018 | GoComics.com - 2018-07-16</title>
