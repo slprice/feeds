@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-21">
+<title>Dilbert - What Classes To Be An Engineer - Saturday July 21, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-21</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a169d4405d1101363fa8005056a9545d&#x22; title=&#x22;What Classes To Be An Engineer - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-20">
 <title>Dilbert - Elbonians Call Off The Hit - Friday July 20, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday July 15, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-15</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/583e71c0481901363819005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-14">
-<title>Dilbert - One Problem Becomes Two - Saturday July 14, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-14</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/4693ebc05ad401363e9e005056a9545d&#x22; title=&#x22;One Problem Becomes Two - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
