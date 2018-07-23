@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-23">
+<title>Dilbert -  Only Two Bad Choices  - Monday July 23, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-23</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/168a3b00610501364119005056a9545d&#x22; title=&#x22; Only Two Bad Choices  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-22">
 <title>Dilbert -  - Sunday July 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Elbonian Cabbage Juggling - Tuesday July 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-17</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/99853ad05d1101363fa8005056a9545d&#x22; title=&#x22;Elbonian Cabbage Juggling - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-16">
-<title>Dilbert - Elbonian Sales Video Assignment  - Monday July 16, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-16</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/97aa88905d1101363fa8005056a9545d&#x22; title=&#x22;Elbonian Sales Video Assignment  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
