@@ -18,11 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/23" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/18" />
  </rdf:Seq>
 </items>
 </channel>
@@ -35,30 +30,5 @@
 <title>Ziggy for Jul 23, 2018 | GoComics.com - 2018-07-23</title>
 <link>http://www.gocomics.com/ziggy/2018/07/23</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/bf7d21f06bbe0136451d005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/07/22">
-<title>Ziggy for Jul 22, 2018 | GoComics.com - 2018-07-22</title>
-<link>http://www.gocomics.com/ziggy/2018/07/22</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/30740f20529801363beb005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/07/21">
-<title>Ziggy for Jul 21, 2018 | GoComics.com - 2018-07-21</title>
-<link>http://www.gocomics.com/ziggy/2018/07/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/dd99277065fa013642dd005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/07/20">
-<title>Ziggy for Jul 20, 2018 | GoComics.com - 2018-07-20</title>
-<link>http://www.gocomics.com/ziggy/2018/07/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/dbd39da065fa013642dd005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/07/19">
-<title>Ziggy for Jul 19, 2018 | GoComics.com - 2018-07-19</title>
-<link>http://www.gocomics.com/ziggy/2018/07/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d989f1d065fa013642dd005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/07/18">
-<title>Ziggy for Jul 18, 2018 | GoComics.com - 2018-07-18</title>
-<link>http://www.gocomics.com/ziggy/2018/07/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d7d49ec065fa013642dd005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
