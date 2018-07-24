@@ -21,6 +21,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/20" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/07/18" />
  </rdf:Seq>
 </items>
@@ -49,6 +50,11 @@
 <title>Ziggy for Jul 20, 2018 | GoComics.com - 2018-07-20</title>
 <link>http://www.gocomics.com/ziggy/2018/07/20</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/dbd39da065fa013642dd005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2018/07/19">
+<title>Ziggy for Jul 19, 2018 | GoComics.com - 2018-07-19</title>
+<link>http://www.gocomics.com/ziggy/2018/07/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d989f1d065fa013642dd005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/ziggy/2018/07/18">
 <title>Ziggy for Jul 18, 2018 | GoComics.com - 2018-07-18</title>
