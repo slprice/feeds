@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-19" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-25">
+<title>Dilbert - Dating A Coworker - Wednesday July 25, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-25</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1974cdc0610501364119005056a9545d&#x22; title=&#x22;Dating A Coworker - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-24">
 <title>Dilbert - Everything We Have Done Is Stupid - Tuesday July 24, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-24</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Death By Ninjas Is Best - Thursday July 19, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-19</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9d6acc905d1101363fa8005056a9545d&#x22; title=&#x22;Death By Ninjas Is Best - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-18">
-<title>Dilbert - Elbonian Ninjas - Wednesday July 18, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-18</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9b5618105d1101363fa8005056a9545d&#x22; title=&#x22;Elbonian Ninjas - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
