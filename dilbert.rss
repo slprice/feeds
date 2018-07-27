@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-27">
+<title>Dilbert - New Military Project - Friday July 27, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b4bedf70610301364118005056a9545d&#x22; title=&#x22;New Military Project - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-26">
 <title>Dilbert - How About Lunch - Thursday July 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - What Classes To Be An Engineer - Saturday July 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a169d4405d1101363fa8005056a9545d&#x22; title=&#x22;What Classes To Be An Engineer - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-20">
-<title>Dilbert - Elbonians Call Off The Hit - Friday July 20, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/9f745a305d1101363fa8005056a9545d&#x22; title=&#x22;Elbonians Call Off The Hit - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
