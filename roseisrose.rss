@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/07/21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/07/28">
+<title>Rose is Rose for Jul 28, 2018 | GoComics.com - 2018-07-28</title>
+<link>http://www.gocomics.com/roseisrose/2018/07/28</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/15472bd068e901364441005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/07/27">
 <title>Rose is Rose for Jul 27, 2018 | GoComics.com - 2018-07-27</title>
 <link>http://www.gocomics.com/roseisrose/2018/07/27</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose for Jul 22, 2018 | GoComics.com - 2018-07-22</title>
 <link>http://www.gocomics.com/roseisrose/2018/07/22</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c1819ec0510901363b29005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/07/21">
-<title>Rose is Rose for Jul 21, 2018 | GoComics.com - 2018-07-21</title>
-<link>http://www.gocomics.com/roseisrose/2018/07/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/8a422310636001364222005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
