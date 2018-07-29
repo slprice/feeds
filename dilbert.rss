@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-07-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-07-29">
+<title>Dilbert -  - Sunday July 29, 2018  </title>
+<link>http://dilbert.com/strip/2018-07-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/7af3d950570701363d6e005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-07-28">
 <title>Dilbert - Haircut On Company Times - Saturday July 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  Only Two Bad Choices  - Monday July 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-07-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/168a3b00610501364119005056a9545d&#x22; title=&#x22; Only Two Bad Choices  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-07-22">
-<title>Dilbert -  - Sunday July 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-07-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/35c9e250510101363b24005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
