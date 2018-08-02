@@ -16,16 +16,21 @@
 <description>Blondie is a comic strip created by Chic Young about Dagwood and Blondie Bumstead and their blissful love and marriage.  The strip centers on family lifestyle, making ends meet, and raising children. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMl8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDczMV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDczMF8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZV9ocy4yMDE4MDcyOV8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyOF8xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyN18xNDQwLmdpZg==" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyNl8xNDQwLmdpZg==" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMl8xNDQwLmdpZg==">
+<title>Blondie Comic Strip for August 02, 2018</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMl8xNDQwLmdpZg==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMl8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMl8xNDQwLmdpZg==" alt="Blondie Comic Strip for August 02, 2018" /><br />Blondie Comic Strip for August 02, 2018</a><br /><a href="http://comicskingdom.com/blondie/2018-08-02/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMV8xNDQwLmdpZg==">
 <title>Blondie Comic Strip for August 01, 2018</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDgvQmxvbmRpZS4yMDE4MDgwMV8xNDQwLmdpZg==</link>
@@ -55,10 +60,5 @@
 <title>Blondie Comic Strip for July 27, 2018</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyN18xNDQwLmdpZg==</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyN18xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyN18xNDQwLmdpZg==" alt="Blondie Comic Strip for July 27, 2018" /><br />Blondie Comic Strip for July 27, 2018</a><br /><a href="http://comicskingdom.com/blondie/2018-07-27/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyNl8xNDQwLmdpZg==">
-<title>Blondie Comic Strip for July 26, 2018</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyNl8xNDQwLmdpZg==</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyNl8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTgvMDcvQmxvbmRpZS4yMDE4MDcyNl8xNDQwLmdpZg==" alt="Blondie Comic Strip for July 26, 2018" /><br />Blondie Comic Strip for July 26, 2018</a><br /><a href="http://comicskingdom.com/blondie/2018-07-26/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
