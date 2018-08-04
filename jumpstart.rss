@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/08/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/08/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/08/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/08/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/29" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/07/28" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/08/04">
+<title>JumpStart for Aug 4, 2018 | GoComics.com - 2018-08-04</title>
+<link>http://www.gocomics.com/jumpstart/2018/08/04</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d1cabf00718901364736005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/08/03">
 <title>JumpStart for Aug 3, 2018 | GoComics.com - 2018-08-03</title>
 <link>http://www.gocomics.com/jumpstart/2018/08/03</link>
@@ -55,10 +60,5 @@
 <title>JumpStart for Jul 29, 2018 | GoComics.com - 2018-07-29</title>
 <link>http://www.gocomics.com/jumpstart/2018/07/29</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/407c57b0581c01363de8005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/07/28">
-<title>JumpStart for Jul 28, 2018 | GoComics.com - 2018-07-28</title>
-<link>http://www.gocomics.com/jumpstart/2018/07/28</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/89c5bef06c0c0136453d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
