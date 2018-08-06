@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/08/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/08/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/08/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/08/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/08/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/08/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/07/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/07/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/08/06">
+<title>Wizard of Id for Aug 6, 2018 | GoComics.com - 2018-08-06</title>
+<link>http://www.gocomics.com/wizardofid/2018/08/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/910f9a10736801364825005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2018/08/05">
 <title>Wizard of Id for Aug 5, 2018 | GoComics.com - 2018-08-05</title>
 <link>http://www.gocomics.com/wizardofid/2018/08/05</link>
@@ -55,10 +60,5 @@
 <title>Wizard of Id for Jul 31, 2018 | GoComics.com - 2018-07-31</title>
 <link>http://www.gocomics.com/wizardofid/2018/07/31</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/214a841071d601364769005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2018/07/30">
-<title>Wizard of Id for Jul 30, 2018 | GoComics.com - 2018-07-30</title>
-<link>http://www.gocomics.com/wizardofid/2018/07/30</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/168e82e071d601364769005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
