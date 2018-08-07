@@ -18,11 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/06" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/05" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/04" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/03" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/01" />
  </rdf:Seq>
 </items>
 </channel>
@@ -35,30 +30,5 @@
 <title>Luann for Aug 6, 2018 | GoComics.com - 2018-08-06</title>
 <link>http://www.gocomics.com/luann/2018/08/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/22e95ff0770301364931005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/08/05">
-<title>Luann for Aug 5, 2018 | GoComics.com - 2018-08-05</title>
-<link>http://www.gocomics.com/luann/2018/08/05</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/626b5700564201363d15005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/08/04">
-<title>Luann for Aug 4, 2018 | GoComics.com - 2018-08-04</title>
-<link>http://www.gocomics.com/luann/2018/08/04</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e5ffb6c0718901364736005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/08/03">
-<title>Luann for Aug 3, 2018 | GoComics.com - 2018-08-03</title>
-<link>http://www.gocomics.com/luann/2018/08/03</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/6cf2aa60718801364735005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/08/02">
-<title>Luann for Aug 2, 2018 | GoComics.com - 2018-08-02</title>
-<link>http://www.gocomics.com/luann/2018/08/02</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/6b3ee070718801364735005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/08/01">
-<title>Luann for Aug 1, 2018 | GoComics.com - 2018-08-01</title>
-<link>http://www.gocomics.com/luann/2018/08/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e4944ab0718901364736005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
