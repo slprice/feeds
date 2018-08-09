@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-08-09">
+<title>Dilbert - History Doesn&#x27;t Repeat - Thursday August 09, 2018  </title>
+<link>http://dilbert.com/strip/2018-08-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ffd482806c0a0136453b005056a9545d&#x22; title=&#x22;History Doesn&#x27;t Repeat - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-08-08">
 <title>Dilbert - Comparing Things - Wednesday August 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Coffee Machine Blackmails Staff - Friday August 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8b1c1af065bd013642bf005056a9545d&#x22; title=&#x22;Coffee Machine Blackmails Staff - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-02">
-<title>Dilbert - Coffee Machine Uses Guilt - Thursday August 02, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/29b278f065bc013642be005056a9545d&#x22; title=&#x22;Coffee Machine Uses Guilt - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
