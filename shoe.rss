@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/06" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2018/08/12">
+<title>Shoe for Aug 12, 2018 | GoComics.com - 2018-08-12</title>
+<link>http://www.gocomics.com/shoe/2018/08/12</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/38a2ec0078e101364a34005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2018/08/11">
 <title>Shoe for Aug 11, 2018 | GoComics.com - 2018-08-11</title>
 <link>http://www.gocomics.com/shoe/2018/08/11</link>
@@ -55,10 +60,5 @@
 <title>Shoe for Aug 6, 2018 | GoComics.com - 2018-08-06</title>
 <link>http://www.gocomics.com/shoe/2018/08/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/10382ac0772401364950005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/05">
-<title>Shoe for Aug 5, 2018 | GoComics.com - 2018-08-05</title>
-<link>http://www.gocomics.com/shoe/2018/08/05</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/354e7be078e101364a34005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
