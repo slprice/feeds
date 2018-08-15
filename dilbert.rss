@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-09" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-08-15">
+<title>Dilbert - How Dilbert Can Help - Wednesday August 15, 2018  </title>
+<link>http://dilbert.com/strip/2018-08-15</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b813c1e0718901364736005056a9545d&#x22; title=&#x22;How Dilbert Can Help - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-08-14">
 <title>Dilbert - Dilbert Offers To Help - Tuesday August 14, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-14</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - History Doesn&#x27;t Repeat - Thursday August 09, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-09</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ffd482806c0a0136453b005056a9545d&#x22; title=&#x22;History Doesn&#x27;t Repeat - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-08">
-<title>Dilbert - Comparing Things - Wednesday August 08, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-08</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/fdefe6d06c0a0136453b005056a9545d&#x22; title=&#x22;Comparing Things - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
