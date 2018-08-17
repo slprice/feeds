@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-08-17">
+<title>Dilbert - Answering Questions In Email - Friday August 17, 2018  </title>
+<link>http://dilbert.com/strip/2018-08-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/bb8bb7c0718901364736005056a9545d&#x22; title=&#x22;Answering Questions In Email - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-08-16">
 <title>Dilbert - Looking In The Wrong Places - Thursday August 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Speaking Truth To Power - Saturday August 11, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/038d55b06c0b0136453b005056a9545d&#x22; title=&#x22;Speaking Truth To Power - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-10">
-<title>Dilbert - Ted Tries To Sabotage - Friday August 10, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/01af31206c0b0136453b005056a9545d&#x22; title=&#x22;Ted Tries To Sabotage - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
