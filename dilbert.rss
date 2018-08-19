@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-08-19">
+<title>Dilbert -  - Sunday August 19, 2018  </title>
+<link>http://dilbert.com/strip/2018-08-19</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a833bfe06638013642f4005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-08-18">
 <title>Dilbert - Gravy On Keyboard - Saturday August 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Shred The Copies - Monday August 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-13</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b4983a80718901364736005056a9545d&#x22; title=&#x22;Shred The Copies - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-12">
-<title>Dilbert -  - Sunday August 12, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-12</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/b9743d90613e01364153005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
