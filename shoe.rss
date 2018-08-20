@@ -16,49 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/08/14" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/20">
-<title>Shoe for Aug 20, 2018 | GoComics.com - 2018-08-20</title>
-<link>http://www.gocomics.com/shoe/2018/08/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/58978850822401364d5e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/19">
-<title>Shoe for Aug 19, 2018 | GoComics.com - 2018-08-19</title>
-<link>http://www.gocomics.com/shoe/2018/08/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/3bb2cc9078e101364a34005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/18">
-<title>Shoe for Aug 18, 2018 | GoComics.com - 2018-08-18</title>
-<link>http://www.gocomics.com/shoe/2018/08/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/36c092607ca401364b4f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/17">
-<title>Shoe for Aug 17, 2018 | GoComics.com - 2018-08-17</title>
-<link>http://www.gocomics.com/shoe/2018/08/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/2abdd7b07ca401364b4f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/16">
-<title>Shoe for Aug 16, 2018 | GoComics.com - 2018-08-16</title>
-<link>http://www.gocomics.com/shoe/2018/08/16</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/320564207ca401364b4f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/15">
-<title>Shoe for Aug 15, 2018 | GoComics.com - 2018-08-15</title>
-<link>http://www.gocomics.com/shoe/2018/08/15</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/2f8ebba07ca401364b4f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/08/14">
-<title>Shoe for Aug 14, 2018 | GoComics.com - 2018-08-14</title>
-<link>http://www.gocomics.com/shoe/2018/08/14</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/345aecc07ca401364b4f005056a9545d" />]]></description>
-</item>
 </rdf:RDF>

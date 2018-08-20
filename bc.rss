@@ -16,49 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/14" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/20">
-<title>B.C. for Aug 20, 2018 | GoComics.com - 2018-08-20</title>
-<link>http://www.gocomics.com/bc/2018/08/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/77aed080797f01364a72005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/19">
-<title>B.C. for Aug 19, 2018 | GoComics.com - 2018-08-19</title>
-<link>http://www.gocomics.com/bc/2018/08/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/505a16c0806301364cc2005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/18">
-<title>B.C. for Aug 18, 2018 | GoComics.com - 2018-08-18</title>
-<link>http://www.gocomics.com/bc/2018/08/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/6bd5f870736801364825005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/17">
-<title>B.C. for Aug 17, 2018 | GoComics.com - 2018-08-17</title>
-<link>http://www.gocomics.com/bc/2018/08/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/8209c0f0736801364825005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/16">
-<title>B.C. for Aug 16, 2018 | GoComics.com - 2018-08-16</title>
-<link>http://www.gocomics.com/bc/2018/08/16</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/70b84720736801364825005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/15">
-<title>B.C. for Aug 15, 2018 | GoComics.com - 2018-08-15</title>
-<link>http://www.gocomics.com/bc/2018/08/15</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/780d2c90736801364825005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/14">
-<title>B.C. for Aug 14, 2018 | GoComics.com - 2018-08-14</title>
-<link>http://www.gocomics.com/bc/2018/08/14</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/847b6440736801364825005056a9545d" />]]></description>
-</item>
 </rdf:RDF>
