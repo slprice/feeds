@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-08-24">
+<title>Dilbert - Dilbert Uses Bumper Sticker Wisdom - Friday August 24, 2018  </title>
+<link>http://dilbert.com/strip/2018-08-24</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/24686270763e013648e0005056a9545d&#x22; title=&#x22;Dilbert Uses Bumper Sticker Wisdom - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-08-23">
 <title>Dilbert - Resending Email - Thursday August 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Gravy On Keyboard - Saturday August 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-18</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/499e3970718801364735005056a9545d&#x22; title=&#x22;Gravy On Keyboard - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-17">
-<title>Dilbert - Answering Questions In Email - Friday August 17, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-17</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/bb8bb7c0718901364736005056a9545d&#x22; title=&#x22;Answering Questions In Email - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
