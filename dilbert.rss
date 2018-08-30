@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-08-30">
+<title>Dilbert - Unmotivated Staff - Thursday August 30, 2018  </title>
+<link>http://dilbert.com/strip/2018-08-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0253cbd0814401364cf9005056a9545d&#x22; title=&#x22;Unmotivated Staff - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-08-29">
 <title>Dilbert - Dogbert&#x27;s Time Management Book - Wednesday August 29, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert Uses Bumper Sticker Wisdom - Friday August 24, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/24686270763e013648e0005056a9545d&#x22; title=&#x22;Dilbert Uses Bumper Sticker Wisdom - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-23">
-<title>Dilbert - Resending Email - Thursday August 23, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/225ec4f0763e013648e0005056a9545d&#x22; title=&#x22;Resending Email - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
