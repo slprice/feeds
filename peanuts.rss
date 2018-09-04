@@ -16,13 +16,49 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/03" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/02" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/01" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/08/31" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/08/30" />
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/08/29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/09/04">
+<title>Peanuts for September 04, 2018 | GoComics.com - 2018-09-04</title>
+<link>http://www.gocomics.com/peanuts/2018/09/04</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/afd17a3086c201364eef005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/09/03">
 <title>Peanuts for September 03, 2018 | GoComics.com - 2018-09-03</title>
 <link>http://www.gocomics.com/peanuts/2018/09/03</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/4271afa086c401364ef0005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/09/02">
+<title>Peanuts for September 02, 2018 | GoComics.com - 2018-09-02</title>
+<link>http://www.gocomics.com/peanuts/2018/09/02</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/a6244bf071c40136475f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/09/01">
+<title>Peanuts for September 01, 2018 | GoComics.com - 2018-09-01</title>
+<link>http://www.gocomics.com/peanuts/2018/09/01</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/23cd957070c9013646e4005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/08/31">
+<title>Peanuts for August 31, 2018 | GoComics.com - 2018-08-31</title>
+<link>http://www.gocomics.com/peanuts/2018/08/31</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6d7369a070ca013646e6005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/08/30">
+<title>Peanuts for August 30, 2018 | GoComics.com - 2018-08-30</title>
+<link>http://www.gocomics.com/peanuts/2018/08/30</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/c4d330b070c7013646e2005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/08/29">
+<title>Peanuts for August 29, 2018 | GoComics.com - 2018-08-29</title>
+<link>http://www.gocomics.com/peanuts/2018/08/29</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6bbd612070ca013646e6005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
