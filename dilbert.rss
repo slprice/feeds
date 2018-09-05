@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-30" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-05">
+<title>Dilbert - Candor Monster - Wednesday September 05, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-05</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/64d79ba0820701364d44005056a9545d&#x22; title=&#x22;Candor Monster - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-04">
 <title>Dilbert - Radical Candor - Tuesday September 04, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-04</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Unmotivated Staff - Thursday August 30, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-30</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0253cbd0814401364cf9005056a9545d&#x22; title=&#x22;Unmotivated Staff - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-29">
-<title>Dilbert - Dogbert&#x27;s Time Management Book - Wednesday August 29, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-29</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/e75e01e0814401364cf9005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Time Management Book - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

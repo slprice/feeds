@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/09/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/08/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/08/30" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/08/29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/09/05">
+<title>Peanuts for September 05, 2018 | GoComics.com - 2018-09-05</title>
+<link>http://www.gocomics.com/peanuts/2018/09/05</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/44083f8086c401364ef0005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/09/04">
 <title>Peanuts for September 04, 2018 | GoComics.com - 2018-09-04</title>
 <link>http://www.gocomics.com/peanuts/2018/09/04</link>
@@ -55,10 +60,5 @@
 <title>Peanuts for August 30, 2018 | GoComics.com - 2018-08-30</title>
 <link>http://www.gocomics.com/peanuts/2018/08/30</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c4d330b070c7013646e2005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2018/08/29">
-<title>Peanuts for August 29, 2018 | GoComics.com - 2018-08-29</title>
-<link>http://www.gocomics.com/peanuts/2018/08/29</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/6bbd612070ca013646e6005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
