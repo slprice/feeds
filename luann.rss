@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/08/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/luann/2018/09/06">
+<title>Luann for September 06, 2018 | GoComics.com - 2018-09-06</title>
+<link>http://www.gocomics.com/luann/2018/09/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/800f5cd08d0a01365150005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/luann/2018/09/05">
 <title>Luann for September 05, 2018 | GoComics.com - 2018-09-05</title>
 <link>http://www.gocomics.com/luann/2018/09/05</link>
@@ -55,10 +60,5 @@
 <title>Luann for August 31, 2018 | GoComics.com - 2018-08-31</title>
 <link>http://www.gocomics.com/luann/2018/08/31</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/d2db7f50878e01364f3a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2018/08/30">
-<title>Luann for August 30, 2018 | GoComics.com - 2018-08-30</title>
-<link>http://www.gocomics.com/luann/2018/08/30</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/95ccaf70878f01364f3a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

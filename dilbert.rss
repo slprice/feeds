@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-31" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-08-30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-06">
+<title>Dilbert - Carol Gets Some Candor - Thursday September 06, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-06</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/373f46b0820801364d44005056a9545d&#x22; title=&#x22;Carol Gets Some Candor - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-05">
 <title>Dilbert - Candor Monster - Wednesday September 05, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Introducing The New Hire - Friday August 31, 2018  </title>
 <link>http://dilbert.com/strip/2018-08-31</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/046bd3b0814401364cf9005056a9545d&#x22; title=&#x22;Introducing The New Hire - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-08-30">
-<title>Dilbert - Unmotivated Staff - Thursday August 30, 2018  </title>
-<link>http://dilbert.com/strip/2018-08-30</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/0253cbd0814401364cf9005056a9545d&#x22; title=&#x22;Unmotivated Staff - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
