@@ -16,6 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/09/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/09/03" />
@@ -25,6 +26,11 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/09/06">
+<title>Calvin and Hobbes for September 06, 2018 | GoComics.com - 2018-09-06</title>
+<link>http://www.gocomics.com/calvinandhobbes/2018/09/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/978de7b07dcb01364bee005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/09/05">
 <title>Calvin and Hobbes for September 05, 2018 | GoComics.com - 2018-09-05</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/09/05</link>
