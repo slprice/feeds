@@ -21,6 +21,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/03" />
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/01" />
  </rdf:Seq>
 </items>
@@ -49,6 +50,11 @@
 <title>Off the Mark for September 03, 2018 | GoComics.com - 2018-09-03</title>
 <link>http://www.gocomics.com/offthemark/2018/09/03</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/98d78b208c7f0136511e005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/offthemark/2018/09/02">
+<title>Off the Mark for September 02, 2018 | GoComics.com - 2018-09-02</title>
+<link>http://www.gocomics.com/offthemark/2018/09/02</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/e812d3007290013647c6005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/09/01">
 <title>Off the Mark for September 01, 2018 | GoComics.com - 2018-09-01</title>
