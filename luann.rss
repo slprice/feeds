@@ -18,7 +18,10 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/06" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/05" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/03" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/09/01" />
  </rdf:Seq>
 </items>
@@ -33,10 +36,25 @@
 <link>http://www.gocomics.com/luann/2018/09/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/800f5cd08d0a01365150005056a9545d" />]]></description>
 </item>
+<item rdf:about="http://www.gocomics.com/luann/2018/09/05">
+<title>Luann for September 05, 2018 | GoComics.com - 2018-09-05</title>
+<link>http://www.gocomics.com/luann/2018/09/05</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/7e5e2e108d0a01365150005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/09/04">
+<title>Luann for September 04, 2018 | GoComics.com - 2018-09-04</title>
+<link>http://www.gocomics.com/luann/2018/09/04</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/7c9d96d08d0a01365150005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/luann/2018/09/03">
 <title>Luann for September 03, 2018 | GoComics.com - 2018-09-03</title>
 <link>http://www.gocomics.com/luann/2018/09/03</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/7abb9b608d0a01365150005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/09/02">
+<title>Luann for September 02, 2018 | GoComics.com - 2018-09-02</title>
+<link>http://www.gocomics.com/luann/2018/09/02</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/652360b0614301364153005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/luann/2018/09/01">
 <title>Luann for September 01, 2018 | GoComics.com - 2018-09-01</title>
