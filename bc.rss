@@ -22,7 +22,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/09/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/09/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/09/01" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/08/31" />
  </rdf:Seq>
 </items>
 </channel>
@@ -55,10 +54,5 @@
 <title>B.C. for September 01, 2018 | GoComics.com - 2018-09-01</title>
 <link>http://www.gocomics.com/bc/2018/09/01</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/8ea16430797f01364a72005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/08/31">
-<title>B.C. for August 31, 2018 | GoComics.com - 2018-08-31</title>
-<link>http://www.gocomics.com/bc/2018/08/31</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/8c2cc730797f01364a72005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
