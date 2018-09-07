@@ -16,7 +16,6 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/09/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/09/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/09/04" />
@@ -26,11 +25,6 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/the-born-loser/2018/09/07">
-<title>The Born Loser for September 07, 2018 | GoComics.com - 2018-09-07</title>
-<link>http://www.gocomics.com/the-born-loser/2018/09/07</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5fbaa3108c4101365102005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/09/06">
 <title>The Born Loser for September 06, 2018 | GoComics.com - 2018-09-06</title>
 <link>http://www.gocomics.com/the-born-loser/2018/09/06</link>
@@ -44,7 +38,7 @@
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/09/04">
 <title>The Born Loser for September 04, 2018 | GoComics.com - 2018-09-04</title>
 <link>http://www.gocomics.com/the-born-loser/2018/09/04</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5c7461308c4101365102005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/09/03">
 <title>The Born Loser for September 03, 2018 | GoComics.com - 2018-09-03</title>
@@ -59,6 +53,6 @@
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/09/01">
 <title>The Born Loser for September 01, 2018 | GoComics.com - 2018-09-01</title>
 <link>http://www.gocomics.com/the-born-loser/2018/09/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/feb7139086c301364ef0005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 </rdf:RDF>
