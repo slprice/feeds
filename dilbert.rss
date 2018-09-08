@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-08">
+<title>Dilbert - Wally Covers For Alice - Saturday September 08, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-08</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3af67ed0820801364d44005056a9545d&#x22; title=&#x22;Wally Covers For Alice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-07">
 <title>Dilbert - Medical Phone Calls - Friday September 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday September 02, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-02</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/67699e6073510136481f005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-09-01">
-<title>Dilbert - Glass Is Half Full - Saturday September 01, 2018  </title>
-<link>http://dilbert.com/strip/2018-09-01</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/067def10814401364cf9005056a9545d&#x22; title=&#x22;Glass Is Half Full - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

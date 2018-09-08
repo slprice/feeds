@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/09/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/garfield/2018/09/08">
+<title>Garfield for September 08, 2018 | GoComics.com - 2018-09-08</title>
+<link>http://www.gocomics.com/garfield/2018/09/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/ae8b40b07cbf01364b6d005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/garfield/2018/09/07">
 <title>Garfield for September 07, 2018 | GoComics.com - 2018-09-07</title>
 <link>http://www.gocomics.com/garfield/2018/09/07</link>
@@ -55,10 +60,5 @@
 <title>Garfield for September 02, 2018 | GoComics.com - 2018-09-02</title>
 <link>http://www.gocomics.com/garfield/2018/09/02</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/434ae500713901364717005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/09/01">
-<title>Garfield for September 01, 2018 | GoComics.com - 2018-09-01</title>
-<link>http://www.gocomics.com/garfield/2018/09/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/22239fc06bb90136451d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
