@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/03" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/09/09">
+<title>Rose is Rose for September 09, 2018 | GoComics.com - 2018-09-09</title>
+<link>http://www.gocomics.com/roseisrose/2018/09/09</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d5a8be20778a01364988005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/09/08">
 <title>Rose is Rose for September 08, 2018 | GoComics.com - 2018-09-08</title>
 <link>http://www.gocomics.com/roseisrose/2018/09/08</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose for September 03, 2018 | GoComics.com - 2018-09-03</title>
 <link>http://www.gocomics.com/roseisrose/2018/09/03</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/a1977f8089e101365061005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/09/02">
-<title>Rose is Rose for September 02, 2018 | GoComics.com - 2018-09-02</title>
-<link>http://www.gocomics.com/roseisrose/2018/09/02</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/93954020720a01364781005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
