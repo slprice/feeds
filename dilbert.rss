@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-13">
+<title>Dilbert - Present Company Excluded - Thursday September 13, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a1d20c0086c201364eef005056a9545d&#x22; title=&#x22;Present Company Excluded - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-12">
 <title>Dilbert - Social Media Ads To Influence - Wednesday September 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Medical Phone Calls - Friday September 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/390aec50820801364d44005056a9545d&#x22; title=&#x22;Medical Phone Calls - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-09-06">
-<title>Dilbert - Carol Gets Some Candor - Thursday September 06, 2018  </title>
-<link>http://dilbert.com/strip/2018-09-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/373f46b0820801364d44005056a9545d&#x22; title=&#x22;Carol Gets Some Candor - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2018/09/13">
+<title>Pickles for September 13, 2018 | GoComics.com - 2018-09-13</title>
+<link>http://www.gocomics.com/pickles/2018/09/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/13ca7f60889401364fce005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2018/09/12">
 <title>Pickles for September 12, 2018 | GoComics.com - 2018-09-12</title>
 <link>http://www.gocomics.com/pickles/2018/09/12</link>
@@ -55,10 +60,5 @@
 <title>Pickles for September 07, 2018 | GoComics.com - 2018-09-07</title>
 <link>http://www.gocomics.com/pickles/2018/09/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/0afd9b60839a01364e0b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2018/09/06">
-<title>Pickles for September 06, 2018 | GoComics.com - 2018-09-06</title>
-<link>http://www.gocomics.com/pickles/2018/09/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/17d79b70839a01364e0b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
