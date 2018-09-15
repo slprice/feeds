@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-09" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-15">
+<title>Dilbert - Dogbert&#x27;s Pep Talk - Saturday September 15, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-15</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1af3e21086c401364ef0005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Pep Talk - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-14">
 <title>Dilbert - Virtual Reality - Friday September 14, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-14</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday September 09, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-09</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1ee77f60767601364900005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-09-08">
-<title>Dilbert - Wally Covers For Alice - Saturday September 08, 2018  </title>
-<link>http://dilbert.com/strip/2018-09-08</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3af67ed0820801364d44005056a9545d&#x22; title=&#x22;Wally Covers For Alice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
