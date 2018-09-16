@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/10" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/09/09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/09/16">
+<title>JumpStart for September 16, 2018 | GoComics.com - 2018-09-16</title>
+<link>http://www.gocomics.com/jumpstart/2018/09/16</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/e54ba4b07e9d01364c4b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/09/15">
 <title>JumpStart for September 15, 2018 | GoComics.com - 2018-09-15</title>
 <link>http://www.gocomics.com/jumpstart/2018/09/15</link>
@@ -55,10 +60,5 @@
 <title>JumpStart for September 10, 2018 | GoComics.com - 2018-09-10</title>
 <link>http://www.gocomics.com/jumpstart/2018/09/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/d510675092950136532a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/09/09">
-<title>JumpStart for September 09, 2018 | GoComics.com - 2018-09-09</title>
-<link>http://www.gocomics.com/jumpstart/2018/09/09</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/831ccb40791d01364a48005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
