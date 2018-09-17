@@ -18,7 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/09/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/09/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/09/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/09/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/09/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/09/12" />
@@ -35,11 +34,6 @@
 <title>Wizard of Id for September 16, 2018 | GoComics.com - 2018-09-16</title>
 <link>http://www.gocomics.com/wizardofid/2018/09/16</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c23e45e09664013654b5005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2018/09/15">
-<title>Wizard of Id for September 15, 2018 | GoComics.com - 2018-09-15</title>
-<link>http://www.gocomics.com/wizardofid/2018/09/15</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d5866d408d2401365162005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2018/09/14">
 <title>Wizard of Id for September 14, 2018 | GoComics.com - 2018-09-14</title>
