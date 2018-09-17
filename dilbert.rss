@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-17">
+<title>Dilbert - Compared To What - Monday September 17, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-17</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/8e0ca4e08c4101365102005056a9545d&#x22; title=&#x22;Compared To What - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-16">
 <title>Dilbert -  - Sunday September 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Resistance Is Futile - Tuesday September 11, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-11</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/db3669a086c401364ef0005056a9545d&#x22; title=&#x22;Resistance Is Futile - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-09-10">
-<title>Dilbert - Device Can Read Minds - Monday September 10, 2018  </title>
-<link>http://dilbert.com/strip/2018-09-10</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1874ba7086c401364ef0005056a9545d&#x22; title=&#x22;Device Can Read Minds - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
