@@ -17,8 +17,12 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/19" />
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/18" />
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/17" />
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/14" />
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/09/13" />
  </rdf:Seq>
 </items>
 </channel>
@@ -26,6 +30,21 @@
 <title>Shoe for September 19, 2018 | GoComics.com - 2018-09-19</title>
 <link>http://www.gocomics.com/shoe/2018/09/19</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/f9826350982401365550005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/shoe/2018/09/18">
+<title>Shoe for September 18, 2018 | GoComics.com - 2018-09-18</title>
+<link>http://www.gocomics.com/shoe/2018/09/18</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/ef79fab0982401365550005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/shoe/2018/09/17">
+<title>Shoe for September 17, 2018 | GoComics.com - 2018-09-17</title>
+<link>http://www.gocomics.com/shoe/2018/09/17</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/ec02b180982401365550005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/shoe/2018/09/16">
+<title>Shoe for September 16, 2018 | GoComics.com - 2018-09-16</title>
+<link>http://www.gocomics.com/shoe/2018/09/16</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/90d92c608eaf01365219005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/shoe/2018/09/15">
 <title>Shoe for September 15, 2018 | GoComics.com - 2018-09-15</title>
@@ -36,5 +55,10 @@
 <title>Shoe for September 14, 2018 | GoComics.com - 2018-09-14</title>
 <link>http://www.gocomics.com/shoe/2018/09/14</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/2f1b435092d701365359005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/shoe/2018/09/13">
+<title>Shoe for September 13, 2018 | GoComics.com - 2018-09-13</title>
+<link>http://www.gocomics.com/shoe/2018/09/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/36efbea092d701365359005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

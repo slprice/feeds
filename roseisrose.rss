@@ -21,6 +21,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/15" />
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/09/13" />
  </rdf:Seq>
 </items>
@@ -49,6 +50,11 @@
 <title>Rose is Rose for September 15, 2018 | GoComics.com - 2018-09-15</title>
 <link>http://www.gocomics.com/roseisrose/2018/09/15</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/9ee918908f6401365262005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/09/14">
+<title>Rose is Rose for September 14, 2018 | GoComics.com - 2018-09-14</title>
+<link>http://www.gocomics.com/roseisrose/2018/09/14</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/9cf53fd08f6401365262005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/09/13">
 <title>Rose is Rose for September 13, 2018 | GoComics.com - 2018-09-13</title>
