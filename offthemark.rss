@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/09/14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2018/09/21">
+<title>Off the Mark for September 21, 2018 | GoComics.com - 2018-09-21</title>
+<link>http://www.gocomics.com/offthemark/2018/09/21</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/231cf26097800136550f005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/09/20">
 <title>Off the Mark for September 20, 2018 | GoComics.com - 2018-09-20</title>
 <link>http://www.gocomics.com/offthemark/2018/09/20</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark for September 15, 2018 | GoComics.com - 2018-09-15</title>
 <link>http://www.gocomics.com/offthemark/2018/09/15</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/ef40205092c801365352005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2018/09/14">
-<title>Off the Mark for September 14, 2018 | GoComics.com - 2018-09-14</title>
-<link>http://www.gocomics.com/offthemark/2018/09/14</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ed1672d092c801365352005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
