@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-22">
+<title>Dilbert - New Statue In The Lobby - Saturday September 22, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-22</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/fedf95508c3f01365101005056a9545d&#x22; title=&#x22;New Statue In The Lobby - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-21">
 <title>Dilbert - Criminal Does Tech Support - Friday September 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday September 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-16</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a64029307d8801364bd3005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-09-15">
-<title>Dilbert - Dogbert&#x27;s Pep Talk - Saturday September 15, 2018  </title>
-<link>http://dilbert.com/strip/2018-09-15</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/1af3e21086c401364ef0005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Pep Talk - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
