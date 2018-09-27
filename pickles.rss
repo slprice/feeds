@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/09/20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2018/09/27">
+<title>Pickles for September 27, 2018 | GoComics.com - 2018-09-27</title>
+<link>http://www.gocomics.com/pickles/2018/09/27</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/89bed070941a013653f9005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2018/09/26">
 <title>Pickles for September 26, 2018 | GoComics.com - 2018-09-26</title>
 <link>http://www.gocomics.com/pickles/2018/09/26</link>
@@ -55,10 +60,5 @@
 <title>Pickles for September 21, 2018 | GoComics.com - 2018-09-21</title>
 <link>http://www.gocomics.com/pickles/2018/09/21</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/d59e5d208ebb01365223005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2018/09/20">
-<title>Pickles for September 20, 2018 | GoComics.com - 2018-09-20</title>
-<link>http://www.gocomics.com/pickles/2018/09/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d7d08cc08ebb01365223005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
