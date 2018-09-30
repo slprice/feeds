@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-09-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-09-30">
+<title>Dilbert -  - Sunday September 30, 2018  </title>
+<link>http://dilbert.com/strip/2018-09-30</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d846b030884501364f91005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-09-29">
 <title>Dilbert - Fine Lines - Saturday September 29, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Coworkers Getting Dumber - Monday September 24, 2018  </title>
 <link>http://dilbert.com/strip/2018-09-24</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/f300ee8092730136531c005056a9545d&#x22; title=&#x22;Coworkers Getting Dumber - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-09-23">
-<title>Dilbert -  - Sunday September 23, 2018  </title>
-<link>http://dilbert.com/strip/2018-09-23</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/a34ef1a081fc01364d3a005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
