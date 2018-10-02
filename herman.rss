@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/09/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/09/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/09/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/09/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/09/26" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/09/25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2018/10/02">
+<title>Herman for October 02, 2018 | GoComics.com - 2018-10-02</title>
+<link>http://www.gocomics.com/herman/2018/10/02</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d4e04c409cff01365703005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2018/10/01">
 <title>Herman for October 01, 2018 | GoComics.com - 2018-10-01</title>
 <link>http://www.gocomics.com/herman/2018/10/01</link>
@@ -55,10 +60,5 @@
 <title>Herman for September 26, 2018 | GoComics.com - 2018-09-26</title>
 <link>http://www.gocomics.com/herman/2018/09/26</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e0afb460977f0136550f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2018/09/25">
-<title>Herman for September 25, 2018 | GoComics.com - 2018-09-25</title>
-<link>http://www.gocomics.com/herman/2018/09/25</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/deee7380977f0136550f005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
