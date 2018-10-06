@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/09/30" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/09/29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2018/10/06">
+<title>Frazz for October 06, 2018 | GoComics.com - 2018-10-06</title>
+<link>http://www.gocomics.com/frazz/2018/10/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/757a0720a3080136591b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2018/10/05">
 <title>Frazz for October 05, 2018 | GoComics.com - 2018-10-05</title>
 <link>http://www.gocomics.com/frazz/2018/10/05</link>
@@ -55,10 +60,5 @@
 <title>Frazz for September 30, 2018 | GoComics.com - 2018-09-30</title>
 <link>http://www.gocomics.com/frazz/2018/09/30</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/a53a11a0877c01364f33005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2018/09/29">
-<title>Frazz for September 29, 2018 | GoComics.com - 2018-09-29</title>
-<link>http://www.gocomics.com/frazz/2018/09/29</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/799b73609d9301365737005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
