@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/10/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/10/08">
+<title>Pearls Before Swine for October 08, 2018 | GoComics.com - 2018-10-08</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2018/10/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/22e692a0a88d01365b26005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/10/07">
 <title>Pearls Before Swine for October 07, 2018 | GoComics.com - 2018-10-07</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2018/10/07</link>
@@ -55,10 +60,5 @@
 <title>Pearls Before Swine for October 02, 2018 | GoComics.com - 2018-10-02</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2018/10/02</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/0dbf7740a30a0136591e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/10/01">
-<title>Pearls Before Swine for October 01, 2018 | GoComics.com - 2018-10-01</title>
-<link>http://www.gocomics.com/pearlsbeforeswine/2018/10/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/9b895990a3080136591b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
