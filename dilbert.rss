@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-09">
+<title>Dilbert - Boss Acts Interested - Tuesday October 09, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cc7cb03098110136553c005056a9545d&#x22; title=&#x22;Boss Acts Interested - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-08">
 <title>Dilbert - Carol Can&#x27;t Get The Printer To Work - Monday October 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Slavery Or Work - Wednesday October 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c834ebd0936101365390005056a9545d&#x22; title=&#x22;Slavery Or Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-02">
-<title>Dilbert - Death In The Family - Tuesday October 02, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c632c850936101365390005056a9545d&#x22; title=&#x22;Death In The Family - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
