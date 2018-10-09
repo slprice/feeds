@@ -20,7 +20,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/10/06" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/10/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/10/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/10/03" />
  </rdf:Seq>
@@ -45,11 +44,6 @@
 <title>Rabbits Against Magic for October 06, 2018 | GoComics.com - 2018-10-06</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/10/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/3d43453098e7013655a3005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/10/05">
-<title>Rabbits Against Magic for October 05, 2018 | GoComics.com - 2018-10-05</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2018/10/05</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/3ea1981098e7013655a3005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/10/04">
 <title>Rabbits Against Magic for October 04, 2018 | GoComics.com - 2018-10-04</title>
