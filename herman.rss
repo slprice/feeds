@@ -18,7 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/09" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/10/05" />
@@ -35,11 +34,6 @@
 <title>Herman for October 09, 2018 | GoComics.com - 2018-10-09</title>
 <link>http://www.gocomics.com/herman/2018/10/09</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/f02745c0a3480136594c005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2018/10/08">
-<title>Herman for October 08, 2018 | GoComics.com - 2018-10-08</title>
-<link>http://www.gocomics.com/herman/2018/10/08</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ee66a0e0a3480136594c005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/herman/2018/10/07">
 <title>Herman for October 07, 2018 | GoComics.com - 2018-10-07</title>

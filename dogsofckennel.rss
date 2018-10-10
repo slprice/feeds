@@ -16,7 +16,6 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/07" />
@@ -26,11 +25,6 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/10">
-<title>Dogs of C-Kennel for October 10, 2018 | GoComics.com - 2018-10-10</title>
-<link>http://www.gocomics.com/dogsofckennel/2018/10/10</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c70cd460a6e601365a9b005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/09">
 <title>Dogs of C-Kennel for October 09, 2018 | GoComics.com - 2018-10-09</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/10/09</link>

@@ -17,9 +17,7 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/10" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/08" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/10/04" />
@@ -31,20 +29,10 @@
 <link>http://www.gocomics.com/ziggy/2018/10/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/2c3c9b20a88501365b1d005056a9545d" />]]></description>
 </item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/10/09">
-<title>Ziggy for October 09, 2018 | GoComics.com - 2018-10-09</title>
-<link>http://www.gocomics.com/ziggy/2018/10/09</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/2a73c530a88501365b1d005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/ziggy/2018/10/08">
 <title>Ziggy for October 08, 2018 | GoComics.com - 2018-10-08</title>
 <link>http://www.gocomics.com/ziggy/2018/10/08</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/289a6f90a88501365b1d005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/10/07">
-<title>Ziggy for October 07, 2018 | GoComics.com - 2018-10-07</title>
-<link>http://www.gocomics.com/ziggy/2018/10/07</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e9215df08f1c0136524f005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/ziggy/2018/10/06">
 <title>Ziggy for October 06, 2018 | GoComics.com - 2018-10-06</title>
