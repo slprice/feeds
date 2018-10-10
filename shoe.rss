@@ -22,6 +22,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/05" />
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/04" />
  </rdf:Seq>
 </items>
 </channel>
@@ -54,5 +55,10 @@
 <title>Shoe for October 05, 2018 | GoComics.com - 2018-10-05</title>
 <link>http://www.gocomics.com/shoe/2018/10/05</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/5c2f00c0a32501365931005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/shoe/2018/10/04">
+<title>Shoe for October 04, 2018 | GoComics.com - 2018-10-04</title>
+<link>http://www.gocomics.com/shoe/2018/10/04</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6ae9c890a32501365931005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
