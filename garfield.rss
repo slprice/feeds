@@ -18,6 +18,7 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/10/10" />
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/10/06" />
@@ -34,6 +35,11 @@
 <title>Garfield for October 10, 2018 | GoComics.com - 2018-10-10</title>
 <link>http://www.gocomics.com/garfield/2018/10/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/5c8f681093460136537d005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/garfield/2018/10/09">
+<title>Garfield for October 09, 2018 | GoComics.com - 2018-10-09</title>
+<link>http://www.gocomics.com/garfield/2018/10/09</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/5a70c7a093460136537d005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/garfield/2018/10/08">
 <title>Garfield for October 08, 2018 | GoComics.com - 2018-10-08</title>
@@ -53,6 +59,6 @@
 <item rdf:about="http://www.gocomics.com/garfield/2018/10/05">
 <title>Garfield for October 05, 2018 | GoComics.com - 2018-10-05</title>
 <link>http://www.gocomics.com/garfield/2018/10/05</link>
-<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+<description><![CDATA[<img src="https://assets.amuniversal.com/54351cf093460136537d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

@@ -18,6 +18,7 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/10" />
+  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/06" />
@@ -35,10 +36,15 @@
 <link>http://www.gocomics.com/the-born-loser/2018/10/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/88b40420a7ca01365ad5005056a9545d" />]]></description>
 </item>
+<item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/09">
+<title>The Born Loser for October 09, 2018 | GoComics.com - 2018-10-09</title>
+<link>http://www.gocomics.com/the-born-loser/2018/10/09</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/8716b490a7ca01365ad5005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/08">
 <title>The Born Loser for October 08, 2018 | GoComics.com - 2018-10-08</title>
 <link>http://www.gocomics.com/the-born-loser/2018/10/08</link>
-<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+<description><![CDATA[<img src="https://assets.amuniversal.com/218f1b40a7c901365ad4005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/07">
 <title>The Born Loser for October 07, 2018 | GoComics.com - 2018-10-07</title>
@@ -48,11 +54,11 @@
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/06">
 <title>The Born Loser for October 06, 2018 | GoComics.com - 2018-10-06</title>
 <link>http://www.gocomics.com/the-born-loser/2018/10/06</link>
-<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+<description><![CDATA[<img src="https://assets.amuniversal.com/52e90d40a3080136591b005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/05">
 <title>The Born Loser for October 05, 2018 | GoComics.com - 2018-10-05</title>
 <link>http://www.gocomics.com/the-born-loser/2018/10/05</link>
-<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+<description><![CDATA[<img src="https://assets.amuniversal.com/bab94d30a3090136591e005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
