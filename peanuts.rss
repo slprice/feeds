@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/05" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/10/04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/10/11">
+<title>Peanuts for October 11, 2018 | GoComics.com - 2018-10-11</title>
+<link>http://www.gocomics.com/peanuts/2018/10/11</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/efdc01c09cbd013656d9005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/10/10">
 <title>Peanuts for October 10, 2018 | GoComics.com - 2018-10-10</title>
 <link>http://www.gocomics.com/peanuts/2018/10/10</link>
@@ -55,10 +60,5 @@
 <title>Peanuts for October 05, 2018 | GoComics.com - 2018-10-05</title>
 <link>http://www.gocomics.com/peanuts/2018/10/05</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e7a8c5209cbd013656d9005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2018/10/04">
-<title>Peanuts for October 04, 2018 | GoComics.com - 2018-10-04</title>
-<link>http://www.gocomics.com/peanuts/2018/10/04</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e59804b09cbd013656d9005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
