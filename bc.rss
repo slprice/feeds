@@ -20,6 +20,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/10/08" />
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/10/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/10/05" />
  </rdf:Seq>
@@ -38,12 +39,17 @@
 <item rdf:about="http://www.gocomics.com/bc/2018/10/09">
 <title>B.C. for October 09, 2018 | GoComics.com - 2018-10-09</title>
 <link>http://www.gocomics.com/bc/2018/10/09</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ac693410a00001365852005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/bc/2018/10/08">
 <title>B.C. for October 08, 2018 | GoComics.com - 2018-10-08</title>
 <link>http://www.gocomics.com/bc/2018/10/08</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/af2c9430a00001365852005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/bc/2018/10/07">
+<title>B.C. for October 07, 2018 | GoComics.com - 2018-10-07</title>
+<link>http://www.gocomics.com/bc/2018/10/07</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/76114640a6e401365a9b005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/bc/2018/10/06">
 <title>B.C. for October 06, 2018 | GoComics.com - 2018-10-06</title>
@@ -53,6 +59,6 @@
 <item rdf:about="http://www.gocomics.com/bc/2018/10/05">
 <title>B.C. for October 05, 2018 | GoComics.com - 2018-10-05</title>
 <link>http://www.gocomics.com/bc/2018/10/05</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/9dc5da20a00001365852005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 </rdf:RDF>

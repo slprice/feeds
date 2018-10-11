@@ -19,8 +19,10 @@
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/09" />
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/06" />
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/05" />
  </rdf:Seq>
 </items>
 </channel>
@@ -39,14 +41,24 @@
 <link>http://www.gocomics.com/jumpstart/2018/10/09</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/f9d3ae40a88c01365b26005056a9545d" />]]></description>
 </item>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/10/08">
+<title>JumpStart for October 08, 2018 | GoComics.com - 2018-10-08</title>
+<link>http://www.gocomics.com/jumpstart/2018/10/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f82c6540a88c01365b26005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/10/07">
 <title>JumpStart for October 07, 2018 | GoComics.com - 2018-10-07</title>
 <link>http://www.gocomics.com/jumpstart/2018/10/07</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/29175a308fa501365294005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/10/06">
 <title>JumpStart for October 06, 2018 | GoComics.com - 2018-10-06</title>
 <link>http://www.gocomics.com/jumpstart/2018/10/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ecf56730a3090136591e005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/10/05">
+<title>JumpStart for October 05, 2018 | GoComics.com - 2018-10-05</title>
+<link>http://www.gocomics.com/jumpstart/2018/10/05</link>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 </rdf:RDF>

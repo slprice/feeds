@@ -22,6 +22,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/06" />
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/10/05" />
  </rdf:Seq>
 </items>
 </channel>
@@ -54,5 +55,10 @@
 <title>Frazz for October 06, 2018 | GoComics.com - 2018-10-06</title>
 <link>http://www.gocomics.com/frazz/2018/10/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/757a0720a3080136591b005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/frazz/2018/10/05">
+<title>Frazz for October 05, 2018 | GoComics.com - 2018-10-05</title>
+<link>http://www.gocomics.com/frazz/2018/10/05</link>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 </rdf:RDF>

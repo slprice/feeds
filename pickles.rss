@@ -18,8 +18,11 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/10" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/07" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/06" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/10/05" />
  </rdf:Seq>
 </items>
 </channel>
@@ -33,6 +36,11 @@
 <link>http://www.gocomics.com/pickles/2018/10/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c60333909e94013657c6005056a9545d" />]]></description>
 </item>
+<item rdf:about="http://www.gocomics.com/pickles/2018/10/09">
+<title>Pickles for October 09, 2018 | GoComics.com - 2018-10-09</title>
+<link>http://www.gocomics.com/pickles/2018/10/09</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/bde6b2809e94013657c6005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2018/10/08">
 <title>Pickles for October 08, 2018 | GoComics.com - 2018-10-08</title>
 <link>http://www.gocomics.com/pickles/2018/10/08</link>
@@ -42,5 +50,15 @@
 <title>Pickles for October 07, 2018 | GoComics.com - 2018-10-07</title>
 <link>http://www.gocomics.com/pickles/2018/10/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/7a5d14c08f6301365260005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2018/10/06">
+<title>Pickles for October 06, 2018 | GoComics.com - 2018-10-06</title>
+<link>http://www.gocomics.com/pickles/2018/10/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/b0e7d1a099dd0136561f005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pickles/2018/10/05">
+<title>Pickles for October 05, 2018 | GoComics.com - 2018-10-05</title>
+<link>http://www.gocomics.com/pickles/2018/10/05</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/b66d419099dd0136561f005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

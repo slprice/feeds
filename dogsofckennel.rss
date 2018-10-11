@@ -20,6 +20,8 @@
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/08" />
+  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/07" />
+  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/10/05" />
  </rdf:Seq>
 </items>
 </channel>
@@ -31,16 +33,26 @@
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/10">
 <title>Dogs of C-Kennel for October 10, 2018 | GoComics.com - 2018-10-10</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/10/10</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c70cd460a6e601365a9b005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/09">
 <title>Dogs of C-Kennel for October 09, 2018 | GoComics.com - 2018-10-09</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/10/09</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c4690270a6e601365a9b005056a9545d" />]]></description>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/08">
 <title>Dogs of C-Kennel for October 08, 2018 | GoComics.com - 2018-10-08</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/10/08</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/ca2e58c0a6e601365a9b005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/07">
+<title>Dogs of C-Kennel for October 07, 2018 | GoComics.com - 2018-10-07</title>
+<link>http://www.gocomics.com/dogsofckennel/2018/10/07</link>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/10/05">
+<title>Dogs of C-Kennel for October 05, 2018 | GoComics.com - 2018-10-05</title>
+<link>http://www.gocomics.com/dogsofckennel/2018/10/05</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/be957cc0a1660136589b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

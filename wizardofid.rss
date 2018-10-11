@@ -16,16 +16,30 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/10" />
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/07" />
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/06" />
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/10/05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/10/11">
+<title>Wizard of Id for October 11, 2018 | GoComics.com - 2018-10-11</title>
+<link>http://www.gocomics.com/wizardofid/2018/10/11</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/c6ff4ca0a00001365852005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2018/10/10">
 <title>Wizard of Id for October 10, 2018 | GoComics.com - 2018-10-10</title>
 <link>http://www.gocomics.com/wizardofid/2018/10/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/bb528ff0a00001365852005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/10/09">
+<title>Wizard of Id for October 09, 2018 | GoComics.com - 2018-10-09</title>
+<link>http://www.gocomics.com/wizardofid/2018/10/09</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/cc4bbc40a00001365852005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2018/10/08">
 <title>Wizard of Id for October 08, 2018 | GoComics.com - 2018-10-08</title>
@@ -36,5 +50,15 @@
 <title>Wizard of Id for October 07, 2018 | GoComics.com - 2018-10-07</title>
 <link>http://www.gocomics.com/wizardofid/2018/10/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/4bb5a6c0a6e501365a9b005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/10/06">
+<title>Wizard of Id for October 06, 2018 | GoComics.com - 2018-10-06</title>
+<link>http://www.gocomics.com/wizardofid/2018/10/06</link>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/10/05">
+<title>Wizard of Id for October 05, 2018 | GoComics.com - 2018-10-05</title>
+<link>http://www.gocomics.com/wizardofid/2018/10/05</link>
+<description><![CDATA[<img src="https://assets.gocomics.com/content-error-missing-image.jpeg" />]]></description>
 </item>
 </rdf:RDF>
