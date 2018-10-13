@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-13">
+<title>Dilbert - Dogbert The Sociopath - Saturday October 13, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-13</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d2d64a6098110136553c005056a9545d&#x22; title=&#x22;Dogbert The Sociopath - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-12">
 <title>Dilbert - Robot Upgrade - Friday October 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday October 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-07</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/bbd62f308cb901365136005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-06">
-<title>Dilbert - Spending The Company&#x27;s Money - Saturday October 06, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-06</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/ce1bb5f0936101365390005056a9545d&#x22; title=&#x22;Spending The Company&#x27;s Money - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/10/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2018/10/13">
+<title>Shoe for October 13, 2018 | GoComics.com - 2018-10-13</title>
+<link>http://www.gocomics.com/shoe/2018/10/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/84cb3370a8a501365b39005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2018/10/12">
 <title>Shoe for October 12, 2018 | GoComics.com - 2018-10-12</title>
 <link>http://www.gocomics.com/shoe/2018/10/12</link>
@@ -55,10 +60,5 @@
 <title>Shoe for October 07, 2018 | GoComics.com - 2018-10-07</title>
 <link>http://www.gocomics.com/shoe/2018/10/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e5f9d10099af01365603005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/10/06">
-<title>Shoe for October 06, 2018 | GoComics.com - 2018-10-06</title>
-<link>http://www.gocomics.com/shoe/2018/10/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5fd08b30a32501365931005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
