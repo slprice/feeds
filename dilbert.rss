@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-18">
+<title>Dilbert - You Have To Work Hard To Succeed - Thursday October 18, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-18</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2f378e409e3f0136577f005056a9545d&#x22; title=&#x22;You Have To Work Hard To Succeed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-17">
 <title>Dilbert - Copersons - Wednesday October 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Robot Upgrade - Friday October 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-12</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d570175098130136553c005056a9545d&#x22; title=&#x22;Robot Upgrade - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-11">
-<title>Dilbert - Anticipate Problems - Thursday October 11, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-11</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d0ce857098110136553c005056a9545d&#x22; title=&#x22;Anticipate Problems - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
