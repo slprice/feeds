@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-14" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-20">
+<title>Dilbert - When Will Ted By Done - Saturday October 20, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-20</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/333001b09e3f0136577f005056a9545d&#x22; title=&#x22;When Will Ted By Done - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-19">
 <title>Dilbert - Yelling At Tina - Friday October 19, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-19</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday October 14, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-14</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2a7f6a4093460136537d005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-13">
-<title>Dilbert - Dogbert The Sociopath - Saturday October 13, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-13</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d2d64a6098110136553c005056a9545d&#x22; title=&#x22;Dogbert The Sociopath - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
