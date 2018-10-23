@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-23">
+<title>Dilbert - Award For Cutting Costs - Tuesday October 23, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-23</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d16016b0a3ee0136598e005056a9545d&#x22; title=&#x22;Award For Cutting Costs - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-22">
 <title>Dilbert - Catbert Personality Test - Monday October 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Copersons - Wednesday October 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-17</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2d1d45609e3f0136577f005056a9545d&#x22; title=&#x22;Copersons - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-16">
-<title>Dilbert - Everyone Else Is Lazy And Useless - Tuesday October 16, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-16</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/2b14a0b09e3f0136577f005056a9545d&#x22; title=&#x22;Everyone Else Is Lazy And Useless - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
