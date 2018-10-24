@@ -17,11 +17,9 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/24" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/10/18" />
  </rdf:Seq>
 </items>
@@ -30,11 +28,6 @@
 <title>JumpStart for October 24, 2018 | GoComics.com - 2018-10-24</title>
 <link>http://www.gocomics.com/jumpstart/2018/10/24</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/d580fe50b39601365f19005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/10/23">
-<title>JumpStart for October 23, 2018 | GoComics.com - 2018-10-23</title>
-<link>http://www.gocomics.com/jumpstart/2018/10/23</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/2f5c7ce0b39401365f17005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/10/22">
 <title>JumpStart for October 22, 2018 | GoComics.com - 2018-10-22</title>
@@ -50,11 +43,6 @@
 <title>JumpStart for October 20, 2018 | GoComics.com - 2018-10-20</title>
 <link>http://www.gocomics.com/jumpstart/2018/10/20</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/cc36e110ae0b01365d22005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/10/19">
-<title>JumpStart for October 19, 2018 | GoComics.com - 2018-10-19</title>
-<link>http://www.gocomics.com/jumpstart/2018/10/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f2dd2900ae0c01365d24005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/10/18">
 <title>JumpStart for October 18, 2018 | GoComics.com - 2018-10-18</title>
