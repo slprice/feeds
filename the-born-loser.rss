@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/10/18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/25">
+<title>The Born Loser for October 25, 2018 | GoComics.com - 2018-10-25</title>
+<link>http://www.gocomics.com/the-born-loser/2018/10/25</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/659cdb40b3c901365f3e005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/24">
 <title>The Born Loser for October 24, 2018 | GoComics.com - 2018-10-24</title>
 <link>http://www.gocomics.com/the-born-loser/2018/10/24</link>
@@ -55,10 +60,5 @@
 <title>The Born Loser for October 19, 2018 | GoComics.com - 2018-10-19</title>
 <link>http://www.gocomics.com/the-born-loser/2018/10/19</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/741b7790ad5401365cd1005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/the-born-loser/2018/10/18">
-<title>The Born Loser for October 18, 2018 | GoComics.com - 2018-10-18</title>
-<link>http://www.gocomics.com/the-born-loser/2018/10/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/dd121b70ad5501365cd3005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
