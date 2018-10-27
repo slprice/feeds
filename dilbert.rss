@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-27">
+<title>Dilbert - Crypto Key - Saturday October 27, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-27</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d55feeb0a3ee0136598e005056a9545d&#x22; title=&#x22;Crypto Key - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-26">
 <title>Dilbert - Ceo Wants A Crypto Wallet - Friday October 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday October 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-21</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/38cadd0098830136557e005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-20">
-<title>Dilbert - When Will Ted By Done - Saturday October 20, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-20</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/333001b09e3f0136577f005056a9545d&#x22; title=&#x22;When Will Ted By Done - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
