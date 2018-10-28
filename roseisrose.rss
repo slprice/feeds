@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2018/10/21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2018/10/28">
+<title>Rose is Rose for October 28, 2018 | GoComics.com - 2018-10-28</title>
+<link>http://www.gocomics.com/roseisrose/2018/10/28</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/535c55f09e92013657c4005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2018/10/27">
 <title>Rose is Rose for October 27, 2018 | GoComics.com - 2018-10-27</title>
 <link>http://www.gocomics.com/roseisrose/2018/10/27</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose for October 22, 2018 | GoComics.com - 2018-10-22</title>
 <link>http://www.gocomics.com/roseisrose/2018/10/22</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/4fd6c440b06f01365e2b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2018/10/21">
-<title>Rose is Rose for October 21, 2018 | GoComics.com - 2018-10-21</title>
-<link>http://www.gocomics.com/roseisrose/2018/10/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c2f2ce90988b01365582005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
