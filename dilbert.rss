@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-10-29">
+<title>Dilbert - Training By Osmosis - Monday October 29, 2018  </title>
+<link>http://dilbert.com/strip/2018-10-29</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/caa4a710a88c01365b26005056a9545d&#x22; title=&#x22;Training By Osmosis - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-28">
 <title>Dilbert -  - Sunday October 28, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Award For Cutting Costs - Tuesday October 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-23</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d16016b0a3ee0136598e005056a9545d&#x22; title=&#x22;Award For Cutting Costs - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-22">
-<title>Dilbert - Catbert Personality Test - Monday October 22, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-22</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/36ca66f0a3f00136598f005056a9545d&#x22; title=&#x22;Catbert Personality Test - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
