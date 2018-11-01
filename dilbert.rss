@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-26" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-01">
+<title>Dilbert - Exceeding Expectations - Thursday November 01, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-01</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d1f13100a88c01365b26005056a9545d&#x22; title=&#x22;Exceeding Expectations - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-10-31">
 <title>Dilbert - Boss Leads All The Way - Wednesday October 31, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-31</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Ceo Wants A Crypto Wallet - Friday October 26, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-26</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/3ab97960a3f00136598f005056a9545d&#x22; title=&#x22;Ceo Wants A Crypto Wallet - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-25">
-<title>Dilbert - Idiots Don&#x27;t Know They Are Idiots - Thursday October 25, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-25</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/38cc1c80a3f00136598f005056a9545d&#x22; title=&#x22;Idiots Don&#x27;t Know They Are Idiots - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
