@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-29" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-28" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-04">
+<title>Dilbert -  - Sunday November 04, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-04</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/5aa53a809dc001365755005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-11-03">
 <title>Dilbert - Best Places To Work - Saturday November 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-03</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Training By Osmosis - Monday October 29, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-29</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/caa4a710a88c01365b26005056a9545d&#x22; title=&#x22;Training By Osmosis - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-28">
-<title>Dilbert -  - Sunday October 28, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-28</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/56d24d809dc001365755005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
