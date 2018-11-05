@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-30" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-10-29" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-05">
+<title>Dilbert - Narcissist  - Monday November 05, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-05</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c009d140b2bf01365ebf005056a9545d&#x22; title=&#x22;Narcissist  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-11-04">
 <title>Dilbert -  - Sunday November 04, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-04</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Intentionally Underbidding - Tuesday October 30, 2018  </title>
 <link>http://dilbert.com/strip/2018-10-30</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cda546d0a88c01365b26005056a9545d&#x22; title=&#x22;Intentionally Underbidding - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-10-29">
-<title>Dilbert - Training By Osmosis - Monday October 29, 2018  </title>
-<link>http://dilbert.com/strip/2018-10-29</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/caa4a710a88c01365b26005056a9545d&#x22; title=&#x22;Training By Osmosis - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
