@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-03" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-09">
+<title>Dilbert - Alice Makes Her Boss Look Good - Friday November 09, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-09</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c8c30c90b2bf01365ebf005056a9545d&#x22; title=&#x22;Alice Makes Her Boss Look Good - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-11-08">
 <title>Dilbert - Making Your Boss Look Good - Thursday November 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-08</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Best Places To Work - Saturday November 03, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-03</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d65c2a70a88c01365b26005056a9545d&#x22; title=&#x22;Best Places To Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-11-02">
-<title>Dilbert - Punishing For Others - Friday November 02, 2018  </title>
-<link>http://dilbert.com/strip/2018-11-02</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/d4266c70a88c01365b26005056a9545d&#x22; title=&#x22;Punishing For Others - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
