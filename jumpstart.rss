@@ -16,6 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/07" />
@@ -25,6 +26,11 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/11/10">
+<title>JumpStart for November 10, 2018 | GoComics.com - 2018-11-10</title>
+<link>http://www.gocomics.com/jumpstart/2018/11/10</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/00c8ec40be930136633b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/11/09">
 <title>JumpStart for November 09, 2018 | GoComics.com - 2018-11-09</title>
 <link>http://www.gocomics.com/jumpstart/2018/11/09</link>
