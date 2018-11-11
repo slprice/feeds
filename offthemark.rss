@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/05" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/11/04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2018/11/11">
+<title>Off the Mark for November 11, 2018 | GoComics.com - 2018-11-11</title>
+<link>http://www.gocomics.com/offthemark/2018/11/11</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/a931d3e0aa5b01365c06005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/11/10">
 <title>Off the Mark for November 10, 2018 | GoComics.com - 2018-11-10</title>
 <link>http://www.gocomics.com/offthemark/2018/11/10</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark for November 05, 2018 | GoComics.com - 2018-11-05</title>
 <link>http://www.gocomics.com/offthemark/2018/11/05</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c9150260be0001366302005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2018/11/04">
-<title>Off the Mark for November 04, 2018 | GoComics.com - 2018-11-04</title>
-<link>http://www.gocomics.com/offthemark/2018/11/04</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/64505b90a412013659b0005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
