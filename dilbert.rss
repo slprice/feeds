@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-08" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-07" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-14">
+<title>Dilbert - Complaining About Ted - Wednesday November 14, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-14</link>
+<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/cdafecf0b39601365f19005056a9545d&#x22; title=&#x22;Complaining About Ted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-11-13">
 <title>Dilbert - Bad Mouthing Ted&#x27;s Code - Tuesday November 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-13</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Making Your Boss Look Good - Thursday November 08, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-08</link>
 <description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c5c52050b2bf01365ebf005056a9545d&#x22; title=&#x22;Making Your Boss Look Good - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-11-07">
-<title>Dilbert - Tons Of Experience - Wednesday November 07, 2018  </title>
-<link>http://dilbert.com/strip/2018-11-07</link>
-<description>&#x3C;img src=&#x22;http://assets.amuniversal.com/c2a44b30b2bf01365ebf005056a9545d&#x22; title=&#x22;Tons Of Experience - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
