@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-18">
+<title>Dilbert -  - Sunday November 18, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-18</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/d6945fb0a94601365b83005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-11-17">
 <title>Dilbert - No Internet - Saturday November 17, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert Needs A New Chair  - Monday November 12, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-12</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/cbbbc540b39601365f19005056a9545d&#x22; title=&#x22;Dilbert Needs A New Chair  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-11-11">
-<title>Dilbert -  - Sunday November 11, 2018  </title>
-<link>http://dilbert.com/strip/2018-11-11</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/160f6ef0a62201365a85005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

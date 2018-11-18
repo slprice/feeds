@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/12" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2018/11/11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2018/11/18">
+<title>B.C. for November 18, 2018 | GoComics.com - 2018-11-18</title>
+<link>http://www.gocomics.com/bc/2018/11/18</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/c6140300c7ed013666e1005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2018/11/17">
 <title>B.C. for November 17, 2018 | GoComics.com - 2018-11-17</title>
 <link>http://www.gocomics.com/bc/2018/11/17</link>
@@ -55,10 +60,5 @@
 <title>B.C. for November 12, 2018 | GoComics.com - 2018-11-12</title>
 <link>http://www.gocomics.com/bc/2018/11/12</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/2cada890be0f01366307005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2018/11/11">
-<title>B.C. for November 11, 2018 | GoComics.com - 2018-11-11</title>
-<link>http://www.gocomics.com/bc/2018/11/11</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/9a78a520c26d013664c8005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
