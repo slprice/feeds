@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-11-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-11-19">
+<title>Dilbert - Sabotage The Plan  - Monday November 19, 2018  </title>
+<link>http://dilbert.com/strip/2018-11-19</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/67cacba0bdd6013662ea005056a9545d&#x22; title=&#x22;Sabotage The Plan  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-11-18">
 <title>Dilbert -  - Sunday November 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bad Mouthing Ted&#x27;s Code - Tuesday November 13, 2018  </title>
 <link>http://dilbert.com/strip/2018-11-13</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/199fecc0b39401365f17005056a9545d&#x22; title=&#x22;Bad Mouthing Ted&#x27;s Code - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-11-12">
-<title>Dilbert - Dilbert Needs A New Chair  - Monday November 12, 2018  </title>
-<link>http://dilbert.com/strip/2018-11-12</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/cbbbc540b39601365f19005056a9545d&#x22; title=&#x22;Dilbert Needs A New Chair  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
