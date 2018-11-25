@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/11/18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/11/25">
+<title>JumpStart for November 25, 2018 | GoComics.com - 2018-11-25</title>
+<link>http://www.gocomics.com/jumpstart/2018/11/25</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/8406afc0b40d01365f57005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/11/24">
 <title>JumpStart for November 24, 2018 | GoComics.com - 2018-11-24</title>
 <link>http://www.gocomics.com/jumpstart/2018/11/24</link>
@@ -55,10 +60,5 @@
 <title>JumpStart for November 19, 2018 | GoComics.com - 2018-11-19</title>
 <link>http://www.gocomics.com/jumpstart/2018/11/19</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/2cf3b7f0c99d01366778005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/11/18">
-<title>JumpStart for November 18, 2018 | GoComics.com - 2018-11-18</title>
-<link>http://www.gocomics.com/jumpstart/2018/11/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/9ecfd000b01f01365e1b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
