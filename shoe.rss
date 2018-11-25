@@ -16,6 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/11/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/11/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/11/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/11/22" />
@@ -25,6 +26,11 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2018/11/25">
+<title>Shoe for November 25, 2018 | GoComics.com - 2018-11-25</title>
+<link>http://www.gocomics.com/shoe/2018/11/25</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/42822260d2fd01366ad2005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2018/11/24">
 <title>Shoe for November 24, 2018 | GoComics.com - 2018-11-24</title>
 <link>http://www.gocomics.com/shoe/2018/11/24</link>
