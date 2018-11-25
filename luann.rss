@@ -19,6 +19,10 @@
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/23" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/22" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/21" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/20" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/11/19" />
  </rdf:Seq>
 </items>
 </channel>
@@ -36,5 +40,25 @@
 <title>Luann for November 23, 2018 | GoComics.com - 2018-11-23</title>
 <link>http://www.gocomics.com/luann/2018/11/23</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/a5087550c99e0136677a005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/11/22">
+<title>Luann for November 22, 2018 | GoComics.com - 2018-11-22</title>
+<link>http://www.gocomics.com/luann/2018/11/22</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/a332e220c99e0136677a005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/11/21">
+<title>Luann for November 21, 2018 | GoComics.com - 2018-11-21</title>
+<link>http://www.gocomics.com/luann/2018/11/21</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3f4d3f50c99d01366778005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/11/20">
+<title>Luann for November 20, 2018 | GoComics.com - 2018-11-20</title>
+<link>http://www.gocomics.com/luann/2018/11/20</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/a151b270c99e0136677a005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/11/19">
+<title>Luann for November 19, 2018 | GoComics.com - 2018-11-19</title>
+<link>http://www.gocomics.com/luann/2018/11/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/9f7b5650c99e0136677a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
