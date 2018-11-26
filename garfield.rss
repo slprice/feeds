@@ -16,49 +16,7 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/25" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/24" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/23" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2018/11/19" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/25">
-<title>Garfield for November 25, 2018 | GoComics.com - 2018-11-25</title>
-<link>http://www.gocomics.com/garfield/2018/11/25</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d8a39490a3c60136596f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/24">
-<title>Garfield for November 24, 2018 | GoComics.com - 2018-11-24</title>
-<link>http://www.gocomics.com/garfield/2018/11/24</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/6bf65470b9c701366171005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/23">
-<title>Garfield for November 23, 2018 | GoComics.com - 2018-11-23</title>
-<link>http://www.gocomics.com/garfield/2018/11/23</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/6a239e50b9c701366171005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/22">
-<title>Garfield for November 22, 2018 | GoComics.com - 2018-11-22</title>
-<link>http://www.gocomics.com/garfield/2018/11/22</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/684ad690b9c701366171005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/21">
-<title>Garfield for November 21, 2018 | GoComics.com - 2018-11-21</title>
-<link>http://www.gocomics.com/garfield/2018/11/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/66507f80b9c701366171005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/20">
-<title>Garfield for November 20, 2018 | GoComics.com - 2018-11-20</title>
-<link>http://www.gocomics.com/garfield/2018/11/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/645b9120b9c701366171005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2018/11/19">
-<title>Garfield for November 19, 2018 | GoComics.com - 2018-11-19</title>
-<link>http://www.gocomics.com/garfield/2018/11/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/625fde30b9c701366171005056a9545d" />]]></description>
-</item>
 </rdf:RDF>
