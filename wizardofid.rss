@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2018/11/20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2018/11/27">
+<title>Wizard of Id for November 27, 2018 | GoComics.com - 2018-11-27</title>
+<link>http://www.gocomics.com/wizardofid/2018/11/27</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/2fac9830bea60136634b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2018/11/26">
 <title>Wizard of Id for November 26, 2018 | GoComics.com - 2018-11-26</title>
 <link>http://www.gocomics.com/wizardofid/2018/11/26</link>
@@ -55,10 +60,5 @@
 <title>Wizard of Id for November 21, 2018 | GoComics.com - 2018-11-21</title>
 <link>http://www.gocomics.com/wizardofid/2018/11/21</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/3479dff0bea60136634b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2018/11/20">
-<title>Wizard of Id for November 20, 2018 | GoComics.com - 2018-11-20</title>
-<link>http://www.gocomics.com/wizardofid/2018/11/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/1deac9a0bea60136634b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
