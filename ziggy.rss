@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/12/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/12/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/12/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/11/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/11/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/11/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/11/27" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2018/11/26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/ziggy/2018/12/03">
+<title>Ziggy for December 03, 2018 | GoComics.com - 2018-12-03</title>
+<link>http://www.gocomics.com/ziggy/2018/12/03</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/5793a0a0d55a01366bb8005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/ziggy/2018/12/02">
 <title>Ziggy for December 02, 2018 | GoComics.com - 2018-12-02</title>
 <link>http://www.gocomics.com/ziggy/2018/12/02</link>
@@ -55,10 +60,5 @@
 <title>Ziggy for November 27, 2018 | GoComics.com - 2018-11-27</title>
 <link>http://www.gocomics.com/ziggy/2018/11/27</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c59589f0cf100136699b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2018/11/26">
-<title>Ziggy for November 26, 2018 | GoComics.com - 2018-11-26</title>
-<link>http://www.gocomics.com/ziggy/2018/11/26</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c3b23cd0cf100136699b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
