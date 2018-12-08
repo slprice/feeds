@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-12-08">
+<title>Dilbert - Horse Blinders - Saturday December 08, 2018  </title>
+<link>http://dilbert.com/strip/2018-12-08</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/ef9fc420c8c601366722005056a9545d&#x22; title=&#x22;Horse Blinders - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-12-07">
 <title>Dilbert - Keeping The Worthless People - Friday December 07, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday December 02, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-02</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/6a5c1a00b5d901366030005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-12-01">
-<title>Dilbert - Workplace Bully - Saturday December 01, 2018  </title>
-<link>http://dilbert.com/strip/2018-12-01</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/28555010c8c601366722005056a9545d&#x22; title=&#x22;Workplace Bully - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
