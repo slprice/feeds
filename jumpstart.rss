@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/03" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2018/12/02" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2018/12/09">
+<title>JumpStart for December 09, 2018 | GoComics.com - 2018-12-09</title>
+<link>http://www.gocomics.com/jumpstart/2018/12/09</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/47057810c0a001366445005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2018/12/08">
 <title>JumpStart for December 08, 2018 | GoComics.com - 2018-12-08</title>
 <link>http://www.gocomics.com/jumpstart/2018/12/08</link>
@@ -55,10 +60,5 @@
 <title>JumpStart for December 03, 2018 | GoComics.com - 2018-12-03</title>
 <link>http://www.gocomics.com/jumpstart/2018/12/03</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c39ee180d49501366b66005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2018/12/02">
-<title>JumpStart for December 02, 2018 | GoComics.com - 2018-12-02</title>
-<link>http://www.gocomics.com/jumpstart/2018/12/02</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f5225a90ba56013661d2005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
