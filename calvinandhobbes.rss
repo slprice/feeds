@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/05" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2018/12/04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/12/11">
+<title>Calvin and Hobbes for December 11, 2018 | GoComics.com - 2018-12-11</title>
+<link>http://www.gocomics.com/calvinandhobbes/2018/12/11</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/580ef610cae50136682a005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/12/10">
 <title>Calvin and Hobbes for December 10, 2018 | GoComics.com - 2018-12-10</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/12/10</link>
@@ -55,10 +60,5 @@
 <title>Calvin and Hobbes for December 05, 2018 | GoComics.com - 2018-12-05</title>
 <link>http://www.gocomics.com/calvinandhobbes/2018/12/05</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/50ae7420cae50136682a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2018/12/04">
-<title>Calvin and Hobbes for December 04, 2018 | GoComics.com - 2018-12-04</title>
-<link>http://www.gocomics.com/calvinandhobbes/2018/12/04</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/4f4144e0cae50136682a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
