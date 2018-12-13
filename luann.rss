@@ -21,6 +21,7 @@
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/12/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/12/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/12/09" />
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/12/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2018/12/07" />
  </rdf:Seq>
 </items>
@@ -49,6 +50,11 @@
 <title>Luann for December 09, 2018 | GoComics.com - 2018-12-09</title>
 <link>http://www.gocomics.com/luann/2018/12/09</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/a3ec1090af9701365dde005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/luann/2018/12/08">
+<title>Luann for December 08, 2018 | GoComics.com - 2018-12-08</title>
+<link>http://www.gocomics.com/luann/2018/12/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/da29f370d49501366b66005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/luann/2018/12/07">
 <title>Luann for December 07, 2018 | GoComics.com - 2018-12-07</title>
