@@ -18,7 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/12/14" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/12/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/12/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/12/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2018/12/10" />
@@ -35,11 +34,6 @@
 <title>Off the Mark for December 14, 2018 | GoComics.com - 2018-12-14</title>
 <link>http://www.gocomics.com/offthemark/2018/12/14</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/218df630d98a01366d3c005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2018/12/13">
-<title>Off the Mark for December 13, 2018 | GoComics.com - 2018-12-13</title>
-<link>http://www.gocomics.com/offthemark/2018/12/13</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/1fdec850d98a01366d3c005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/offthemark/2018/12/12">
 <title>Off the Mark for December 12, 2018 | GoComics.com - 2018-12-12</title>
