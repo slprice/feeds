@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/09" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2018/12/08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2018/12/15">
+<title>PC and Pixel for December 15, 2018 | GoComics.com - 2018-12-15</title>
+<link>http://www.gocomics.com/pcandpixel/2018/12/15</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f25651d0dd1e01366ece005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2018/12/14">
 <title>PC and Pixel for December 14, 2018 | GoComics.com - 2018-12-14</title>
 <link>http://www.gocomics.com/pcandpixel/2018/12/14</link>
@@ -55,10 +60,5 @@
 <title>PC and Pixel for December 09, 2018 | GoComics.com - 2018-12-09</title>
 <link>http://www.gocomics.com/pcandpixel/2018/12/09</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/f72e7c90dd1e01366ece005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2018/12/08">
-<title>PC and Pixel for December 08, 2018 | GoComics.com - 2018-12-08</title>
-<link>http://www.gocomics.com/pcandpixel/2018/12/08</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5f493570d47e01366b56005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
