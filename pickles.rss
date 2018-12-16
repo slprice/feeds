@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/10" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2018/12/09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2018/12/16">
+<title>Pickles for December 16, 2018 | GoComics.com - 2018-12-16</title>
+<link>http://www.gocomics.com/pickles/2018/12/16</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/609539e0c5e70136664b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2018/12/15">
 <title>Pickles for December 15, 2018 | GoComics.com - 2018-12-15</title>
 <link>http://www.gocomics.com/pickles/2018/12/15</link>
@@ -55,10 +60,5 @@
 <title>Pickles for December 10, 2018 | GoComics.com - 2018-12-10</title>
 <link>http://www.gocomics.com/pickles/2018/12/10</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/7129d900cfdb01366a32005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2018/12/09">
-<title>Pickles for December 09, 2018 | GoComics.com - 2018-12-09</title>
-<link>http://www.gocomics.com/pickles/2018/12/09</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/54d45950c03d01366420005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
