@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/12" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2018/12/11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/12/18">
+<title>Rabbits Against Magic for December 18, 2018 | GoComics.com - 2018-12-18</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2018/12/18</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/971dd460c43a0136657d005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/12/17">
 <title>Rabbits Against Magic for December 17, 2018 | GoComics.com - 2018-12-17</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/12/17</link>
@@ -55,10 +60,5 @@
 <title>Rabbits Against Magic for December 12, 2018 | GoComics.com - 2018-12-12</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2018/12/12</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/86b646c0bebc0136635b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2018/12/11">
-<title>Rabbits Against Magic for December 11, 2018 | GoComics.com - 2018-12-11</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2018/12/11</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/87e959b0bebc0136635b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
