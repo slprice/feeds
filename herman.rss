@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2018/12/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2018/12/19">
+<title>Herman for December 19, 2018 | GoComics.com - 2018-12-19</title>
+<link>http://www.gocomics.com/herman/2018/12/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d252a5f0d98901366d3c005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2018/12/18">
 <title>Herman for December 18, 2018 | GoComics.com - 2018-12-18</title>
 <link>http://www.gocomics.com/herman/2018/12/18</link>
@@ -55,10 +60,5 @@
 <title>Herman for December 13, 2018 | GoComics.com - 2018-12-13</title>
 <link>http://www.gocomics.com/herman/2018/12/13</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/bf7d0f20d40901366b33005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2018/12/12">
-<title>Herman for December 12, 2018 | GoComics.com - 2018-12-12</title>
-<link>http://www.gocomics.com/herman/2018/12/12</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/bdc9f0c0d40901366b33005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
