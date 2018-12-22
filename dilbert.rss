@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-12-22">
+<title>Dilbert - Doomed Humanity To Annihilation - Saturday December 22, 2018  </title>
+<link>http://dilbert.com/strip/2018-12-22</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/00883e30d95301366d1d005056a9545d&#x22; title=&#x22;Doomed Humanity To Annihilation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-12-21">
 <title>Dilbert - Contacting The Alien Probe - Friday December 21, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday December 16, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-16</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/78c09580bec101366361005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-12-15">
-<title>Dilbert - Fly On Weekend - Saturday December 15, 2018  </title>
-<link>http://dilbert.com/strip/2018-12-15</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/490f4da0c8c601366722005056a9545d&#x22; title=&#x22;Fly On Weekend - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
