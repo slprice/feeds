@@ -16,7 +16,6 @@
 <description></description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/20" />
@@ -26,11 +25,6 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.gocomics.com/peanuts/2018/12/23">
-<title>Peanuts for December 23, 2018 | GoComics.com - 2018-12-23</title>
-<link>http://www.gocomics.com/peanuts/2018/12/23</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/84754ce0ba99013661e0005056a9545d" />]]></description>
-</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/12/22">
 <title>Peanuts for December 22, 2018 | GoComics.com - 2018-12-22</title>
 <link>http://www.gocomics.com/peanuts/2018/12/22</link>
