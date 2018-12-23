@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2018/12/16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2018/12/23">
+<title>Shoe for December 23, 2018 | GoComics.com - 2018-12-23</title>
+<link>http://www.gocomics.com/shoe/2018/12/23</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3672a7c0dfda01366fac005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2018/12/22">
 <title>Shoe for December 22, 2018 | GoComics.com - 2018-12-22</title>
 <link>http://www.gocomics.com/shoe/2018/12/22</link>
@@ -55,10 +60,5 @@
 <title>Shoe for December 17, 2018 | GoComics.com - 2018-12-17</title>
 <link>http://www.gocomics.com/shoe/2018/12/17</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/488e1340dfb201366f91005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2018/12/16">
-<title>Shoe for December 16, 2018 | GoComics.com - 2018-12-16</title>
-<link>http://www.gocomics.com/shoe/2018/12/16</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/3326d220dfda01366fac005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
