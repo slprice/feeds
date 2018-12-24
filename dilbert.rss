@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-12-24">
+<title>Dilbert - Ask Ted  - Monday December 24, 2018  </title>
+<link>http://dilbert.com/strip/2018-12-24</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/029c3b70d95301366d1d005056a9545d&#x22; title=&#x22;Ask Ted  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-12-23">
 <title>Dilbert -  - Sunday December 23, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bringing The Outdoors In - Tuesday December 18, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-18</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/fbe674c0d95201366d1d005056a9545d&#x22; title=&#x22;Bringing The Outdoors In - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-12-17">
-<title>Dilbert - The Candy Honor System - Monday December 17, 2018  </title>
-<link>http://dilbert.com/strip/2018-12-17</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/c35b14f0d95501366d20005056a9545d&#x22; title=&#x22;The Candy Honor System - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

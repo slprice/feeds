@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2018/12/17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2018/12/24">
+<title>Frazz for December 24, 2018 | GoComics.com - 2018-12-24</title>
+<link>http://www.gocomics.com/frazz/2018/12/24</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/0e03d1d0e5140136716b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2018/12/23">
 <title>Frazz for December 23, 2018 | GoComics.com - 2018-12-23</title>
 <link>http://www.gocomics.com/frazz/2018/12/23</link>
@@ -55,10 +60,5 @@
 <title>Frazz for December 18, 2018 | GoComics.com - 2018-12-18</title>
 <link>http://www.gocomics.com/frazz/2018/12/18</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/483d59a0df9c01366f7d005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2018/12/17">
-<title>Frazz for December 17, 2018 | GoComics.com - 2018-12-17</title>
-<link>http://www.gocomics.com/frazz/2018/12/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e22730a0df9a01366f7c005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
