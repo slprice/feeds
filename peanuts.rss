@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2018/12/18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2018/12/25">
+<title>Peanuts for December 25, 2018 | GoComics.com - 2018-12-25</title>
+<link>http://www.gocomics.com/peanuts/2018/12/25</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3c11e3f0d70101366c80005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2018/12/24">
 <title>Peanuts for December 24, 2018 | GoComics.com - 2018-12-24</title>
 <link>http://www.gocomics.com/peanuts/2018/12/24</link>
@@ -55,10 +60,5 @@
 <title>Peanuts for December 19, 2018 | GoComics.com - 2018-12-19</title>
 <link>http://www.gocomics.com/peanuts/2018/12/19</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/349ba840d70101366c80005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2018/12/18">
-<title>Peanuts for December 18, 2018 | GoComics.com - 2018-12-18</title>
-<link>http://www.gocomics.com/peanuts/2018/12/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/330bde10d70101366c80005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
