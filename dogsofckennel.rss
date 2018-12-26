@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2018/12/19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/12/26">
+<title>Dogs of C-Kennel for December 26, 2018 | GoComics.com - 2018-12-26</title>
+<link>http://www.gocomics.com/dogsofckennel/2018/12/26</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/cd1800f0e370013670ec005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/dogsofckennel/2018/12/25">
 <title>Dogs of C-Kennel for December 25, 2018 | GoComics.com - 2018-12-25</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/12/25</link>
@@ -55,10 +60,5 @@
 <title>Dogs of C-Kennel for December 20, 2018 | GoComics.com - 2018-12-20</title>
 <link>http://www.gocomics.com/dogsofckennel/2018/12/20</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/12d534a0dfe601366fb0005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2018/12/19">
-<title>Dogs of C-Kennel for December 19, 2018 | GoComics.com - 2018-12-19</title>
-<link>http://www.gocomics.com/dogsofckennel/2018/12/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/14e1e280dfe601366fb0005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
