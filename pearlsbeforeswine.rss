@@ -17,7 +17,6 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/12/26" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/12/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/12/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/12/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2018/12/22" />
@@ -30,11 +29,6 @@
 <title>Pearls Before Swine for December 26, 2018 | GoComics.com - 2018-12-26</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2018/12/26</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/48403710e5140136716b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/12/25">
-<title>Pearls Before Swine for December 25, 2018 | GoComics.com - 2018-12-25</title>
-<link>http://www.gocomics.com/pearlsbeforeswine/2018/12/25</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f7b29350e5140136716b005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2018/12/24">
 <title>Pearls Before Swine for December 24, 2018 | GoComics.com - 2018-12-24</title>
