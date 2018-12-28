@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2018-12-28">
+<title>Dilbert - Fetching Coffee - Friday December 28, 2018  </title>
+<link>http://dilbert.com/strip/2018-12-28</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/84a581f0d95401366d1e005056a9545d&#x22; title=&#x22;Fetching Coffee - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2018-12-27">
 <title>Dilbert - Working With Old Ned - Thursday December 27, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Doomed Humanity To Annihilation - Saturday December 22, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-22</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/00883e30d95301366d1d005056a9545d&#x22; title=&#x22;Doomed Humanity To Annihilation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-12-21">
-<title>Dilbert - Contacting The Alien Probe - Friday December 21, 2018  </title>
-<link>http://dilbert.com/strip/2018-12-21</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/fe4dd690d95201366d1d005056a9545d&#x22; title=&#x22;Contacting The Alien Probe - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
