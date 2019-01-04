@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-29" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-28" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-04">
+<title>Dilbert - No Raise For Dilbert - Friday January 04, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-04</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/8655c3e0da1d01366d7a005056a9545d&#x22; title=&#x22;No Raise For Dilbert - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-03">
 <title>Dilbert - Firing Ted - Thursday January 03, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-03</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Alice Gets Mandatory Training - Saturday December 29, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-29</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/04b09c80d95301366d1d005056a9545d&#x22; title=&#x22;Alice Gets Mandatory Training - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-12-28">
-<title>Dilbert - Fetching Coffee - Friday December 28, 2018  </title>
-<link>http://dilbert.com/strip/2018-12-28</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/84a581f0d95401366d1e005056a9545d&#x22; title=&#x22;Fetching Coffee - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
