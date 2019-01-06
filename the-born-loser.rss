@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2019/01/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2019/01/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2019/01/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2019/01/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2019/01/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2019/01/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/12/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/the-born-loser/2018/12/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/the-born-loser/2019/01/06">
+<title>The Born Loser for January 06, 2019 | GoComics.com - 2019-01-06</title>
+<link>http://www.gocomics.com/the-born-loser/2019/01/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/23e57610ea5101367328005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/the-born-loser/2019/01/05">
 <title>The Born Loser for January 05, 2019 | GoComics.com - 2019-01-05</title>
 <link>http://www.gocomics.com/the-born-loser/2019/01/05</link>
@@ -55,10 +60,5 @@
 <title>The Born Loser for December 31, 2018 | GoComics.com - 2018-12-31</title>
 <link>http://www.gocomics.com/the-born-loser/2018/12/31</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/aea515c0eb4501367349005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/the-born-loser/2018/12/30">
-<title>The Born Loser for December 30, 2018 | GoComics.com - 2018-12-30</title>
-<link>http://www.gocomics.com/the-born-loser/2018/12/30</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/b1a95120d4d201366b88005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

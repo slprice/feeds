@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-31" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2018-12-30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-06">
+<title>Dilbert -  - Sunday January 06, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-06</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/c6e39e40ead90136733a005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-05">
 <title>Dilbert - Twizzle The Flurm - Saturday January 05, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - New Year Resolution  - Monday December 31, 2018  </title>
 <link>http://dilbert.com/strip/2018-12-31</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/846a6470da1d01366d7a005056a9545d&#x22; title=&#x22;New Year Resolution  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2018-12-30">
-<title>Dilbert -  - Sunday December 30, 2018  </title>
-<link>http://dilbert.com/strip/2018-12-30</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/2541fea0ca50013667d2005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
