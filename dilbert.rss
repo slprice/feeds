@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-02" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-08">
+<title>Dilbert - First Ai As Smart As Humans - Tuesday January 08, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-08</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/78829a90e76401367284005056a9545d&#x22; title=&#x22;First Ai As Smart As Humans - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-07">
 <title>Dilbert - How Long To Make Ai  - Monday January 07, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-07</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Boxes With Names - Wednesday January 02, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-02</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/2d2ac2e0da1c01366d79005056a9545d&#x22; title=&#x22;Boxes With Names - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-01">
-<title>Dilbert - New Year&#x27;s Day - Tuesday January 01, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-01</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/2b202f50da1c01366d79005056a9545d&#x22; title=&#x22;New Year&#x27;s Day - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
