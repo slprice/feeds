@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-04" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-03" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-10">
+<title>Dilbert - Ai With Bad Analogies - Thursday January 10, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-10</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f3d38100e76201367282005056a9545d&#x22; title=&#x22;Ai With Bad Analogies - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-09">
 <title>Dilbert - Ai Is Stupid For An Hour - Wednesday January 09, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-09</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - No Raise For Dilbert - Friday January 04, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-04</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/8655c3e0da1d01366d7a005056a9545d&#x22; title=&#x22;No Raise For Dilbert - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-03">
-<title>Dilbert - Firing Ted - Thursday January 03, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-03</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/2f77f3b0da1c01366d79005056a9545d&#x22; title=&#x22;Firing Ted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
