@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-06" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-12">
+<title>Dilbert - Ai Too Stupid To Be Dangerous - Saturday January 12, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-12</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f5c49e10e76201367282005056a9545d&#x22; title=&#x22;Ai Too Stupid To Be Dangerous - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-11">
 <title>Dilbert - Ai Keeps Owning The Boss - Friday January 11, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-11</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday January 06, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-06</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/c6e39e40ead90136733a005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-05">
-<title>Dilbert - Twizzle The Flurm - Saturday January 05, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-05</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/b292bb20da1a01366d78005056a9545d&#x22; title=&#x22;Twizzle The Flurm - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
