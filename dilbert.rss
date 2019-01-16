@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-16">
+<title>Dilbert - Hiring A Millennial - Wednesday January 16, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-16</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/c4906450e76501367285005056a9545d&#x22; title=&#x22;Hiring A Millennial - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-15">
 <title>Dilbert - More Accurate Job Description - Tuesday January 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Ai With Bad Analogies - Thursday January 10, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-10</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/f3d38100e76201367282005056a9545d&#x22; title=&#x22;Ai With Bad Analogies - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-09">
-<title>Dilbert - Ai Is Stupid For An Hour - Wednesday January 09, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-09</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/7a48bfd0e76401367284005056a9545d&#x22; title=&#x22;Ai Is Stupid For An Hour - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
