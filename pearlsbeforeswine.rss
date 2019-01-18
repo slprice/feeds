@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/12" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/01/11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2019/01/18">
+<title>Pearls Before Swine for January 18, 2019 | GoComics.com - 2019-01-18</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2019/01/18</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3e924c60f596013676d7005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2019/01/17">
 <title>Pearls Before Swine for January 17, 2019 | GoComics.com - 2019-01-17</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2019/01/17</link>
@@ -55,10 +60,5 @@
 <title>Pearls Before Swine for January 12, 2019 | GoComics.com - 2019-01-12</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2019/01/12</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c2f0b130f0da0136750d005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2019/01/11">
-<title>Pearls Before Swine for January 11, 2019 | GoComics.com - 2019-01-11</title>
-<link>http://www.gocomics.com/pearlsbeforeswine/2019/01/11</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c04544e0f0da0136750d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
