@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/01/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2019/01/19">
+<title>Rose is Rose for January 19, 2019 | GoComics.com - 2019-01-19</title>
+<link>http://www.gocomics.com/roseisrose/2019/01/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/e1888700f26f013675d3005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2019/01/18">
 <title>Rose is Rose for January 18, 2019 | GoComics.com - 2019-01-18</title>
 <link>http://www.gocomics.com/roseisrose/2019/01/18</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose for January 13, 2019 | GoComics.com - 2019-01-13</title>
 <link>http://www.gocomics.com/roseisrose/2019/01/13</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c4b0fa50ea5201367328005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2019/01/12">
-<title>Rose is Rose for January 12, 2019 | GoComics.com - 2019-01-12</title>
-<link>http://www.gocomics.com/roseisrose/2019/01/12</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/be14d5f0ece101367401005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-19">
+<title>Dilbert - Why Didn&#x27;t You Do It Sooner - Saturday January 19, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-19</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f9487bf0e76201367282005056a9545d&#x22; title=&#x22;Why Didn&#x27;t You Do It Sooner - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-18">
 <title>Dilbert - Did Not Know About The Server - Friday January 18, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday January 13, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-13</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/c9fa12c0ead90136733a005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-12">
-<title>Dilbert - Ai Too Stupid To Be Dangerous - Saturday January 12, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-12</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f5c49e10e76201367282005056a9545d&#x22; title=&#x22;Ai Too Stupid To Be Dangerous - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
