@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-21">
+<title>Dilbert - Very Smart Phd - Monday January 21, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-21</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/1eb52e70f4d101367684005056a9545d&#x22; title=&#x22;Very Smart Phd - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-20">
 <title>Dilbert -  - Sunday January 20, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - More Accurate Job Description - Tuesday January 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-15</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/7e366fc0e76401367284005056a9545d&#x22; title=&#x22;More Accurate Job Description - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-14">
-<title>Dilbert - Job Is 98 Percent Interruption  - Monday January 14, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-14</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f76ab9d0e76201367282005056a9545d&#x22; title=&#x22;Job Is 98 Percent Interruption  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
