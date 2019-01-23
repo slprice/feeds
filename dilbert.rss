@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-23">
+<title>Dilbert - No Recognisiton - Wednesday January 23, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-23</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/22c334f0f4d101367684005056a9545d&#x22; title=&#x22;No Recognisiton - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-22">
 <title>Dilbert - Thankless Tasks - Tuesday January 22, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Sarcasm Empty Vessel - Thursday January 17, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-17</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/7fe9a6a0e76401367284005056a9545d&#x22; title=&#x22;Sarcasm Empty Vessel - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-16">
-<title>Dilbert - Hiring A Millennial - Wednesday January 16, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-16</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/c4906450e76501367285005056a9545d&#x22; title=&#x22;Hiring A Millennial - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
