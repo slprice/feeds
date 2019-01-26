@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/20" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/01/19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2019/01/26">
+<title>Frazz for January 26, 2019 | GoComics.com - 2019-01-26</title>
+<link>http://www.gocomics.com/frazz/2019/01/26</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/166e2b70fb14013678f8005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2019/01/25">
 <title>Frazz for January 25, 2019 | GoComics.com - 2019-01-25</title>
 <link>http://www.gocomics.com/frazz/2019/01/25</link>
@@ -55,10 +60,5 @@
 <title>Frazz for January 20, 2019 | GoComics.com - 2019-01-20</title>
 <link>http://www.gocomics.com/frazz/2019/01/20</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/353f16b0eada0136733a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2019/01/19">
-<title>Frazz for January 19, 2019 | GoComics.com - 2019-01-19</title>
-<link>http://www.gocomics.com/frazz/2019/01/19</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d2c63790f596013676d7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
