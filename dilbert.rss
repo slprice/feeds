@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-29">
+<title>Dilbert - New Forms - Tuesday January 29, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-29</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/98cbdda0fa52013678a8005056a9545d&#x22; title=&#x22;New Forms - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-28">
 <title>Dilbert - Documents On Chairs  - Monday January 28, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - No Recognisiton - Wednesday January 23, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-23</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/22c334f0f4d101367684005056a9545d&#x22; title=&#x22;No Recognisiton - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-22">
-<title>Dilbert - Thankless Tasks - Tuesday January 22, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-22</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/20b9a1a0f4d101367684005056a9545d&#x22; title=&#x22;Thankless Tasks - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
