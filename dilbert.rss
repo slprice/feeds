@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-01-30">
+<title>Dilbert - Best Product - Wednesday January 30, 2019  </title>
+<link>http://dilbert.com/strip/2019-01-30</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/9b50fc30fa52013678a8005056a9545d&#x22; title=&#x22;Best Product - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-01-29">
 <title>Dilbert - New Forms - Tuesday January 29, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Self Driving Car Quits - Thursday January 24, 2019  </title>
 <link>http://dilbert.com/strip/2019-01-24</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/59317a50f4ce01367684005056a9545d&#x22; title=&#x22;Self Driving Car Quits - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-23">
-<title>Dilbert - No Recognisiton - Wednesday January 23, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-23</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/22c334f0f4d101367684005056a9545d&#x22; title=&#x22;No Recognisiton - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
