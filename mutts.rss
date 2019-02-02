@@ -16,16 +16,21 @@
 <description>Mutts is a comic strip, created by Patrick McDonnell, that explores the special bond between animals and their guardians, and the endearing friendship of Earl, the dog, and Mooch the cat. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAyXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAxXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTMxXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTMwXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI5XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI4XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzX250Yi4yMDE5MDEyN18xNDQwLmdpZg==" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI2XzE0NDAuZ2lm" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAyXzE0NDAuZ2lm">
+<title>Mutts Comic Strip for February 02, 2019</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAyXzE0NDAuZ2lm</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAyXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAyXzE0NDAuZ2lm" alt="Mutts Comic Strip for February 02, 2019" /><br />Mutts Comic Strip for February 02, 2019</a><br /><a href="http://comicskingdom.com/mutts/2019-02-02/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAxXzE0NDAuZ2lm">
 <title>Mutts Comic Strip for February 01, 2019</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAyL011dHRzLjIwMTkwMjAxXzE0NDAuZ2lm</link>
@@ -55,10 +60,5 @@
 <title>Mutts Comic Strip for January 27, 2019</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzX250Yi4yMDE5MDEyN18xNDQwLmdpZg==</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzX250Yi4yMDE5MDEyN18xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzX250Yi4yMDE5MDEyN18xNDQwLmdpZg==" alt="Mutts Comic Strip for January 27, 2019" /><br />Mutts Comic Strip for January 27, 2019</a><br /><a href="http://comicskingdom.com/mutts/2019-01-27/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI2XzE0NDAuZ2lm">
-<title>Mutts Comic Strip for January 26, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI2XzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI2XzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9NdXR0cy8yMDE5LzAxL011dHRzLjIwMTkwMTI2XzE0NDAuZ2lm" alt="Mutts Comic Strip for January 26, 2019" /><br />Mutts Comic Strip for January 26, 2019</a><br /><a href="http://comicskingdom.com/mutts/2019-01-26/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
