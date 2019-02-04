@@ -20,7 +20,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/02/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/02/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/02/01" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/01/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/01/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/01/29" />
  </rdf:Seq>
@@ -45,11 +44,6 @@
 <title>Luann for February 01, 2019 | GoComics.com - 2019-02-01</title>
 <link>http://www.gocomics.com/luann/2019/02/01</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/e96de650009e01377ad9005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2019/01/31">
-<title>Luann for January 31, 2019 | GoComics.com - 2019-01-31</title>
-<link>http://www.gocomics.com/luann/2019/01/31</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/090d2070009c01377ad5005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/luann/2019/01/30">
 <title>Luann for January 30, 2019 | GoComics.com - 2019-01-30</title>
