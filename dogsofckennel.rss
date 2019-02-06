@@ -17,12 +17,6 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/02/06" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/02/05" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/02/04" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/02/03" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/02/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/02/01" />
-  <rdf:li rdf:resource="http://www.gocomics.com/dogsofckennel/2019/01/31" />
  </rdf:Seq>
 </items>
 </channel>
@@ -30,35 +24,5 @@
 <title>Dogs of C-Kennel for February 06, 2019 | GoComics.com - 2019-02-06</title>
 <link>http://www.gocomics.com/dogsofckennel/2019/02/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/55215b70066701377d31005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2019/02/05">
-<title>Dogs of C-Kennel for February 05, 2019 | GoComics.com - 2019-02-05</title>
-<link>http://www.gocomics.com/dogsofckennel/2019/02/05</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/53632340066701377d31005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2019/02/04">
-<title>Dogs of C-Kennel for February 04, 2019 | GoComics.com - 2019-02-04</title>
-<link>http://www.gocomics.com/dogsofckennel/2019/02/04</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/56ea0bb0066701377d31005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2019/02/03">
-<title>Dogs of C-Kennel for February 03, 2019 | GoComics.com - 2019-02-03</title>
-<link>http://www.gocomics.com/dogsofckennel/2019/02/03</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/22707290047101377c6e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2019/02/02">
-<title>Dogs of C-Kennel for February 02, 2019 | GoComics.com - 2019-02-02</title>
-<link>http://www.gocomics.com/dogsofckennel/2019/02/02</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f2c7f970001d01377aaa005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2019/02/01">
-<title>Dogs of C-Kennel for February 01, 2019 | GoComics.com - 2019-02-01</title>
-<link>http://www.gocomics.com/dogsofckennel/2019/02/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f48be740001d01377aaa005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/dogsofckennel/2019/01/31">
-<title>Dogs of C-Kennel for January 31, 2019 | GoComics.com - 2019-01-31</title>
-<link>http://www.gocomics.com/dogsofckennel/2019/01/31</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f9f7e520001d01377aaa005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
