@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-01-31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-02-07">
+<title>Dilbert - Robot Baby Mama - Thursday February 07, 2019  </title>
+<link>http://dilbert.com/strip/2019-02-07</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/a22adc10fb2901367903005056a9545d&#x22; title=&#x22;Robot Baby Mama - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-02-06">
 <title>Dilbert - Meeting Robot&#x27;s Son - Wednesday February 06, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Ten Year Financial Projections - Friday February 01, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-01</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/9f41fdc0fa52013678a8005056a9545d&#x22; title=&#x22;Ten Year Financial Projections - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-01-31">
-<title>Dilbert - Tweaking Variables - Thursday January 31, 2019  </title>
-<link>http://dilbert.com/strip/2019-01-31</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/9d659340fa52013678a8005056a9545d&#x22; title=&#x22;Tweaking Variables - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
