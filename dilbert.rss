@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-02-13">
+<title>Dilbert - Lower The Price - Wednesday February 13, 2019  </title>
+<link>http://dilbert.com/strip/2019-02-13</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/551992d0017b01377b5a005056a9545d&#x22; title=&#x22;Lower The Price - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-02-12">
 <title>Dilbert - Co2 Scrubber Too Efficient - Tuesday February 12, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Robot Baby Mama - Thursday February 07, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-07</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/a22adc10fb2901367903005056a9545d&#x22; title=&#x22;Robot Baby Mama - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-02-06">
-<title>Dilbert - Meeting Robot&#x27;s Son - Wednesday February 06, 2019  </title>
-<link>http://dilbert.com/strip/2019-02-06</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/9fea2870fb2901367903005056a9545d&#x22; title=&#x22;Meeting Robot&#x27;s Son - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
