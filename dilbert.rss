@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-02-16">
+<title>Dilbert - Dumb Questions - Saturday February 16, 2019  </title>
+<link>http://dilbert.com/strip/2019-02-16</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/5b8c5580017b01377b5a005056a9545d&#x22; title=&#x22;Dumb Questions - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-02-15">
 <title>Dilbert - Old Sayings - Friday February 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday February 10, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-10</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/796a1210ebe6013673a9005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-02-09">
-<title>Dilbert - Social Media Mind Control - Saturday February 09, 2019  </title>
-<link>http://dilbert.com/strip/2019-02-09</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/a679dca0fb2901367903005056a9545d&#x22; title=&#x22;Social Media Mind Control - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
