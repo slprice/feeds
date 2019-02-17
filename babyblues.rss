@@ -16,16 +16,21 @@
 <description>Baby Blues is a comic strip about modern family life. Wanda and Darryl MacPherson are a harried married couple who spend the majority of their time chasing, refereeing and pleading with their three children. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxN18xNDQwLmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjE2XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjE1XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjE0XzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjEzXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjEyXzE0NDAuZ2lm" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjExXzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxMF8xNDQwLmdpZg==" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxN18xNDQwLmdpZg==">
+<title>Baby Blues Comic Strip for February 17, 2019</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxN18xNDQwLmdpZg==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxN18xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxN18xNDQwLmdpZg==" alt="Baby Blues Comic Strip for February 17, 2019" /><br />Baby Blues Comic Strip for February 17, 2019</a><br /><a href="http://comicskingdom.com/baby-blues/2019-02-17/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjE2XzE0NDAuZ2lm">
 <title>Baby Blues Comic Strip for February 16, 2019</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjE2XzE0NDAuZ2lm</link>
@@ -55,10 +60,5 @@
 <title>Baby Blues Comic Strip for February 11, 2019</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjExXzE0NDAuZ2lm</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjExXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzLjIwMTkwMjExXzE0NDAuZ2lm" alt="Baby Blues Comic Strip for February 11, 2019" /><br />Baby Blues Comic Strip for February 11, 2019</a><br /><a href="http://comicskingdom.com/baby-blues/2019-02-11/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxMF8xNDQwLmdpZg==">
-<title>Baby Blues Comic Strip for February 10, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxMF8xNDQwLmdpZg==</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxMF8xNDQwLmdpZg=="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxOS8wMi9CYWJ5X0JsdWVzX250Yi4yMDE5MDIxMF8xNDQwLmdpZg==" alt="Baby Blues Comic Strip for February 10, 2019" /><br />Baby Blues Comic Strip for February 10, 2019</a><br /><a href="http://comicskingdom.com/baby-blues/2019-02-10/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
