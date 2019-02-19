@@ -16,16 +16,21 @@
 <description>Bizarro is a surreal comic panel where eyeballs hover, dynamite sizzles, upside-down birds soar and a slice of pie hides in every corner. Bizarro is the means by which cartoonist Dan Piraro unleashes his uniquely eccentric view of the world. About</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE5XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE4XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19udGIuMjAxOTAyMTdfMTQ0MC5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE2XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE1XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE0XzY1Ny5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEzXzY1Ny5naWY=" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEyXzY1Ny5naWY=" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE5XzY1Ny5naWY=">
+<title>Bizarro Comic Strip for February 19, 2019</title>
+<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE5XzY1Ny5naWY=</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE5XzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE5XzY1Ny5naWY=" alt="Bizarro Comic Strip for February 19, 2019" /><br />Bizarro Comic Strip for February 19, 2019</a><br /><a href="http://comicskingdom.com/bizarro/2019-02-19/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE4XzY1Ny5naWY=">
 <title>Bizarro Comic Strip for February 18, 2019</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjE4XzY1Ny5naWY=</link>
@@ -55,10 +60,5 @@
 <title>Bizarro Comic Strip for February 13, 2019</title>
 <link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEzXzY1Ny5naWY=</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEzXzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEzXzY1Ny5naWY=" alt="Bizarro Comic Strip for February 13, 2019" /><br />Bizarro Comic Strip for February 13, 2019</a><br /><a href="http://comicskingdom.com/bizarro/2019-02-13/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEyXzY1Ny5naWY=">
-<title>Bizarro Comic Strip for February 12, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEyXzY1Ny5naWY=</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEyXzY1Ny5naWY="><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTkvMDIvQml6YXJyb19wLjIwMTkwMjEyXzY1Ny5naWY=" alt="Bizarro Comic Strip for February 12, 2019" /><br />Bizarro Comic Strip for February 12, 2019</a><br /><a href="http://comicskingdom.com/bizarro/2019-02-12/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>

@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-02-19">
+<title>Dilbert - Helping Ted - Tuesday February 19, 2019  </title>
+<link>http://dilbert.com/strip/2019-02-19</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f068eed00c4e01377f79005056a9545d&#x22; title=&#x22;Helping Ted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-02-18">
 <title>Dilbert - Health Problems  - Monday February 18, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Lower The Price - Wednesday February 13, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-13</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/551992d0017b01377b5a005056a9545d&#x22; title=&#x22;Lower The Price - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-02-12">
-<title>Dilbert - Co2 Scrubber Too Efficient - Tuesday February 12, 2019  </title>
-<link>http://dilbert.com/strip/2019-02-12</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/52e21380017b01377b5a005056a9545d&#x22; title=&#x22;Co2 Scrubber Too Efficient - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
