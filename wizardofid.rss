@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/wizardofid/2019/02/14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/wizardofid/2019/02/21">
+<title>Wizard of Id for February 21, 2019 | GoComics.com - 2019-02-21</title>
+<link>http://www.gocomics.com/wizardofid/2019/02/21</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/70768620110101378119005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/wizardofid/2019/02/20">
 <title>Wizard of Id for February 20, 2019 | GoComics.com - 2019-02-20</title>
 <link>http://www.gocomics.com/wizardofid/2019/02/20</link>
@@ -55,10 +60,5 @@
 <title>Wizard of Id for February 15, 2019 | GoComics.com - 2019-02-15</title>
 <link>http://www.gocomics.com/wizardofid/2019/02/15</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/3713e3a00b8101377f10005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/wizardofid/2019/02/14">
-<title>Wizard of Id for February 14, 2019 | GoComics.com - 2019-02-14</title>
-<link>http://www.gocomics.com/wizardofid/2019/02/14</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/3c4153e00b8101377f10005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

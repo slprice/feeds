@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/rabbitsagainstmagic/2019/02/14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2019/02/21">
+<title>Rabbits Against Magic for February 21, 2019 | GoComics.com - 2019-02-21</title>
+<link>http://www.gocomics.com/rabbitsagainstmagic/2019/02/21</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6e07b2b007af01377dd7005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2019/02/20">
 <title>Rabbits Against Magic for February 20, 2019 | GoComics.com - 2019-02-20</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2019/02/20</link>
@@ -55,10 +60,5 @@
 <title>Rabbits Against Magic for February 15, 2019 | GoComics.com - 2019-02-15</title>
 <link>http://www.gocomics.com/rabbitsagainstmagic/2019/02/15</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/7bd439f0056001377cb7005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/rabbitsagainstmagic/2019/02/14">
-<title>Rabbits Against Magic for February 14, 2019 | GoComics.com - 2019-02-14</title>
-<link>http://www.gocomics.com/rabbitsagainstmagic/2019/02/14</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/7f9cb3c0056001377cb7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
