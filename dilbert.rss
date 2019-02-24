@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-02-24">
+<title>Dilbert -  - Sunday February 24, 2019  </title>
+<link>http://dilbert.com/strip/2019-02-24</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/215c1810f502013676a5005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-02-23">
 <title>Dilbert - Hard Work Is The Key - Saturday February 23, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Health Problems  - Monday February 18, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-18</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/eeba3b100c4e01377f79005056a9545d&#x22; title=&#x22;Health Problems  - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-02-17">
-<title>Dilbert -  - Sunday February 17, 2019  </title>
-<link>http://dilbert.com/strip/2019-02-17</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f4d6f740f1a801367575005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
