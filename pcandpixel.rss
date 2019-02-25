@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/02/18" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/02/25">
+<title>PC and Pixel for February 25, 2019 | GoComics.com - 2019-02-25</title>
+<link>http://www.gocomics.com/pcandpixel/2019/02/25</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f06aad8016ba01378342005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2019/02/24">
 <title>PC and Pixel for February 24, 2019 | GoComics.com - 2019-02-24</title>
 <link>http://www.gocomics.com/pcandpixel/2019/02/24</link>
@@ -55,10 +60,5 @@
 <title>PC and Pixel for February 19, 2019 | GoComics.com - 2019-02-19</title>
 <link>http://www.gocomics.com/pcandpixel/2019/02/19</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/9b9154601296013781ec005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2019/02/18">
-<title>PC and Pixel for February 18, 2019 | GoComics.com - 2019-02-18</title>
-<link>http://www.gocomics.com/pcandpixel/2019/02/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/96009a001296013781ec005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
