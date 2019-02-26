@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-02-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-02-26">
+<title>Dilbert - Links To Articles - Tuesday February 26, 2019  </title>
+<link>http://dilbert.com/strip/2019-02-26</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/9ee049101057013780e3005056a9545d&#x22; title=&#x22;Links To Articles - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-02-25">
 <title>Dilbert - Never Give Reasons  - Monday February 25, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Adjust The Data - Wednesday February 20, 2019  </title>
 <link>http://dilbert.com/strip/2019-02-20</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/f259e2d00c4e01377f79005056a9545d&#x22; title=&#x22;Adjust The Data - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-02-19">
-<title>Dilbert - Helping Ted - Tuesday February 19, 2019  </title>
-<link>http://dilbert.com/strip/2019-02-19</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f068eed00c4e01377f79005056a9545d&#x22; title=&#x22;Helping Ted - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
