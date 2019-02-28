@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/02/21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2019/02/28">
+<title>Pickles for February 28, 2019 | GoComics.com - 2019-02-28</title>
+<link>http://www.gocomics.com/pickles/2019/02/28</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/b9b431c00c7e01377f9e005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2019/02/27">
 <title>Pickles for February 27, 2019 | GoComics.com - 2019-02-27</title>
 <link>http://www.gocomics.com/pickles/2019/02/27</link>
@@ -55,10 +60,5 @@
 <title>Pickles for February 22, 2019 | GoComics.com - 2019-02-22</title>
 <link>http://www.gocomics.com/pickles/2019/02/22</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/bf7d7b2007c701377de6005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2019/02/21">
-<title>Pickles for February 21, 2019 | GoComics.com - 2019-02-21</title>
-<link>http://www.gocomics.com/pickles/2019/02/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c3b8c79007c701377de6005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
