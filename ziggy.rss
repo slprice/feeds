@@ -18,6 +18,11 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/02/28" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/02/27" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/02/26" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/02/25" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/02/24" />
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/02/23" />
  </rdf:Seq>
 </items>
 </channel>
@@ -30,5 +35,30 @@
 <title>Ziggy for February 28, 2019 | GoComics.com - 2019-02-28</title>
 <link>http://www.gocomics.com/ziggy/2019/02/28</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/71b23db016ce01378355005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2019/02/27">
+<title>Ziggy for February 27, 2019 | GoComics.com - 2019-02-27</title>
+<link>http://www.gocomics.com/ziggy/2019/02/27</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6fad4a7016ce01378355005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2019/02/26">
+<title>Ziggy for February 26, 2019 | GoComics.com - 2019-02-26</title>
+<link>http://www.gocomics.com/ziggy/2019/02/26</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6dea6de016ce01378355005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2019/02/25">
+<title>Ziggy for February 25, 2019 | GoComics.com - 2019-02-25</title>
+<link>http://www.gocomics.com/ziggy/2019/02/25</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/6c0401e016ce01378355005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2019/02/24">
+<title>Ziggy for February 24, 2019 | GoComics.com - 2019-02-24</title>
+<link>http://www.gocomics.com/ziggy/2019/02/24</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/e7a276c0fd21013679e1005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/ziggy/2019/02/23">
+<title>Ziggy for February 23, 2019 | GoComics.com - 2019-02-23</title>
+<link>http://www.gocomics.com/ziggy/2019/02/23</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d133c4101084013780f6005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
