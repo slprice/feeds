@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/03/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/03/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/03/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/03/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/02/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/02/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/02/26" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/02/25" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2019/03/04">
+<title>Peanuts for March 04, 2019 | GoComics.com - 2019-03-04</title>
+<link>http://www.gocomics.com/peanuts/2019/03/04</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/8f420f501c170137853b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2019/03/03">
 <title>Peanuts for March 03, 2019 | GoComics.com - 2019-03-03</title>
 <link>http://www.gocomics.com/peanuts/2019/03/03</link>
@@ -55,10 +60,5 @@
 <title>Peanuts for February 26, 2019 | GoComics.com - 2019-02-26</title>
 <link>http://www.gocomics.com/peanuts/2019/02/26</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/0a6ae9100b9b01377f1e005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2019/02/25">
-<title>Peanuts for February 25, 2019 | GoComics.com - 2019-02-25</title>
-<link>http://www.gocomics.com/peanuts/2019/02/25</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5aea41c00b9c01377f20005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
