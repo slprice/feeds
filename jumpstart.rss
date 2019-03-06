@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/03/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/03/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/03/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/03/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/03/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/03/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/02/28" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/02/27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2019/03/06">
+<title>JumpStart for March 06, 2019 | GoComics.com - 2019-03-06</title>
+<link>http://www.gocomics.com/jumpstart/2019/03/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/d002bdd01c1501378539005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2019/03/05">
 <title>JumpStart for March 05, 2019 | GoComics.com - 2019-03-05</title>
 <link>http://www.gocomics.com/jumpstart/2019/03/05</link>
@@ -55,10 +60,5 @@
 <title>JumpStart for February 28, 2019 | GoComics.com - 2019-02-28</title>
 <link>http://www.gocomics.com/jumpstart/2019/02/28</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/8accde4016980137832b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2019/02/27">
-<title>JumpStart for February 27, 2019 | GoComics.com - 2019-02-27</title>
-<link>http://www.gocomics.com/jumpstart/2019/02/27</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/895faf7016980137832b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
