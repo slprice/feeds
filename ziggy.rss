@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/02" />
-  <rdf:li rdf:resource="http://www.gocomics.com/ziggy/2019/03/01" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/ziggy/2019/03/08">
+<title>Ziggy for March 08, 2019 | GoComics.com - 2019-03-08</title>
+<link>http://www.gocomics.com/ziggy/2019/03/08</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/35ca02f01b8501378502005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/ziggy/2019/03/07">
 <title>Ziggy for March 07, 2019 | GoComics.com - 2019-03-07</title>
 <link>http://www.gocomics.com/ziggy/2019/03/07</link>
@@ -55,10 +60,5 @@
 <title>Ziggy for March 02, 2019 | GoComics.com - 2019-03-02</title>
 <link>http://www.gocomics.com/ziggy/2019/03/02</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/7540bb8016ce01378355005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/ziggy/2019/03/01">
-<title>Ziggy for March 01, 2019 | GoComics.com - 2019-03-01</title>
-<link>http://www.gocomics.com/ziggy/2019/03/01</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/7378f10016ce01378355005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
