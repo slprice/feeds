@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-04" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-03" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-10">
+<title>Dilbert -  - Sunday March 10, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-10</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/003c133002a101377bf9005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-09">
 <title>Dilbert - Dilbert Feels Overwhelmed - Saturday March 09, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-09</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dilbert And Brainwashing - Monday March 04, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-04</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/a8da3c601057013780e3005056a9545d&#x22; title=&#x22;Dilbert And Brainwashing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-03">
-<title>Dilbert -  - Sunday March 03, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-03</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/8c92b0a0f6940136776e005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
