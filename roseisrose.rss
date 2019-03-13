@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/03/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/roseisrose/2019/03/13">
+<title>Rose is Rose for March 13, 2019 | GoComics.com - 2019-03-13</title>
+<link>http://www.gocomics.com/roseisrose/2019/03/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/10a319501e8d01378669005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2019/03/12">
 <title>Rose is Rose for March 12, 2019 | GoComics.com - 2019-03-12</title>
 <link>http://www.gocomics.com/roseisrose/2019/03/12</link>
@@ -55,10 +60,5 @@
 <title>Rose is Rose for March 07, 2019 | GoComics.com - 2019-03-07</title>
 <link>http://www.gocomics.com/roseisrose/2019/03/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/1a2b1700191101378459005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2019/03/06">
-<title>Rose is Rose for March 06, 2019 | GoComics.com - 2019-03-06</title>
-<link>http://www.gocomics.com/roseisrose/2019/03/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/186fb090191101378459005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
