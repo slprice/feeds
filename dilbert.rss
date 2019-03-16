@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-16">
+<title>Dilbert - Dilbert Quits To Get A Raise - Saturday March 16, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-16</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/63099a1016980137832b005056a9545d&#x22; title=&#x22;Dilbert Quits To Get A Raise - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-15">
 <title>Dilbert - Press Release - Friday March 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday March 10, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-10</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/003c133002a101377bf9005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-09">
-<title>Dilbert - Dilbert Feels Overwhelmed - Saturday March 09, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-09</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/2220be60105a013780e4005056a9545d&#x22; title=&#x22;Dilbert Feels Overwhelmed - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
