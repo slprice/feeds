@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-11" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-17">
+<title>Dilbert -  - Sunday March 17, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-17</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/0329eec002a101377bf9005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-16">
 <title>Dilbert - Dilbert Quits To Get A Raise - Saturday March 16, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-16</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Marketing Lies - Monday March 11, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-11</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/fe0f7dd016960137832a005056a9545d&#x22; title=&#x22;Marketing Lies - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-10">
-<title>Dilbert -  - Sunday March 10, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-10</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/003c133002a101377bf9005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
