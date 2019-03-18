@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-18">
+<title>Dilbert - Boss Does Research On Internet - Monday March 18, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-18</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/10b382d01b55013784e9005056a9545d&#x22; title=&#x22;Boss Does Research On Internet - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-17">
 <title>Dilbert -  - Sunday March 17, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Best In The Industry - Tuesday March 12, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-12</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/91d6f990169501378328005056a9545d&#x22; title=&#x22;Best In The Industry - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-11">
-<title>Dilbert - Marketing Lies - Monday March 11, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-11</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/fe0f7dd016960137832a005056a9545d&#x22; title=&#x22;Marketing Lies - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
