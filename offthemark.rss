@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2019/03/19">
+<title>Off the Mark for March 19, 2019 | GoComics.com - 2019-03-19</title>
+<link>http://www.gocomics.com/offthemark/2019/03/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f87e0a70268301378909005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2019/03/18">
 <title>Off the Mark for March 18, 2019 | GoComics.com - 2019-03-18</title>
 <link>http://www.gocomics.com/offthemark/2019/03/18</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark for March 13, 2019 | GoComics.com - 2019-03-13</title>
 <link>http://www.gocomics.com/offthemark/2019/03/13</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/318f2560210c01378716005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2019/03/12">
-<title>Off the Mark for March 12, 2019 | GoComics.com - 2019-03-12</title>
-<link>http://www.gocomics.com/offthemark/2019/03/12</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/2fed0a80210c01378716005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-19">
+<title>Dilbert - Humans And Parakeets - Tuesday March 19, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-19</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/128e66501b55013784e9005056a9545d&#x22; title=&#x22;Humans And Parakeets - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-18">
 <title>Dilbert - Boss Does Research On Internet - Monday March 18, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Headphone Claims - Wednesday March 13, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-13</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/93d0e070169501378328005056a9545d&#x22; title=&#x22;Headphone Claims - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-12">
-<title>Dilbert - Best In The Industry - Tuesday March 12, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-12</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/91d6f990169501378328005056a9545d&#x22; title=&#x22;Best In The Industry - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
