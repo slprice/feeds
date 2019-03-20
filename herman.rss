@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/14" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/03/13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2019/03/20">
+<title>Herman for March 20, 2019 | GoComics.com - 2019-03-20</title>
+<link>http://www.gocomics.com/herman/2019/03/20</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f8fbff80210b01378716005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2019/03/19">
 <title>Herman for March 19, 2019 | GoComics.com - 2019-03-19</title>
 <link>http://www.gocomics.com/herman/2019/03/19</link>
@@ -55,10 +60,5 @@
 <title>Herman for March 14, 2019 | GoComics.com - 2019-03-14</title>
 <link>http://www.gocomics.com/herman/2019/03/14</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/ab6975a01b8b01378508005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2019/03/13">
-<title>Herman for March 13, 2019 | GoComics.com - 2019-03-13</title>
-<link>http://www.gocomics.com/herman/2019/03/13</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/a9e28bb01b8b01378508005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
