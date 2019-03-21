@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-21">
+<title>Dilbert - Manipulation Via Dopamine - Thursday March 21, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-21</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/164959d01b55013784e9005056a9545d&#x22; title=&#x22;Manipulation Via Dopamine - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-20">
 <title>Dilbert - Birds Cause Hurricanes - Wednesday March 20, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Press Release - Friday March 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-15</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/95c5ece0169501378328005056a9545d&#x22; title=&#x22;Press Release - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-14">
-<title>Dilbert - Hiring Unethical Scientist - Thursday March 14, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-14</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/613c78d016980137832b005056a9545d&#x22; title=&#x22;Hiring Unethical Scientist - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

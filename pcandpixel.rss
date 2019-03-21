@@ -18,7 +18,6 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/15" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/14" />
  </rdf:Seq>
 </items>
 </channel>
@@ -31,10 +30,5 @@
 <title>PC and Pixel for March 15, 2019 | GoComics.com - 2019-03-15</title>
 <link>http://www.gocomics.com/pcandpixel/2019/03/15</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/6605f3101e510137864b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/14">
-<title>PC and Pixel for March 14, 2019 | GoComics.com - 2019-03-14</title>
-<link>http://www.gocomics.com/pcandpixel/2019/03/14</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/682f28001e510137864b005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
