@@ -16,10 +16,46 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/22" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/21" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/20" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/19" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/18" />
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/03/16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/22">
+<title>PC and Pixel for March 22, 2019 | GoComics.com - 2019-03-22</title>
+<link>http://www.gocomics.com/pcandpixel/2019/03/22</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/29b501c02ed801378c54005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/21">
+<title>PC and Pixel for March 21, 2019 | GoComics.com - 2019-03-21</title>
+<link>http://www.gocomics.com/pcandpixel/2019/03/21</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/348a8aa02ed801378c54005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/20">
+<title>PC and Pixel for March 20, 2019 | GoComics.com - 2019-03-20</title>
+<link>http://www.gocomics.com/pcandpixel/2019/03/20</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3b5848102ed801378c54005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/19">
+<title>PC and Pixel for March 19, 2019 | GoComics.com - 2019-03-19</title>
+<link>http://www.gocomics.com/pcandpixel/2019/03/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/38e6d0902ed801378c54005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/18">
+<title>PC and Pixel for March 18, 2019 | GoComics.com - 2019-03-18</title>
+<link>http://www.gocomics.com/pcandpixel/2019/03/18</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3a24b8b02ed801378c54005056a9545d" />]]></description>
+</item>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/17">
+<title>PC and Pixel for March 17, 2019 | GoComics.com - 2019-03-17</title>
+<link>http://www.gocomics.com/pcandpixel/2019/03/17</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/30d2ef902ed801378c54005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2019/03/16">
 <title>PC and Pixel for March 16, 2019 | GoComics.com - 2019-03-16</title>
 <link>http://www.gocomics.com/pcandpixel/2019/03/16</link>
