@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-03-26">
+<title>Dilbert - Why Is Dilbert Arrogant - Tuesday March 26, 2019  </title>
+<link>http://dilbert.com/strip/2019-03-26</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/587d6e2020e701378704005056a9545d&#x22; title=&#x22;Why Is Dilbert Arrogant - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-03-25">
 <title>Dilbert - Wally&#x27;s Dna - Monday March 25, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Birds Cause Hurricanes - Wednesday March 20, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-20</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/145cc6501b55013784e9005056a9545d&#x22; title=&#x22;Birds Cause Hurricanes - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-19">
-<title>Dilbert - Humans And Parakeets - Tuesday March 19, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-19</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/128e66501b55013784e9005056a9545d&#x22; title=&#x22;Humans And Parakeets - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
