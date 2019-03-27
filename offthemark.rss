@@ -17,7 +17,6 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/27" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/03/23" />
@@ -30,11 +29,6 @@
 <title>Off the Mark for March 27, 2019 | GoComics.com - 2019-03-27</title>
 <link>http://www.gocomics.com/offthemark/2019/03/27</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/3476e0202c0401378b11005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2019/03/26">
-<title>Off the Mark for March 26, 2019 | GoComics.com - 2019-03-26</title>
-<link>http://www.gocomics.com/offthemark/2019/03/26</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/32bcd1d02c0401378b11005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/offthemark/2019/03/25">
 <title>Off the Mark for March 25, 2019 | GoComics.com - 2019-03-25</title>
