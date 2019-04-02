@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/03/31" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/03/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/03/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/03/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/03/27" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/03/26" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2019/04/02">
+<title>B.C. for April 02, 2019 | GoComics.com - 2019-04-02</title>
+<link>http://www.gocomics.com/bc/2019/04/02</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/604e5b6031fb01378d4f005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2019/04/01">
 <title>B.C. for April 01, 2019 | GoComics.com - 2019-04-01</title>
 <link>http://www.gocomics.com/bc/2019/04/01</link>
@@ -55,10 +60,5 @@
 <title>B.C. for March 27, 2019 | GoComics.com - 2019-03-27</title>
 <link>http://www.gocomics.com/bc/2019/03/27</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/3d82c6202ca901378b52005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2019/03/26">
-<title>B.C. for March 26, 2019 | GoComics.com - 2019-03-26</title>
-<link>http://www.gocomics.com/bc/2019/03/26</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/450477002ca901378b52005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
