@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-28" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-03">
+<title>Dilbert - It Already Works - Wednesday April 03, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-03</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/a45da6e027140137893e005056a9545d&#x22; title=&#x22;It Already Works - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-02">
 <title>Dilbert - Not In My Town - Tuesday April 02, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-02</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dating A Unicorn - Thursday March 28, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-28</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/5bfca78020e701378704005056a9545d&#x22; title=&#x22;Dating A Unicorn - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-27">
-<title>Dilbert - Detailed Explanation - Wednesday March 27, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-27</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/5a2eef4020e701378704005056a9545d&#x22; title=&#x22;Detailed Explanation - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
