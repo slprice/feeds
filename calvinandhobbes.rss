@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/04/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/04/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/04/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/03/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/03/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/calvinandhobbes/2019/04/06">
+<title>Calvin and Hobbes for April 06, 2019 | GoComics.com - 2019-04-06</title>
+<link>http://www.gocomics.com/calvinandhobbes/2019/04/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/781edae0278701378982005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/calvinandhobbes/2019/04/05">
 <title>Calvin and Hobbes for April 05, 2019 | GoComics.com - 2019-04-05</title>
 <link>http://www.gocomics.com/calvinandhobbes/2019/04/05</link>
@@ -55,10 +60,5 @@
 <title>Calvin and Hobbes for March 31, 2019 | GoComics.com - 2019-03-31</title>
 <link>http://www.gocomics.com/calvinandhobbes/2019/03/31</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/1cebd6200c9501377fb1005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2019/03/30">
-<title>Calvin and Hobbes for March 30, 2019 | GoComics.com - 2019-03-30</title>
-<link>http://www.gocomics.com/calvinandhobbes/2019/03/30</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/3d32f7700cd801377fd0005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

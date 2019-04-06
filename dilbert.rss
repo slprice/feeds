@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-31" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-03-30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-06">
+<title>Dilbert - Teaching Ai To Flirt - Saturday April 06, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-06</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/3858fe8027130137893d005056a9545d&#x22; title=&#x22;Teaching Ai To Flirt - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-05">
 <title>Dilbert - Siri Versus Alexa - Friday April 05, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-05</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday March 31, 2019  </title>
 <link>http://dilbert.com/strip/2019-03-31</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/0c08fb800bcc01377f4a005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-03-30">
-<title>Dilbert - Smart To Wait - Saturday March 30, 2019  </title>
-<link>http://dilbert.com/strip/2019-03-30</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/5f6344c020e701378704005056a9545d&#x22; title=&#x22;Smart To Wait - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
