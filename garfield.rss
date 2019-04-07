@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/04/01" />
-  <rdf:li rdf:resource="http://www.gocomics.com/garfield/2019/03/31" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/garfield/2019/04/07">
+<title>Garfield for April 07, 2019 | GoComics.com - 2019-04-07</title>
+<link>http://www.gocomics.com/garfield/2019/04/07</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/a5b20bd01c8f0137857a005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/garfield/2019/04/06">
 <title>Garfield for April 06, 2019 | GoComics.com - 2019-04-06</title>
 <link>http://www.gocomics.com/garfield/2019/04/06</link>
@@ -55,10 +60,5 @@
 <title>Garfield for April 01, 2019 | GoComics.com - 2019-04-01</title>
 <link>http://www.gocomics.com/garfield/2019/04/01</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/d359e0b021460137872a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/garfield/2019/03/31">
-<title>Garfield for March 31, 2019 | GoComics.com - 2019-03-31</title>
-<link>http://www.gocomics.com/garfield/2019/03/31</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/f21868b0010e01377b21005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
