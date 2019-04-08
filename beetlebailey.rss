@@ -13,52 +13,52 @@
 <channel rdf:about="http://comicskingdom.com/beetle-bailey-1/">
 <title>Beetle Bailey by Mort Walker</title>
 <link>http://comicskingdom.com/beetle-bailey-1/</link>
-<description>Beetle Bailey is a comic strip about a perpetual goof-off navigating life in the army.   It is ironic that Beetle Bailey, the laziest character in the history of comics, was created by Mort Walker, one of the hardest working and most prolific cartoonists of all time. About</description>
+<description>Beetle Bailey</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAzXzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAyXzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAxXzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5X2hzLjIwMTkwMzMxXzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzMwXzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI5XzE0NDAuZ2lm" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI4XzE0NDAuZ2lm" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwOF8xNTM2LnBuZw==" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleV9zcS4yMDE5MDQwN18xNTM2LnBuZw==" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNl8xNTM2LnBuZw==" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNV8xNTM2LnBuZw==" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNF8xNTM2LnBuZw==" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwM18xNTM2LnBuZw==" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwMl8xNTM2LnBuZw==" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAzXzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for April 03, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAzXzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAzXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAzXzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for April 03, 2019" /><br />Beetle Bailey Comic Strip for April 03, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-03/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwOF8xNTM2LnBuZw==">
+<title>Beetle Bailey for Monday, April 08, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwOF8xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwOF8xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwOF8xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-08/">Comics Kingdom</a>]]></description>
 </item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAyXzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for April 02, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAyXzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAyXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAyXzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for April 02, 2019" /><br />Beetle Bailey Comic Strip for April 02, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-02/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleV9zcS4yMDE5MDQwN18xNTM2LnBuZw==">
+<title>Beetle Bailey for Sunday, April 07, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleV9zcS4yMDE5MDQwN18xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleV9zcS4yMDE5MDQwN18xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleV9zcS4yMDE5MDQwN18xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-07/">Comics Kingdom</a>]]></description>
 </item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAxXzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for April 01, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAxXzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAxXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wNC9CZWV0bGVfQmFpbGV5LjIwMTkwNDAxXzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for April 01, 2019" /><br />Beetle Bailey Comic Strip for April 01, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-01/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNl8xNTM2LnBuZw==">
+<title>Beetle Bailey for Saturday, April 06, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNl8xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNl8xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNl8xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-06/">Comics Kingdom</a>]]></description>
 </item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5X2hzLjIwMTkwMzMxXzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for March 31, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5X2hzLjIwMTkwMzMxXzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5X2hzLjIwMTkwMzMxXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5X2hzLjIwMTkwMzMxXzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for March 31, 2019" /><br />Beetle Bailey Comic Strip for March 31, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-03-31/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNV8xNTM2LnBuZw==">
+<title>Beetle Bailey for Friday, April 05, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNV8xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNV8xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNV8xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-05/">Comics Kingdom</a>]]></description>
 </item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzMwXzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for March 30, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzMwXzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzMwXzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzMwXzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for March 30, 2019" /><br />Beetle Bailey Comic Strip for March 30, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-03-30/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNF8xNTM2LnBuZw==">
+<title>Beetle Bailey for Thursday, April 04, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNF8xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNF8xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwNF8xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-04/">Comics Kingdom</a>]]></description>
 </item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI5XzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for March 29, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI5XzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI5XzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI5XzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for March 29, 2019" /><br />Beetle Bailey Comic Strip for March 29, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-03-29/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwM18xNTM2LnBuZw==">
+<title>Beetle Bailey for Wednesday, April 03, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwM18xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwM18xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwM18xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-03/">Comics Kingdom</a>]]></description>
 </item>
-<item rdf:about="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI4XzE0NDAuZ2lm">
-<title>Beetle Bailey Comic Strip for March 28, 2019</title>
-<link>https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI4XzE0NDAuZ2lm</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI4XzE0NDAuZ2lm"><img src="https://safr.kingfeatures.com/idn/ck3/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMjAxOS8wMy9CZWV0bGVfQmFpbGV5LjIwMTkwMzI4XzE0NDAuZ2lm" alt="Beetle Bailey Comic Strip for March 28, 2019" /><br />Beetle Bailey Comic Strip for March 28, 2019</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-03-28/">Comics Kingdom</a>]]></description>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwMl8xNTM2LnBuZw==">
+<title>Beetle Bailey for Tuesday, April 02, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwMl8xNTM2LnBuZw==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwMl8xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDQvQmVldGxlX0JhaWxleS4yMDE5MDQwMl8xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-04-02/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
