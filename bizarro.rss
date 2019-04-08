@@ -21,6 +21,8 @@
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwNl82NTcucG5n" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwNV82NTcucG5n" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwNF82NTcucG5n" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwM182NTcucG5n" />
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwMl82NTcucG5n" />
  </rdf:Seq>
 </items>
 </channel>
@@ -48,5 +50,15 @@
 <title>Bizarro for Thursday, April 04, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwNF82NTcucG5n</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwNF82NTcucG5n"><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwNF82NTcucG5n" alt="Bizarro" /><br />Bizarro</a><br /><a href="http://comicskingdom.com/bizarro/2019-04-04/">Comics Kingdom</a>]]></description>
+</item>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwM182NTcucG5n">
+<title>Bizarro for Wednesday, April 03, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwM182NTcucG5n</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwM182NTcucG5n"><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwM182NTcucG5n" alt="Bizarro" /><br />Bizarro</a><br /><a href="http://comicskingdom.com/bizarro/2019-04-03/">Comics Kingdom</a>]]></description>
+</item>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwMl82NTcucG5n">
+<title>Bizarro for Tuesday, April 02, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwMl82NTcucG5n</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwMl82NTcucG5n"><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=Qml6YXJyby8yMDE5LzA0L0JpemFycm9fcC4yMDE5MDQwMl82NTcucG5n" alt="Bizarro" /><br />Bizarro</a><br /><a href="http://comicskingdom.com/bizarro/2019-04-02/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
