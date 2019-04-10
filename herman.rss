@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/04" />
-  <rdf:li rdf:resource="http://www.gocomics.com/herman/2019/04/03" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/herman/2019/04/10">
+<title>Herman for April 10, 2019 | GoComics.com - 2019-04-10</title>
+<link>http://www.gocomics.com/herman/2019/04/10</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/1dc0ae60329001378daa005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/herman/2019/04/09">
 <title>Herman for April 09, 2019 | GoComics.com - 2019-04-09</title>
 <link>http://www.gocomics.com/herman/2019/04/09</link>
@@ -55,10 +60,5 @@
 <title>Herman for April 04, 2019 | GoComics.com - 2019-04-04</title>
 <link>http://www.gocomics.com/herman/2019/04/04</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/f16646b02c0301378b11005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/herman/2019/04/03">
-<title>Herman for April 03, 2019 | GoComics.com - 2019-04-03</title>
-<link>http://www.gocomics.com/herman/2019/04/03</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/efcb6df02c0301378b11005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
