@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/11" />
-  <rdf:li rdf:resource="http://www.gocomics.com/peanuts/2019/04/10" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/peanuts/2019/04/17">
+<title>Peanuts for April 17, 2019 | GoComics.com - 2019-04-17</title>
+<link>http://www.gocomics.com/peanuts/2019/04/17</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/94f787a039e90137907b005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/peanuts/2019/04/16">
 <title>Peanuts for April 16, 2019 | GoComics.com - 2019-04-16</title>
 <link>http://www.gocomics.com/peanuts/2019/04/16</link>
@@ -55,10 +60,5 @@
 <title>Peanuts for April 11, 2019 | GoComics.com - 2019-04-11</title>
 <link>http://www.gocomics.com/peanuts/2019/04/11</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/2a436ec02dfd01378bfa005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/peanuts/2019/04/10">
-<title>Peanuts for April 10, 2019 | GoComics.com - 2019-04-10</title>
-<link>http://www.gocomics.com/peanuts/2019/04/10</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/28db60202dfd01378bfa005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
