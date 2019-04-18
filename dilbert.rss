@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-18">
+<title>Dilbert - Using Git - Thursday April 18, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-18</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/ddf1fa20315201378d0e005056a9545d&#x22; title=&#x22;Using Git - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-17">
 <title>Dilbert - Falling Off An Ergonomic Chair - Wednesday April 17, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - How Long Will It Take - Friday April 12, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-12</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/7f3e07e02bd501378afa005056a9545d&#x22; title=&#x22;How Long Will It Take - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-11">
-<title>Dilbert - Keyboard Clicks - Thursday April 11, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-11</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/d36a9db02bd601378afb005056a9545d&#x22; title=&#x22;Keyboard Clicks - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
