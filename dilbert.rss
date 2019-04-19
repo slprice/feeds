@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-13" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-19">
+<title>Dilbert - Complaints About Wally - Friday April 19, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-19</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/7bdb9bf0315101378d0d005056a9545d&#x22; title=&#x22;Complaints About Wally - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-18">
 <title>Dilbert - Using Git - Thursday April 18, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-18</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Asok Tries To Fax - Saturday April 13, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-13</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/812c70e02bd501378afa005056a9545d&#x22; title=&#x22;Asok Tries To Fax - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-12">
-<title>Dilbert - How Long Will It Take - Friday April 12, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-12</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/7f3e07e02bd501378afa005056a9545d&#x22; title=&#x22;How Long Will It Take - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
