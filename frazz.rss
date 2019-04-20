@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/14" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/04/13" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2019/04/20">
+<title>Frazz for April 20, 2019 | GoComics.com - 2019-04-20</title>
+<link>http://www.gocomics.com/frazz/2019/04/20</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f45f60a03d1301379154005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2019/04/19">
 <title>Frazz for April 19, 2019 | GoComics.com - 2019-04-19</title>
 <link>http://www.gocomics.com/frazz/2019/04/19</link>
@@ -55,10 +60,5 @@
 <title>Frazz for April 14, 2019 | GoComics.com - 2019-04-14</title>
 <link>http://www.gocomics.com/frazz/2019/04/14</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/fda20df023a101378847005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2019/04/13">
-<title>Frazz for April 13, 2019 | GoComics.com - 2019-04-13</title>
-<link>http://www.gocomics.com/frazz/2019/04/13</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5bba4310379901378f67005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
