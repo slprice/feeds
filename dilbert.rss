@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-16" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-22">
+<title>Dilbert - Think Of You As Family - Monday April 22, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-22</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/2f49485036d001378f10005056a9545d&#x22; title=&#x22;Think Of You As Family - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-21">
 <title>Dilbert - Never Ask About The Sigh - Sunday April 21, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-21</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Old Time Chair - Tuesday April 16, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-16</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/77df5960315101378d0d005056a9545d&#x22; title=&#x22;Old Time Chair - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-15">
-<title>Dilbert - Potluck Celebration - Monday April 15, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-15</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/dc33aff0315201378d0e005056a9545d&#x22; title=&#x22;Potluck Celebration - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
