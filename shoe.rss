@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/04/17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2019/04/24">
+<title>Shoe for April 24, 2019 | GoComics.com - 2019-04-24</title>
+<link>http://www.gocomics.com/shoe/2019/04/24</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f5f686f042a90137937e005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2019/04/23">
 <title>Shoe for April 23, 2019 | GoComics.com - 2019-04-23</title>
 <link>http://www.gocomics.com/shoe/2019/04/23</link>
@@ -55,10 +60,5 @@
 <title>Shoe for April 18, 2019 | GoComics.com - 2019-04-18</title>
 <link>http://www.gocomics.com/shoe/2019/04/18</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/2b30b8903d2a0137916a005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2019/04/17">
-<title>Shoe for April 17, 2019 | GoComics.com - 2019-04-17</title>
-<link>http://www.gocomics.com/shoe/2019/04/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/2dda73a03d2a0137916a005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

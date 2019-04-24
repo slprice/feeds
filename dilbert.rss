@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-18" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-17" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-24">
+<title>Dilbert - Be More Like Alice - Wednesday April 24, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-24</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/3310f42036d001378f10005056a9545d&#x22; title=&#x22;Be More Like Alice - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-23">
 <title>Dilbert - Wally And The Management Track - Tuesday April 23, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-23</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Using Git - Thursday April 18, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-18</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/ddf1fa20315201378d0e005056a9545d&#x22; title=&#x22;Using Git - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-17">
-<title>Dilbert - Falling Off An Ergonomic Chair - Wednesday April 17, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-17</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/79ef7970315101378d0d005056a9545d&#x22; title=&#x22;Falling Off An Ergonomic Chair - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
