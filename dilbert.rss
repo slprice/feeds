@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-20" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-19" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-26">
+<title>Dilbert - Objective Reality - Friday April 26, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-26</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/36c96c3036d001378f10005056a9545d&#x22; title=&#x22;Objective Reality - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-25">
 <title>Dilbert - New Feature Added - Thursday April 25, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-25</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Slurps - Saturday April 20, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-20</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/dfc93f00315201378d0e005056a9545d&#x22; title=&#x22;Wally Slurps - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-19">
-<title>Dilbert - Complaints About Wally - Friday April 19, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-19</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/7bdb9bf0315101378d0d005056a9545d&#x22; title=&#x22;Complaints About Wally - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
