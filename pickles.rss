@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/04/20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2019/04/27">
+<title>Pickles for April 27, 2019 | GoComics.com - 2019-04-27</title>
+<link>http://www.gocomics.com/pickles/2019/04/27</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/2afb9c30389901378ffb005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2019/04/26">
 <title>Pickles for April 26, 2019 | GoComics.com - 2019-04-26</title>
 <link>http://www.gocomics.com/pickles/2019/04/26</link>
@@ -55,10 +60,5 @@
 <title>Pickles for April 21, 2019 | GoComics.com - 2019-04-21</title>
 <link>http://www.gocomics.com/pickles/2019/04/21</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/fa62d10029aa01378a83005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2019/04/20">
-<title>Pickles for April 20, 2019 | GoComics.com - 2019-04-20</title>
-<link>http://www.gocomics.com/pickles/2019/04/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/c9afc7c0348901378e8d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

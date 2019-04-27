@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-21" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-04-27">
+<title>Dilbert - Experts And Non Experts - Saturday April 27, 2019  </title>
+<link>http://dilbert.com/strip/2019-04-27</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/389f76b036d001378f10005056a9545d&#x22; title=&#x22;Experts And Non Experts - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-04-26">
 <title>Dilbert - Objective Reality - Friday April 26, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-26</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Never Ask About The Sigh - Sunday April 21, 2019  </title>
 <link>http://dilbert.com/strip/2019-04-21</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/9d749db021460137872a005056a9545d&#x22; title=&#x22;Never Ask About The Sigh - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-20">
-<title>Dilbert - Wally Slurps - Saturday April 20, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-20</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/dfc93f00315201378d0e005056a9545d&#x22; title=&#x22;Wally Slurps - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
