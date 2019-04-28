@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/04/21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2019/04/28">
+<title>Off the Mark for April 28, 2019 | GoComics.com - 2019-04-28</title>
+<link>http://www.gocomics.com/offthemark/2019/04/28</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/10b2be902ccd01378b71005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2019/04/27">
 <title>Off the Mark for April 27, 2019 | GoComics.com - 2019-04-27</title>
 <link>http://www.gocomics.com/offthemark/2019/04/27</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark for April 22, 2019 | GoComics.com - 2019-04-22</title>
 <link>http://www.gocomics.com/offthemark/2019/04/22</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/dad4f4c042040137933b005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2019/04/21">
-<title>Off the Mark for April 21, 2019 | GoComics.com - 2019-04-21</title>
-<link>http://www.gocomics.com/offthemark/2019/04/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/237ba1502816013789da005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
