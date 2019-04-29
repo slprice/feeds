@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/23" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pcandpixel/2019/04/22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pcandpixel/2019/04/29">
+<title>PC and Pixel for April 29, 2019 | GoComics.com - 2019-04-29</title>
+<link>http://www.gocomics.com/pcandpixel/2019/04/29</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/3203333047f701379541005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pcandpixel/2019/04/28">
 <title>PC and Pixel for April 28, 2019 | GoComics.com - 2019-04-28</title>
 <link>http://www.gocomics.com/pcandpixel/2019/04/28</link>
@@ -55,10 +60,5 @@
 <title>PC and Pixel for April 23, 2019 | GoComics.com - 2019-04-23</title>
 <link>http://www.gocomics.com/pcandpixel/2019/04/23</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/261ef0903dc2013791a6005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pcandpixel/2019/04/22">
-<title>PC and Pixel for April 22, 2019 | GoComics.com - 2019-04-22</title>
-<link>http://www.gocomics.com/pcandpixel/2019/04/22</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/4bd77a404734013794fe005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
