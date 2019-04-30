@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/30" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/24" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frank-and-ernest/2019/04/23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frank-and-ernest/2019/04/30">
+<title>Frank and Ernest for April 30, 2019 | GoComics.com - 2019-04-30</title>
+<link>http://www.gocomics.com/frank-and-ernest/2019/04/30</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/159fc3f044220137941d005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frank-and-ernest/2019/04/29">
 <title>Frank and Ernest for April 29, 2019 | GoComics.com - 2019-04-29</title>
 <link>http://www.gocomics.com/frank-and-ernest/2019/04/29</link>
@@ -55,10 +60,5 @@
 <title>Frank and Ernest for April 24, 2019 | GoComics.com - 2019-04-24</title>
 <link>http://www.gocomics.com/frank-and-ernest/2019/04/24</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/a5f276403ec701379236005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frank-and-ernest/2019/04/23">
-<title>Frank and Ernest for April 23, 2019 | GoComics.com - 2019-04-23</title>
-<link>http://www.gocomics.com/frank-and-ernest/2019/04/23</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/a42f10a03ec701379236005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
