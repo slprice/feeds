@@ -21,7 +21,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/04/29" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/04/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/04/27" />
-  <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/04/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/roseisrose/2019/04/25" />
  </rdf:Seq>
 </items>
@@ -50,11 +49,6 @@
 <title>Rose is Rose for April 27, 2019 | GoComics.com - 2019-04-27</title>
 <link>http://www.gocomics.com/roseisrose/2019/04/27</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/ec1d2aa03f6d01379276005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/roseisrose/2019/04/26">
-<title>Rose is Rose for April 26, 2019 | GoComics.com - 2019-04-26</title>
-<link>http://www.gocomics.com/roseisrose/2019/04/26</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/e9f89ec03f6d01379276005056a9545d" />]]></description>
 </item>
 <item rdf:about="http://www.gocomics.com/roseisrose/2019/04/25">
 <title>Rose is Rose for April 25, 2019 | GoComics.com - 2019-04-25</title>
