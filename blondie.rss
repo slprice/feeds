@@ -16,16 +16,21 @@
 <description>Blondie</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDNfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDJfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDFfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MzBfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjlfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWVfbnRiLjIwMTkwNDI4XzE1MzYucG5n" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjdfMTUzNi5naWY=" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjZfMTUzNi5wbmc=" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDNfMTUzNi5naWY=">
+<title>Blondie for Friday, May 03, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDNfMTUzNi5naWY=</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDNfMTUzNi5naWY="><img src="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDNfMTUzNi5naWY=" alt="Blondie" /><br />Blondie</a><br /><a href="http://comicskingdom.com/blondie/2019-05-03/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDJfMTUzNi5naWY=">
 <title>Blondie for Thursday, May 02, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA1L0Jsb25kaWUuMjAxOTA1MDJfMTUzNi5naWY=</link>
@@ -55,10 +60,5 @@
 <title>Blondie for Saturday, April 27, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjdfMTUzNi5naWY=</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjdfMTUzNi5naWY="><img src="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjdfMTUzNi5naWY=" alt="Blondie" /><br />Blondie</a><br /><a href="http://comicskingdom.com/blondie/2019-04-27/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjZfMTUzNi5wbmc=">
-<title>Blondie for Friday, April 26, 2019</title>
-<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjZfMTUzNi5wbmc=</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjZfMTUzNi5wbmc="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmxvbmRpZS8yMDE5LzA0L0Jsb25kaWUuMjAxOTA0MjZfMTUzNi5wbmc=" alt="Blondie" /><br />Blondie</a><br /><a href="http://comicskingdom.com/blondie/2019-04-26/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
