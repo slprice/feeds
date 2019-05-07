@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-05" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-01" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-04-30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-07">
+<title>Dilbert - Dogbert Narrates - Tuesday May 07, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-07</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/a7fee54047500137950d005056a9545d&#x22; title=&#x22;Dogbert Narrates - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-06">
 <title>Dilbert - Dilbert Hires A Narrator - Monday May 06, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-06</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Two Step Reorg - Wednesday May 01, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-01</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/7ea83ea0429501379371005056a9545d&#x22; title=&#x22;Two Step Reorg - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-04-30">
-<title>Dilbert - Welcome Baskets - Tuesday April 30, 2019  </title>
-<link>http://dilbert.com/strip/2019-04-30</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/7cd75c70429501379371005056a9545d&#x22; title=&#x22;Welcome Baskets - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
