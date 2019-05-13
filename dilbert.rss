@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-07" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-13">
+<title>Dilbert - Elbonian Cyber Threat Meeting - Monday May 13, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-13</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f46c5e204e6c013797bd005056a9545d&#x22; title=&#x22;Elbonian Cyber Threat Meeting - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-12">
 <title>Dilbert -  - Sunday May 12, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-12</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Dogbert Narrates - Tuesday May 07, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-07</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/a7fee54047500137950d005056a9545d&#x22; title=&#x22;Dogbert Narrates - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-06">
-<title>Dilbert - Dilbert Hires A Narrator - Monday May 06, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-06</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/a5fbba5047500137950d005056a9545d&#x22; title=&#x22;Dilbert Hires A Narrator - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>

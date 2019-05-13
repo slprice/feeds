@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/07" />
-  <rdf:li rdf:resource="http://www.gocomics.com/bc/2019/05/06" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/bc/2019/05/13">
+<title>B.C. for May 13, 2019 | GoComics.com - 2019-05-13</title>
+<link>http://www.gocomics.com/bc/2019/05/13</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/12d4b89052f801379935005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/bc/2019/05/12">
 <title>B.C. for May 12, 2019 | GoComics.com - 2019-05-12</title>
 <link>http://www.gocomics.com/bc/2019/05/12</link>
@@ -55,10 +60,5 @@
 <title>B.C. for May 07, 2019 | GoComics.com - 2019-05-07</title>
 <link>http://www.gocomics.com/bc/2019/05/07</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/9a5fbc304d170137972d005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/bc/2019/05/06">
-<title>B.C. for May 06, 2019 | GoComics.com - 2019-05-06</title>
-<link>http://www.gocomics.com/bc/2019/05/06</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/95e27bd04d170137972d005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
