@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-09" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-15">
+<title>Dilbert - Bad Denials - Wednesday May 15, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-15</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f975f5c04e6c013797bd005056a9545d&#x22; title=&#x22;Bad Denials - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-14">
 <title>Dilbert - Various Anonymous Sources - Tuesday May 14, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-14</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Keyboard Tapping - Thursday May 09, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-09</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/a9f2627047500137950d005056a9545d&#x22; title=&#x22;Keyboard Tapping - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-08">
-<title>Dilbert - Paying The Replacement More - Wednesday May 08, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-08</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/20562e60474f0137950c005056a9545d&#x22; title=&#x22;Paying The Replacement More - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
