@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-12" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-10" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-09" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-16">
+<title>Dilbert - Blinking Tell - Thursday May 16, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-16</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/fbf888304e6c013797bd005056a9545d&#x22; title=&#x22;Blinking Tell - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-15">
 <title>Dilbert - Bad Denials - Wednesday May 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-15</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bad Planning - Friday May 10, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-10</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/ac05a2e047500137950d005056a9545d&#x22; title=&#x22;Bad Planning - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-09">
-<title>Dilbert - Keyboard Tapping - Thursday May 09, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-09</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/a9f2627047500137950d005056a9545d&#x22; title=&#x22;Keyboard Tapping - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
