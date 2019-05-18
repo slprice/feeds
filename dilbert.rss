@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-15" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-14" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-13" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-12" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-11" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-18">
+<title>Dilbert - Saving Babies - Saturday May 18, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-18</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/00e343804e6d013797bd005056a9545d&#x22; title=&#x22;Saving Babies - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-17">
 <title>Dilbert - Seventeen Pieces Of Evidence - Friday May 17, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-17</link>
@@ -55,10 +60,5 @@
 <title>Dilbert -  - Sunday May 12, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-12</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/e1693440330d01378df4005056a9545d&#x22; title=&#x22; - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-11">
-<title>Dilbert - Twitch Gets You More Work - Saturday May 11, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-11</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/adde867047500137950d005056a9545d&#x22; title=&#x22;Twitch Gets You More Work - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
