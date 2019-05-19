@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/18" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/17" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/16" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/13" />
-  <rdf:li rdf:resource="http://www.gocomics.com/jumpstart/2019/05/12" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/jumpstart/2019/05/19">
+<title>JumpStart for May 19, 2019 | GoComics.com - 2019-05-19</title>
+<link>http://www.gocomics.com/jumpstart/2019/05/19</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/81ad20b0424701379357005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/jumpstart/2019/05/18">
 <title>JumpStart for May 18, 2019 | GoComics.com - 2019-05-18</title>
 <link>http://www.gocomics.com/jumpstart/2019/05/18</link>
@@ -55,10 +60,5 @@
 <title>JumpStart for May 13, 2019 | GoComics.com - 2019-05-13</title>
 <link>http://www.gocomics.com/jumpstart/2019/05/13</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/fdcecfc05242013798fa005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/jumpstart/2019/05/12">
-<title>JumpStart for May 12, 2019 | GoComics.com - 2019-05-12</title>
-<link>http://www.gocomics.com/jumpstart/2019/05/12</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/9da646503d900137919c005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
