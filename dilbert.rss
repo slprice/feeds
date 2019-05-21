@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-17" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-16" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-15" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-14" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-21">
+<title>Dilbert - Worthless Suggestions - Tuesday May 21, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-21</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/4e6c3db0531001379947005056a9545d&#x22; title=&#x22;Worthless Suggestions - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-20">
 <title>Dilbert - Boss Edits Dumb Parts - Monday May 20, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-20</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Bad Denials - Wednesday May 15, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-15</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/f975f5c04e6c013797bd005056a9545d&#x22; title=&#x22;Bad Denials - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-14">
-<title>Dilbert - Various Anonymous Sources - Tuesday May 14, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-14</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f6f280e04e6c013797bd005056a9545d&#x22; title=&#x22;Various Anonymous Sources - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
