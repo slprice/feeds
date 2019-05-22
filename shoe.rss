@@ -16,16 +16,18 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/21" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/19" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/17" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/16" />
-  <rdf:li rdf:resource="http://www.gocomics.com/shoe/2019/05/15" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/shoe/2019/05/22">
+<title>Shoe for May 22, 2019 | GoComics.com - 2019-05-22</title>
+<link>http://www.gocomics.com/shoe/2019/05/22</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/0c5598f058ab01379b2d005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/shoe/2019/05/21">
 <title>Shoe for May 21, 2019 | GoComics.com - 2019-05-21</title>
 <link>http://www.gocomics.com/shoe/2019/05/21</link>
@@ -40,25 +42,5 @@
 <title>Shoe for May 19, 2019 | GoComics.com - 2019-05-19</title>
 <link>http://www.gocomics.com/shoe/2019/05/19</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/c74349304da201379758005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2019/05/18">
-<title>Shoe for May 18, 2019 | GoComics.com - 2019-05-18</title>
-<link>http://www.gocomics.com/shoe/2019/05/18</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/b9789d20532a01379957005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2019/05/17">
-<title>Shoe for May 17, 2019 | GoComics.com - 2019-05-17</title>
-<link>http://www.gocomics.com/shoe/2019/05/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/acba22b0532a01379957005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2019/05/16">
-<title>Shoe for May 16, 2019 | GoComics.com - 2019-05-16</title>
-<link>http://www.gocomics.com/shoe/2019/05/16</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/af819d00532a01379957005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/shoe/2019/05/15">
-<title>Shoe for May 15, 2019 | GoComics.com - 2019-05-15</title>
-<link>http://www.gocomics.com/shoe/2019/05/15</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/bd17def0532a01379957005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
