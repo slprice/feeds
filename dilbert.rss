@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-22" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-21" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-20" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-19" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-18" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-17" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-16" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-23">
+<title>Dilbert - Your Quote Is High - Thursday May 23, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-23</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/35b66630531101379947005056a9545d&#x22; title=&#x22;Your Quote Is High - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-22">
 <title>Dilbert - Wally Has Best Excuse - Wednesday May 22, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-22</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Seventeen Pieces Of Evidence - Friday May 17, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-17</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/fe3cb2004e6c013797bd005056a9545d&#x22; title=&#x22;Seventeen Pieces Of Evidence - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-16">
-<title>Dilbert - Blinking Tell - Thursday May 16, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-16</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/fbf888304e6c013797bd005056a9545d&#x22; title=&#x22;Blinking Tell - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
