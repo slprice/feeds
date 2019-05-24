@@ -22,7 +22,6 @@
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/05/20" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/05/19" />
   <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/05/18" />
-  <rdf:li rdf:resource="http://www.gocomics.com/calvinandhobbes/2019/05/17" />
  </rdf:Seq>
 </items>
 </channel>
@@ -55,10 +54,5 @@
 <title>Calvin and Hobbes for May 18, 2019 | GoComics.com - 2019-05-18</title>
 <link>http://www.gocomics.com/calvinandhobbes/2019/05/18</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/a9979680278701378982005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/calvinandhobbes/2019/05/17">
-<title>Calvin and Hobbes for May 17, 2019 | GoComics.com - 2019-05-17</title>
-<link>http://www.gocomics.com/calvinandhobbes/2019/05/17</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/a80ce910278701378982005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
