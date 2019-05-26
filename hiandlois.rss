@@ -16,16 +16,21 @@
 <description>Hi and Lois</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MjZfMTUzNi5wbmc=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjVfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjRfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjNfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjJfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjFfMTUzNi5naWY=" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjBfMTUzNi5naWY=" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MTlfMTUzNi5wbmc=" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MjZfMTUzNi5wbmc=">
+<title>Hi and Lois for Sunday, May 26, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MjZfMTUzNi5wbmc=</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MjZfMTUzNi5wbmc="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MjZfMTUzNi5wbmc=" alt="Hi and Lois" /><br />Hi and Lois</a><br /><a href="http://comicskingdom.com/hi-and-lois/2019-05-26/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjVfMTUzNi5naWY=">
 <title>Hi and Lois for Saturday, May 25, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjVfMTUzNi5naWY=</link>
@@ -55,10 +60,5 @@
 <title>Hi and Lois for Monday, May 20, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjBfMTUzNi5naWY=</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjBfMTUzNi5naWY="><img src="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXMuMjAxOTA1MjBfMTUzNi5naWY=" alt="Hi and Lois" /><br />Hi and Lois</a><br /><a href="http://comicskingdom.com/hi-and-lois/2019-05-20/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MTlfMTUzNi5wbmc=">
-<title>Hi and Lois for Sunday, May 19, 2019</title>
-<link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MTlfMTUzNi5wbmc=</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MTlfMTUzNi5wbmc="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=SGlBbmRMb2lzLzIwMTkvMDUvSGlfYW5kX0xvaXNfaHMuMjAxOTA1MTlfMTUzNi5wbmc=" alt="Hi and Lois" /><br />Hi and Lois</a><br /><a href="http://comicskingdom.com/hi-and-lois/2019-05-19/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
