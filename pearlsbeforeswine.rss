@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/22" />
   <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/21" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pearlsbeforeswine/2019/05/20" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2019/05/27">
+<title>Pearls Before Swine for May 27, 2019 | GoComics.com - 2019-05-27</title>
+<link>http://www.gocomics.com/pearlsbeforeswine/2019/05/27</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/c654dbe05e0501379cff005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2019/05/26">
 <title>Pearls Before Swine for May 26, 2019 | GoComics.com - 2019-05-26</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2019/05/26</link>
@@ -55,10 +60,5 @@
 <title>Pearls Before Swine for May 21, 2019 | GoComics.com - 2019-05-21</title>
 <link>http://www.gocomics.com/pearlsbeforeswine/2019/05/21</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/949d4540589601379b20005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pearlsbeforeswine/2019/05/20">
-<title>Pearls Before Swine for May 20, 2019 | GoComics.com - 2019-05-20</title>
-<link>http://www.gocomics.com/pearlsbeforeswine/2019/05/20</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/916cdc50589601379b20005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
