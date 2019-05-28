@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/28" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/27" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/26" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/25" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/24" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/23" />
   <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/22" />
-  <rdf:li rdf:resource="http://www.gocomics.com/frazz/2019/05/21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/frazz/2019/05/28">
+<title>Frazz for May 28, 2019 | GoComics.com - 2019-05-28</title>
+<link>http://www.gocomics.com/frazz/2019/05/28</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/9b40dfe05e0501379cff005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/frazz/2019/05/27">
 <title>Frazz for May 27, 2019 | GoComics.com - 2019-05-27</title>
 <link>http://www.gocomics.com/frazz/2019/05/27</link>
@@ -55,10 +60,5 @@
 <title>Frazz for May 22, 2019 | GoComics.com - 2019-05-22</title>
 <link>http://www.gocomics.com/frazz/2019/05/22</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/5e7ecfb0589301379b1f005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/frazz/2019/05/21">
-<title>Frazz for May 21, 2019 | GoComics.com - 2019-05-21</title>
-<link>http://www.gocomics.com/frazz/2019/05/21</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/5c0348e0589301379b1f005056a9545d" />]]></description>
 </item>
 </rdf:RDF>

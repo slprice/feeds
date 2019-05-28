@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-23" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-22" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-21" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-28">
+<title>Dilbert - Wally And His Priorities - Tuesday May 28, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-28</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/edc19480556f01379a54005056a9545d&#x22; title=&#x22;Wally And His Priorities - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-27">
 <title>Dilbert - Wally&#x27;s Reading Time - Monday May 27, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-27</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Wally Has Best Excuse - Wednesday May 22, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-22</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/179482d0531301379949005056a9545d&#x22; title=&#x22;Wally Has Best Excuse - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-21">
-<title>Dilbert - Worthless Suggestions - Tuesday May 21, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-21</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/4e6c3db0531001379947005056a9545d&#x22; title=&#x22;Worthless Suggestions - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
