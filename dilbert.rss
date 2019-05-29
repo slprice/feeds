@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-24" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-23" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-22" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-29">
+<title>Dilbert - Never Stop Dreaming - Wednesday May 29, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-29</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f0b62f30556f01379a54005056a9545d&#x22; title=&#x22;Never Stop Dreaming - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-28">
 <title>Dilbert - Wally And His Priorities - Tuesday May 28, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-28</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Your Quote Is High - Thursday May 23, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-23</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/35b66630531101379947005056a9545d&#x22; title=&#x22;Your Quote Is High - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-22">
-<title>Dilbert - Wally Has Best Excuse - Wednesday May 22, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-22</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/179482d0531301379949005056a9545d&#x22; title=&#x22;Wally Has Best Excuse - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
