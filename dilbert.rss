@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-29" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-28" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-27" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-26" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-25" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-24" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-23" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-05-30">
+<title>Dilbert - If You Can Dream - Thursday May 30, 2019  </title>
+<link>http://dilbert.com/strip/2019-05-30</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/f3681fc0556f01379a54005056a9545d&#x22; title=&#x22;If You Can Dream - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-05-29">
 <title>Dilbert - Never Stop Dreaming - Wednesday May 29, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-29</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Counting Morons - Friday May 24, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-24</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/38a1ade0531101379947005056a9545d&#x22; title=&#x22;Counting Morons - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-23">
-<title>Dilbert - Your Quote Is High - Thursday May 23, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-23</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/35b66630531101379947005056a9545d&#x22; title=&#x22;Your Quote Is High - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
