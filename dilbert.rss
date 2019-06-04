@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-04" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-03" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-02" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-01" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-31" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-30" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-29" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-05-28" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-06-04">
+<title>Dilbert - Dogbert&#x27;s Service Human - Tuesday June 04, 2019  </title>
+<link>http://dilbert.com/strip/2019-06-04</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/85a51ef05e0501379cff005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Service Human - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-06-03">
 <title>Dilbert - Touch Base With Carl - Monday June 03, 2019  </title>
 <link>http://dilbert.com/strip/2019-06-03</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Never Stop Dreaming - Wednesday May 29, 2019  </title>
 <link>http://dilbert.com/strip/2019-05-29</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/f0b62f30556f01379a54005056a9545d&#x22; title=&#x22;Never Stop Dreaming - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-05-28">
-<title>Dilbert - Wally And His Priorities - Tuesday May 28, 2019  </title>
-<link>http://dilbert.com/strip/2019-05-28</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/edc19480556f01379a54005056a9545d&#x22; title=&#x22;Wally And His Priorities - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
