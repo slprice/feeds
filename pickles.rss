@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/06/06" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/06/05" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/06/04" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/06/03" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/06/02" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/06/01" />
   <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/05/31" />
-  <rdf:li rdf:resource="http://www.gocomics.com/pickles/2019/05/30" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/pickles/2019/06/06">
+<title>Pickles for June 06, 2019 | GoComics.com - 2019-06-06</title>
+<link>http://www.gocomics.com/pickles/2019/06/06</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/8276f73058f201379b52005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/pickles/2019/06/05">
 <title>Pickles for June 05, 2019 | GoComics.com - 2019-06-05</title>
 <link>http://www.gocomics.com/pickles/2019/06/05</link>
@@ -55,10 +60,5 @@
 <title>Pickles for May 31, 2019 | GoComics.com - 2019-05-31</title>
 <link>http://www.gocomics.com/pickles/2019/05/31</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/f9b5331053d6013799a7005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/pickles/2019/05/30">
-<title>Pickles for May 30, 2019 | GoComics.com - 2019-05-30</title>
-<link>http://www.gocomics.com/pickles/2019/05/30</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/ee6b2c2053d6013799a7005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
