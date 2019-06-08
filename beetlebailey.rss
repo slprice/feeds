@@ -16,16 +16,21 @@
 <description>Beetle Bailey</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwOF8xNTM2LmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwN18xNTM2LmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwNl8xNTM2LmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwNV8xNTM2LmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwNF8xNTM2LmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwM18xNTM2LmdpZg==" />
   <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleV9ocy4yMDE5MDYwMl8xNTM2LnBuZw==" />
-  <rdf:li rdf:resource="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwMV8xNTM2LmdpZg==" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwOF8xNTM2LmdpZg==">
+<title>Beetle Bailey for Saturday, June 08, 2019</title>
+<link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwOF8xNTM2LmdpZg==</link>
+<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwOF8xNTM2LmdpZg=="><img src="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwOF8xNTM2LmdpZg==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-06-08/">Comics Kingdom</a>]]></description>
+</item>
 <item rdf:about="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwN18xNTM2LmdpZg==">
 <title>Beetle Bailey for Friday, June 07, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwN18xNTM2LmdpZg==</link>
@@ -55,10 +60,5 @@
 <title>Beetle Bailey for Sunday, June 02, 2019</title>
 <link>https://safr.kingfeatures.com/api/img.php?e=png&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleV9ocy4yMDE5MDYwMl8xNTM2LnBuZw==</link>
 <description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleV9ocy4yMDE5MDYwMl8xNTM2LnBuZw=="><img src="https://safr.kingfeatures.com/api/img.php?e=png&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleV9ocy4yMDE5MDYwMl8xNTM2LnBuZw==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-06-02/">Comics Kingdom</a>]]></description>
-</item>
-<item rdf:about="https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwMV8xNTM2LmdpZg==">
-<title>Beetle Bailey for Saturday, June 01, 2019</title>
-<link>https://safr.kingfeatures.com/api/img.php?e=gif&#x26;s=c&#x26;file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwMV8xNTM2LmdpZg==</link>
-<description><![CDATA[<a href="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwMV8xNTM2LmdpZg=="><img src="https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QmVldGxlQmFpbGV5LzIwMTkvMDYvQmVldGxlX0JhaWxleS4yMDE5MDYwMV8xNTM2LmdpZg==" alt="Beetle Bailey" /><br />Beetle Bailey</a><br /><a href="http://comicskingdom.com/beetle-bailey-1/2019-06-01/">Comics Kingdom</a>]]></description>
 </item>
 </rdf:RDF>
