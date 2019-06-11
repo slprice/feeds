@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-11" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-10" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-09" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-08" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-07" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-06" />
   <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-05" />
-  <rdf:li rdf:resource="http://dilbert.com/strip/2019-06-04" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://dilbert.com/strip/2019-06-11">
+<title>Dilbert - Leadership And Guessing - Tuesday June 11, 2019  </title>
+<link>http://dilbert.com/strip/2019-06-11</link>
+<description>&#x3C;img src=&#x22;//assets.amuniversal.com/d31ba5305fbe01379ddf005056a9545d&#x22; title=&#x22;Leadership And Guessing - Dilbert by Scott Adams&#x22; /&#x3E;</description>
+</item>
 <item rdf:about="http://dilbert.com/strip/2019-06-10">
 <title>Dilbert - Why Did You Not Tell Me Sooner - Monday June 10, 2019  </title>
 <link>http://dilbert.com/strip/2019-06-10</link>
@@ -55,10 +60,5 @@
 <title>Dilbert - Service Human And Pay - Wednesday June 05, 2019  </title>
 <link>http://dilbert.com/strip/2019-06-05</link>
 <description>&#x3C;img src=&#x22;//assets.amuniversal.com/883fc2605e0501379cff005056a9545d&#x22; title=&#x22;Service Human And Pay - Dilbert by Scott Adams&#x22; /&#x3E;</description>
-</item>
-<item rdf:about="http://dilbert.com/strip/2019-06-04">
-<title>Dilbert - Dogbert&#x27;s Service Human - Tuesday June 04, 2019  </title>
-<link>http://dilbert.com/strip/2019-06-04</link>
-<description>&#x3C;img src=&#x22;//assets.amuniversal.com/85a51ef05e0501379cff005056a9545d&#x22; title=&#x22;Dogbert&#x27;s Service Human - Dilbert by Scott Adams&#x22; /&#x3E;</description>
 </item>
 </rdf:RDF>
