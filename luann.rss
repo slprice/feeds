@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/09" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/08" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/07" />
   <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/06" />
-  <rdf:li rdf:resource="http://www.gocomics.com/luann/2019/06/05" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/luann/2019/06/12">
+<title>Luann for June 12, 2019 | GoComics.com - 2019-06-12</title>
+<link>http://www.gocomics.com/luann/2019/06/12</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/f34475d069090137a0d7005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/luann/2019/06/11">
 <title>Luann for June 11, 2019 | GoComics.com - 2019-06-11</title>
 <link>http://www.gocomics.com/luann/2019/06/11</link>
@@ -55,10 +60,5 @@
 <title>Luann for June 06, 2019 | GoComics.com - 2019-06-06</title>
 <link>http://www.gocomics.com/luann/2019/06/06</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/13ec9120638a01379ed5005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/luann/2019/06/05">
-<title>Luann for June 05, 2019 | GoComics.com - 2019-06-05</title>
-<link>http://www.gocomics.com/luann/2019/06/05</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/8d1772b0638801379ed5005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
