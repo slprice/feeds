@@ -16,16 +16,21 @@
 <description></description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/15" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/14" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/13" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/12" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/11" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/10" />
   <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/09" />
-  <rdf:li rdf:resource="http://www.gocomics.com/offthemark/2019/06/08" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.gocomics.com/offthemark/2019/06/15">
+<title>Off the Mark for June 15, 2019 | GoComics.com - 2019-06-15</title>
+<link>http://www.gocomics.com/offthemark/2019/06/15</link>
+<description><![CDATA[<img src="https://assets.amuniversal.com/fcd8504068850137a0ad005056a9545d" />]]></description>
+</item>
 <item rdf:about="http://www.gocomics.com/offthemark/2019/06/14">
 <title>Off the Mark for June 14, 2019 | GoComics.com - 2019-06-14</title>
 <link>http://www.gocomics.com/offthemark/2019/06/14</link>
@@ -55,10 +60,5 @@
 <title>Off the Mark for June 09, 2019 | GoComics.com - 2019-06-09</title>
 <link>http://www.gocomics.com/offthemark/2019/06/09</link>
 <description><![CDATA[<img src="https://assets.amuniversal.com/1365cff04eda013797fe005056a9545d" />]]></description>
-</item>
-<item rdf:about="http://www.gocomics.com/offthemark/2019/06/08">
-<title>Off the Mark for June 08, 2019 | GoComics.com - 2019-06-08</title>
-<link>http://www.gocomics.com/offthemark/2019/06/08</link>
-<description><![CDATA[<img src="https://assets.amuniversal.com/d35a04e063ce01379f07005056a9545d" />]]></description>
 </item>
 </rdf:RDF>
